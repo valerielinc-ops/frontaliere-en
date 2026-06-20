@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2929 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2931 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2907,7 +2907,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (75 pages)
+### Other Pages (77 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2940,6 +2940,7 @@
 - [A Block Of Restaurants A Comprehensible Reaction](https://frontaliereticino.ch/en/swiss-articles/a-block-of-restaurants-a-comprehensible-reaction)
 - [Ahv Financing 13th](https://frontaliereticino.ch/en/swiss-articles/ahv-financing-13th)
 - [Bce Interest Inflation 2023](https://frontaliereticino.ch/en/swiss-articles/bce-interest-inflation-2023)
+- [Black Work Salary Dumping 2025 Switzerland](https://frontaliereticino.ch/en/swiss-articles/black-work-salary-dumping-2025-switzerland)
 - [Cantonal Votes June Minimum Wage](https://frontaliereticino.ch/en/swiss-articles/cantonal-votes-june-minimum-wage)
 - [Cas Hut Reservation Fee Switzerland](https://frontaliereticino.ch/en/swiss-articles/cas-hut-reservation-fee-switzerland)
 - [Chiasso Border Switzerland](https://frontaliereticino.ch/en/swiss-articles/chiasso-border-switzerland)
@@ -2962,6 +2963,7 @@
 - [Swiss Border Worker Net Salary Calculation](https://frontaliereticino.ch/en/swiss-articles/swiss-border-worker-net-salary-calculation)
 - [Swiss Frontier Pension Avs Inps 2026 Family With Children](https://frontaliereticino.ch/en/swiss-articles/swiss-frontier-pension-avs-inps-2026-family-with-children)
 - [Swiss Health Insurance Abroad Choice](https://frontaliereticino.ch/en/swiss-articles/swiss-health-insurance-abroad-choice)
+- [Swiss Lpp Benefits Taxation](https://frontaliereticino.ch/en/swiss-articles/swiss-lpp-benefits-taxation)
 - [Swiss Parliament Pension Vat Debate](https://frontaliereticino.ch/en/swiss-articles/swiss-parliament-pension-vat-debate)
 - [Switzerland Italy Tax Treaty](https://frontaliereticino.ch/en/swiss-articles/switzerland-italy-tax-treaty)
 - [Trains Halted Stabio Gallarate Regional Incompetence](https://frontaliereticino.ch/en/swiss-articles/trains-halted-stabio-gallarate-regional-incompetence)
