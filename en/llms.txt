@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2927 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2929 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2907,7 +2907,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (73 pages)
+### Other Pages (75 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2947,6 +2947,7 @@
 - [Cross Border Workers Block Reduce Reimbursements Rome](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-block-reduce-reimbursements-rome)
 - [Cross Border Workers Final Yes Smartworking](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-final-yes-smartworking)
 - [Deduction From Rentals Contrary To Rome Agreements](https://frontaliereticino.ch/en/swiss-articles/deduction-from-rentals-contrary-to-rome-agreements)
+- [Dogana Gaggiolo Stabio](https://frontaliereticino.ch/en/swiss-articles/dogana-gaggiolo-stabio)
 - [Health Insurance Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-initiatives-2026)
 - [Health Tax Crossborder Unions Criticism](https://frontaliereticino.ch/en/swiss-articles/health-tax-crossborder-unions-criticism)
 - [Immigration Block Ticino](https://frontaliereticino.ch/en/swiss-articles/immigration-block-ticino)
@@ -2954,6 +2955,7 @@
 - [Minimum Wage Vd Yes But Canton Sixth](https://frontaliereticino.ch/en/swiss-articles/minimum-wage-vd-yes-but-canton-sixth)
 - [Naspi Unemployment Benefits Cross Border](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefits-cross-border)
 - [Neutralisation Estimates 2026 Protect Middle Class And Home](https://frontaliereticino.ch/en/swiss-articles/neutralisation-estimates-2026-protect-middle-class-and-home)
+- [Nuclear 13avs Wages Votes](https://frontaliereticino.ch/en/swiss-articles/nuclear-13avs-wages-votes)
 - [Parliament Avs Adoption Protection](https://frontaliereticino.ch/en/swiss-articles/parliament-avs-adoption-protection)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
 - [Swiss Airports Passengers Increase](https://frontaliereticino.ch/en/swiss-articles/swiss-airports-passengers-increase)
