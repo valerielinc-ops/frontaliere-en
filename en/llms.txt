@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2931 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2932 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2907,7 +2907,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (77 pages)
+### Other Pages (78 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2958,6 +2958,7 @@
 - [Neutralisation Estimates 2026 Protect Middle Class And Home](https://frontaliereticino.ch/en/swiss-articles/neutralisation-estimates-2026-protect-middle-class-and-home)
 - [Nuclear 13avs Wages Votes](https://frontaliereticino.ch/en/swiss-articles/nuclear-13avs-wages-votes)
 - [Parliament Avs Adoption Protection](https://frontaliereticino.ch/en/swiss-articles/parliament-avs-adoption-protection)
+- [Partial Funding 13th Pension](https://frontaliereticino.ch/en/swiss-articles/partial-funding-13th-pension)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
 - [Swiss Airports Passengers Increase](https://frontaliereticino.ch/en/swiss-articles/swiss-airports-passengers-increase)
 - [Swiss Border Worker Net Salary Calculation](https://frontaliereticino.ch/en/swiss-articles/swiss-border-worker-net-salary-calculation)
