@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2938 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2939 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2698 pages)
+### Blog Articles (2699 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1986,6 +1986,7 @@
 - [Province Of Varese Invests In Road And Green Maintenance With Cross Border Worke](https://frontaliereticino.ch/en/cross-border-articles/province-of-varese-invests-in-road-and-green-maintenance-with-cross-border-worke)
 - [Public Contracts Essential Services 2026](https://frontaliereticino.ch/en/cross-border-articles/public-contracts-essential-services-2026)
 - [Public Daycare Bellinzona Asp 2026](https://frontaliereticino.ch/en/cross-border-articles/public-daycare-bellinzona-asp-2026)
+- [Public Eye Wages On Ticino](https://frontaliereticino.ch/en/cross-border-articles/public-eye-wages-on-ticino)
 - [Public Nurseries Ticino Popular Initiative 2026](https://frontaliereticino.ch/en/cross-border-articles/public-nurseries-ticino-popular-initiative-2026)
 - [Public Transport Price Increase In Ticino](https://frontaliereticino.ch/en/cross-border-articles/public-transport-price-increase-in-ticino)
 - [Public Venues Safety Conference Ville Ponti](https://frontaliereticino.ch/en/cross-border-articles/public-venues-safety-conference-ville-ponti)
