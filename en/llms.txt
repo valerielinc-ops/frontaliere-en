@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2934 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2936 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2907,7 +2907,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (80 pages)
+### Other Pages (82 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2961,6 +2961,7 @@
 - [Nuclear 13avs Wages Votes](https://frontaliereticino.ch/en/swiss-articles/nuclear-13avs-wages-votes)
 - [Parliament Avs Adoption Protection](https://frontaliereticino.ch/en/swiss-articles/parliament-avs-adoption-protection)
 - [Partial Funding 13th Pension](https://frontaliereticino.ch/en/swiss-articles/partial-funding-13th-pension)
+- [Piero Marchesi Claudio Zali Independent List](https://frontaliereticino.ch/en/swiss-articles/piero-marchesi-claudio-zali-independent-list)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
 - [Swiss Airports Passengers Increase](https://frontaliereticino.ch/en/swiss-articles/swiss-airports-passengers-increase)
 - [Swiss Border Worker Net Salary Calculation](https://frontaliereticino.ch/en/swiss-articles/swiss-border-worker-net-salary-calculation)
@@ -2968,6 +2969,7 @@
 - [Swiss Health Insurance Abroad Choice](https://frontaliereticino.ch/en/swiss-articles/swiss-health-insurance-abroad-choice)
 - [Swiss Lpp Benefits Taxation](https://frontaliereticino.ch/en/swiss-articles/swiss-lpp-benefits-taxation)
 - [Swiss Parliament Pension Vat Debate](https://frontaliereticino.ch/en/swiss-articles/swiss-parliament-pension-vat-debate)
+- [Swiss Pension Abroad Requirements](https://frontaliereticino.ch/en/swiss-articles/swiss-pension-abroad-requirements)
 - [Switzerland Italy Tax Treaty](https://frontaliereticino.ch/en/swiss-articles/switzerland-italy-tax-treaty)
 - [Trains Halted Stabio Gallarate Regional Incompetence](https://frontaliereticino.ch/en/swiss-articles/trains-halted-stabio-gallarate-regional-incompetence)
 - [Treatment Fee Premiums Ticino](https://frontaliereticino.ch/en/swiss-articles/treatment-fee-premiums-ticino)
