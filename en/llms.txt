@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2942 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2943 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2910,7 +2910,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (85 pages)
+### Other Pages (86 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2952,6 +2952,7 @@
 - [Cross Border Workers Final Yes Smartworking](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-final-yes-smartworking)
 - [Deduction From Rentals Contrary To Rome Agreements](https://frontaliereticino.ch/en/swiss-articles/deduction-from-rentals-contrary-to-rome-agreements)
 - [Dogana Gaggiolo Stabio](https://frontaliereticino.ch/en/swiss-articles/dogana-gaggiolo-stabio)
+- [Economists Adjust Growth Projections 2026](https://frontaliereticino.ch/en/swiss-articles/economists-adjust-growth-projections-2026)
 - [Emigrating Switzerland Tax Aspects](https://frontaliereticino.ch/en/swiss-articles/emigrating-switzerland-tax-aspects)
 - [Frontalier Salaries Shopping Center](https://frontaliereticino.ch/en/swiss-articles/frontalier-salaries-shopping-center)
 - [Frontalieri Salary Data Ticino](https://frontaliereticino.ch/en/swiss-articles/frontalieri-salary-data-ticino)
