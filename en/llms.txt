@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2945 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2949 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2700 pages)
+### Blog Articles (2702 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -349,6 +349,7 @@
 - [Avs 2030 Ticino Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/avs-2030-ticino-cross-border-workers)
 - [Avs Compensation Fund Fraud Ticino](https://frontaliereticino.ch/en/cross-border-articles/avs-compensation-fund-fraud-ticino)
 - [Avs Digital Data Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/avs-digital-data-cross-border-workers)
+- [Avs Tomorrow At 11 Angelo Bonelli In Direct At Adnkronos](https://frontaliereticino.ch/en/cross-border-articles/avs-tomorrow-at-11-angelo-bonelli-in-direct-at-adnkronos)
 - [Awarded Classes Water Life 2026](https://frontaliereticino.ch/en/cross-border-articles/awarded-classes-water-life-2026)
 - [Azzate Koningsdag Dutch Consul 2026](https://frontaliereticino.ch/en/cross-border-articles/azzate-koningsdag-dutch-consul-2026)
 - [B Permit Integration Federal Court Ticino](https://frontaliereticino.ch/en/cross-border-articles/b-permit-integration-federal-court-ticino)
@@ -2098,6 +2099,7 @@
 - [School Dental Services Conflict Of Interest](https://frontaliereticino.ch/en/cross-border-articles/school-dental-services-conflict-of-interest)
 - [School Twinning Viganello Gaza 2026](https://frontaliereticino.ch/en/cross-border-articles/school-twinning-viganello-gaza-2026)
 - [School Wellbeing Bellinzona 2026](https://frontaliereticino.ch/en/cross-border-articles/school-wellbeing-bellinzona-2026)
+- [Scoiattolo Export Usa Made Italy](https://frontaliereticino.ch/en/cross-border-articles/scoiattolo-export-usa-made-italy)
 - [Scottish Whisky Tariffs Trump Charles Camilla](https://frontaliereticino.ch/en/cross-border-articles/scottish-whisky-tariffs-trump-charles-camilla)
 - [Seasonal Work Ticino Rules Rights Opportunities](https://frontaliereticino.ch/en/cross-border-articles/seasonal-work-ticino-rules-rights-opportunities)
 - [Seco Tariffs Secrets Washington](https://frontaliereticino.ch/en/cross-border-articles/seco-tariffs-secrets-washington)
@@ -2910,7 +2912,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (88 pages)
+### Other Pages (90 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2949,11 +2951,13 @@
 - [Chiasso Border Switzerland](https://frontaliereticino.ch/en/swiss-articles/chiasso-border-switzerland)
 - [Cross Border Unemployment Switzerland](https://frontaliereticino.ch/en/swiss-articles/cross-border-unemployment-switzerland)
 - [Cross Border Workers Block Reduce Reimbursements Rome](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-block-reduce-reimbursements-rome)
+- [Cross Border Workers Data Systemic Error](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-data-systemic-error)
 - [Cross Border Workers Final Yes Smartworking](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-final-yes-smartworking)
 - [Deduction From Rentals Contrary To Rome Agreements](https://frontaliereticino.ch/en/swiss-articles/deduction-from-rentals-contrary-to-rome-agreements)
 - [Dogana Gaggiolo Stabio](https://frontaliereticino.ch/en/swiss-articles/dogana-gaggiolo-stabio)
 - [Economists Adjust Growth Projections 2026](https://frontaliereticino.ch/en/swiss-articles/economists-adjust-growth-projections-2026)
 - [Emigrating Switzerland Tax Aspects](https://frontaliereticino.ch/en/swiss-articles/emigrating-switzerland-tax-aspects)
+- [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability)
 - [Frontalier Salaries Shopping Center](https://frontaliereticino.ch/en/swiss-articles/frontalier-salaries-shopping-center)
 - [Frontalieri Salary Data Ticino](https://frontaliereticino.ch/en/swiss-articles/frontalieri-salary-data-ticino)
 - [Health Insurance Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-initiatives-2026)
