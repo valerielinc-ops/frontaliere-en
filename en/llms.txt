@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2940 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2941 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2910,7 +2910,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (83 pages)
+### Other Pages (84 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2974,6 +2974,7 @@
 - [Swiss Lpp Benefits Taxation](https://frontaliereticino.ch/en/swiss-articles/swiss-lpp-benefits-taxation)
 - [Swiss Parliament Pension Vat Debate](https://frontaliereticino.ch/en/swiss-articles/swiss-parliament-pension-vat-debate)
 - [Swiss Pension Abroad Requirements](https://frontaliereticino.ch/en/swiss-articles/swiss-pension-abroad-requirements)
+- [Swiss Pensioners Abroad](https://frontaliereticino.ch/en/swiss-articles/swiss-pensioners-abroad)
 - [Switzerland Italy Tax Treaty](https://frontaliereticino.ch/en/swiss-articles/switzerland-italy-tax-treaty)
 - [Trains Halted Stabio Gallarate Regional Incompetence](https://frontaliereticino.ch/en/swiss-articles/trains-halted-stabio-gallarate-regional-incompetence)
 - [Treatment Fee Premiums Ticino](https://frontaliereticino.ch/en/swiss-articles/treatment-fee-premiums-ticino)
