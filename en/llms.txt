@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2949 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2951 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2912,7 +2912,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (90 pages)
+### Other Pages (92 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2980,10 +2980,12 @@
 - [Swiss Health Insurance Abroad Choice](https://frontaliereticino.ch/en/swiss-articles/swiss-health-insurance-abroad-choice)
 - [Swiss Lpp Benefits Taxation](https://frontaliereticino.ch/en/swiss-articles/swiss-lpp-benefits-taxation)
 - [Swiss Parliament Pension Vat Debate](https://frontaliereticino.ch/en/swiss-articles/swiss-parliament-pension-vat-debate)
+- [Swiss Parliament Struggles Avs Agreements](https://frontaliereticino.ch/en/swiss-articles/swiss-parliament-struggles-avs-agreements)
 - [Swiss Pension Abroad Requirements](https://frontaliereticino.ch/en/swiss-articles/swiss-pension-abroad-requirements)
 - [Swiss Pensioners Abroad](https://frontaliereticino.ch/en/swiss-articles/swiss-pensioners-abroad)
 - [Swiss Residency Options Italy 2026 Single](https://frontaliereticino.ch/en/swiss-articles/swiss-residency-options-italy-2026-single)
 - [Switzerland Italy Tax Treaty](https://frontaliereticino.ch/en/swiss-articles/switzerland-italy-tax-treaty)
+- [Tax Calculation Cross Border Workers Within 20km](https://frontaliereticino.ch/en/swiss-articles/tax-calculation-cross-border-workers-within-20km)
 - [Trains Halted Stabio Gallarate Regional Incompetence](https://frontaliereticino.ch/en/swiss-articles/trains-halted-stabio-gallarate-regional-incompetence)
 - [Treatment Fee Premiums Ticino](https://frontaliereticino.ch/en/swiss-articles/treatment-fee-premiums-ticino)
 - [Trump Tariffs 2026](https://frontaliereticino.ch/en/swiss-articles/trump-tariffs-2026)
