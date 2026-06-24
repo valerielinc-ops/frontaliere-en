@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2951 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2957 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2702 pages)
+### Blog Articles (2703 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1305,6 +1305,7 @@
 - [Heroin Car Chiasso Brogeda](https://frontaliereticino.ch/en/cross-border-articles/heroin-car-chiasso-brogeda)
 - [Hic Sunt Leones Exhibition Swiss Borders Frontalieri](https://frontaliereticino.ch/en/cross-border-articles/hic-sunt-leones-exhibition-swiss-borders-frontalieri)
 - [Hidden Tax Hike Property Values](https://frontaliereticino.ch/en/cross-border-articles/hidden-tax-hike-property-values)
+- [High Sensitivity Work Personal](https://frontaliereticino.ch/en/cross-border-articles/high-sensitivity-work-personal)
 - [Highest Wine Ticino Scudellate 2026](https://frontaliereticino.ch/en/cross-border-articles/highest-wine-ticino-scudellate-2026)
 - [Highway Closures Ticino Border 2026](https://frontaliereticino.ch/en/cross-border-articles/highway-closures-ticino-border-2026)
 - [Highway Works Ticino April 2026](https://frontaliereticino.ch/en/cross-border-articles/highway-works-ticino-april-2026)
@@ -2912,7 +2913,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (92 pages)
+### Other Pages (97 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2946,6 +2947,7 @@
 - [Ahv Financing 13th](https://frontaliereticino.ch/en/swiss-articles/ahv-financing-13th)
 - [Bce Interest Inflation 2023](https://frontaliereticino.ch/en/swiss-articles/bce-interest-inflation-2023)
 - [Black Work Salary Dumping 2025 Switzerland](https://frontaliereticino.ch/en/swiss-articles/black-work-salary-dumping-2025-switzerland)
+- [Calculating Pension Cross Border Workers Avs Italian](https://frontaliereticino.ch/en/swiss-articles/calculating-pension-cross-border-workers-avs-italian)
 - [Cantonal Votes June Minimum Wage](https://frontaliereticino.ch/en/swiss-articles/cantonal-votes-june-minimum-wage)
 - [Cas Hut Reservation Fee Switzerland](https://frontaliereticino.ch/en/swiss-articles/cas-hut-reservation-fee-switzerland)
 - [Chiasso Border Switzerland](https://frontaliereticino.ch/en/swiss-articles/chiasso-border-switzerland)
@@ -2953,12 +2955,14 @@
 - [Cross Border Workers Block Reduce Reimbursements Rome](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-block-reduce-reimbursements-rome)
 - [Cross Border Workers Data Systemic Error](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-data-systemic-error)
 - [Cross Border Workers Final Yes Smartworking](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-final-yes-smartworking)
+- [Cross Border Workers Taxation 2026 New Agreement](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-taxation-2026-new-agreement)
 - [Deduction From Rentals Contrary To Rome Agreements](https://frontaliereticino.ch/en/swiss-articles/deduction-from-rentals-contrary-to-rome-agreements)
 - [Dogana Gaggiolo Stabio](https://frontaliereticino.ch/en/swiss-articles/dogana-gaggiolo-stabio)
 - [Economists Adjust Growth Projections 2026](https://frontaliereticino.ch/en/swiss-articles/economists-adjust-growth-projections-2026)
 - [Emigrating Switzerland Tax Aspects](https://frontaliereticino.ch/en/swiss-articles/emigrating-switzerland-tax-aspects)
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability)
 - [Frontalier Salaries Shopping Center](https://frontaliereticino.ch/en/swiss-articles/frontalier-salaries-shopping-center)
+- [Frontaliere Choice Switzerland Work Salary Taxes Traffic Italy Comparison](https://frontaliereticino.ch/en/swiss-articles/frontaliere-choice-switzerland-work-salary-taxes-traffic-italy-comparison)
 - [Frontalieri Salary Data Ticino](https://frontaliereticino.ch/en/swiss-articles/frontalieri-salary-data-ticino)
 - [Health Insurance Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-initiatives-2026)
 - [Health Tax Cross Border Workers Delay Rome](https://frontaliereticino.ch/en/swiss-articles/health-tax-cross-border-workers-delay-rome)
@@ -2971,7 +2975,9 @@
 - [Nuclear 13avs Wages Votes](https://frontaliereticino.ch/en/swiss-articles/nuclear-13avs-wages-votes)
 - [Parliament Avs Adoption Protection](https://frontaliereticino.ch/en/swiss-articles/parliament-avs-adoption-protection)
 - [Partial Funding 13th Pension](https://frontaliereticino.ch/en/swiss-articles/partial-funding-13th-pension)
+- [Permit G Pros Cons Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/permit-g-pros-cons-cross-border-workers)
 - [Piero Marchesi Claudio Zali Independent List](https://frontaliereticino.ch/en/swiss-articles/piero-marchesi-claudio-zali-independent-list)
+- [Railway Traffic Suspended Germany Technical Fault](https://frontaliereticino.ch/en/swiss-articles/railway-traffic-suspended-germany-technical-fault)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
 - [Swiss Airports Passengers Increase](https://frontaliereticino.ch/en/swiss-articles/swiss-airports-passengers-increase)
 - [Swiss Bank Secrecy](https://frontaliereticino.ch/en/swiss-articles/swiss-bank-secrecy)
