@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2964 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2965 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2913,7 +2913,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (104 pages)
+### Other Pages (105 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2948,6 +2948,7 @@
 - [Bce Interest Inflation 2023](https://frontaliereticino.ch/en/swiss-articles/bce-interest-inflation-2023)
 - [Black Work Salary Dumping 2025 Switzerland](https://frontaliereticino.ch/en/swiss-articles/black-work-salary-dumping-2025-switzerland)
 - [Border Controls G7 Entry Bans](https://frontaliereticino.ch/en/swiss-articles/border-controls-g7-entry-bans)
+- [Calculating Lpp Pension Ubs](https://frontaliereticino.ch/en/swiss-articles/calculating-lpp-pension-ubs)
 - [Calculating Pension Cross Border Workers Avs Italian](https://frontaliereticino.ch/en/swiss-articles/calculating-pension-cross-border-workers-avs-italian)
 - [Cantonal Votes June Minimum Wage](https://frontaliereticino.ch/en/swiss-articles/cantonal-votes-june-minimum-wage)
 - [Cas Hut Reservation Fee Switzerland](https://frontaliereticino.ch/en/swiss-articles/cas-hut-reservation-fee-switzerland)
