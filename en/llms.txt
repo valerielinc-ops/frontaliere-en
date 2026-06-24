@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2965 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2966 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2913,7 +2913,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (105 pages)
+### Other Pages (106 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2958,6 +2958,7 @@
 - [Cross Border Workers Data Systemic Error](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-data-systemic-error)
 - [Cross Border Workers Final Yes Smartworking](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-final-yes-smartworking)
 - [Cross Border Workers Taxation 2026 New Agreement](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-taxation-2026-new-agreement)
+- [Data Tax Frontalieri Italy](https://frontaliereticino.ch/en/swiss-articles/data-tax-frontalieri-italy)
 - [Deduction From Rentals Contrary To Rome Agreements](https://frontaliereticino.ch/en/swiss-articles/deduction-from-rentals-contrary-to-rome-agreements)
 - [Dogana Gaggiolo Stabio](https://frontaliereticino.ch/en/swiss-articles/dogana-gaggiolo-stabio)
 - [Economists Adjust Growth Projections 2026](https://frontaliereticino.ch/en/swiss-articles/economists-adjust-growth-projections-2026)
