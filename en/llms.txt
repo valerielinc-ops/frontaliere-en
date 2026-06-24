@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2957 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2958 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2913,7 +2913,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (97 pages)
+### Other Pages (98 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2968,6 +2968,7 @@
 - [Health Tax Cross Border Workers Delay Rome](https://frontaliereticino.ch/en/swiss-articles/health-tax-cross-border-workers-delay-rome)
 - [Health Tax Crossborder Unions Criticism](https://frontaliereticino.ch/en/swiss-articles/health-tax-crossborder-unions-criticism)
 - [Immigration Block Ticino](https://frontaliereticino.ch/en/swiss-articles/immigration-block-ticino)
+- [Italy Switzerland Cross Border Workers Company Location](https://frontaliereticino.ch/en/swiss-articles/italy-switzerland-cross-border-workers-company-location)
 - [Living Abroad Avoid Avs Gap](https://frontaliereticino.ch/en/swiss-articles/living-abroad-avoid-avs-gap)
 - [Minimum Wage Vd Yes But Canton Sixth](https://frontaliereticino.ch/en/swiss-articles/minimum-wage-vd-yes-but-canton-sixth)
 - [Naspi Unemployment Benefits Cross Border](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefits-cross-border)
