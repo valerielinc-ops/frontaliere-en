@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2958 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2960 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2913,7 +2913,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (98 pages)
+### Other Pages (100 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2979,6 +2979,7 @@
 - [Permit G Pros Cons Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/permit-g-pros-cons-cross-border-workers)
 - [Piero Marchesi Claudio Zali Independent List](https://frontaliereticino.ch/en/swiss-articles/piero-marchesi-claudio-zali-independent-list)
 - [Railway Traffic Suspended Germany Technical Fault](https://frontaliereticino.ch/en/swiss-articles/railway-traffic-suspended-germany-technical-fault)
+- [Salary Data Exchange Italy](https://frontaliereticino.ch/en/swiss-articles/salary-data-exchange-italy)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
 - [Swiss Airports Passengers Increase](https://frontaliereticino.ch/en/swiss-articles/swiss-airports-passengers-increase)
 - [Swiss Bank Secrecy](https://frontaliereticino.ch/en/swiss-articles/swiss-bank-secrecy)
@@ -2996,6 +2997,7 @@
 - [Trains Halted Stabio Gallarate Regional Incompetence](https://frontaliereticino.ch/en/swiss-articles/trains-halted-stabio-gallarate-regional-incompetence)
 - [Treatment Fee Premiums Ticino](https://frontaliereticino.ch/en/swiss-articles/treatment-fee-premiums-ticino)
 - [Trump Tariffs 2026](https://frontaliereticino.ch/en/swiss-articles/trump-tariffs-2026)
+- [Ubs New Old Age Pension Model](https://frontaliereticino.ch/en/swiss-articles/ubs-new-old-age-pension-model)
 - [Unemployment Switzerland May 2026](https://frontaliereticino.ch/en/swiss-articles/unemployment-switzerland-may-2026)
 - [Withholding Tax Cross Border Ticino](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-cross-border-ticino)
 - [Withholding Tax Frontalieri Ticino](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-frontalieri-ticino)
