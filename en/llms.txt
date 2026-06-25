@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2974 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2975 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2704 pages)
+### Blog Articles (2705 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1033,6 +1033,7 @@
 - [Fedpol Mole Access To Investigation Files](https://frontaliereticino.ch/en/cross-border-articles/fedpol-mole-access-to-investigation-files)
 - [Fenealuil Labour Decree 2026](https://frontaliereticino.ch/en/cross-border-articles/fenealuil-labour-decree-2026)
 - [Fermato Brogeda Cocaine](https://frontaliereticino.ch/en/cross-border-articles/fermato-brogeda-cocaine)
+- [Fermentino Evening Market Giubiano](https://frontaliereticino.ch/en/cross-border-articles/fermentino-evening-market-giubiano)
 - [Ferrara M5s Beko Cassinetta Verification](https://frontaliereticino.ch/en/cross-border-articles/ferrara-m5s-beko-cassinetta-verification)
 - [Ferrero Ministry Agreement 2026](https://frontaliereticino.ch/en/cross-border-articles/ferrero-ministry-agreement-2026)
 - [Festival Of Wonder Laveno Luino 2026](https://frontaliereticino.ch/en/cross-border-articles/festival-of-wonder-laveno-luino-2026)
