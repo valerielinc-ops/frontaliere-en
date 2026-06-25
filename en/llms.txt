@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2980 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2981 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2916,7 +2916,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (117 pages)
+### Other Pages (118 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2956,6 +2956,7 @@
 - [Cantonal Votes June Minimum Wage](https://frontaliereticino.ch/en/swiss-articles/cantonal-votes-june-minimum-wage)
 - [Cas Hut Reservation Fee Switzerland](https://frontaliereticino.ch/en/swiss-articles/cas-hut-reservation-fee-switzerland)
 - [Chiasso Border Switzerland](https://frontaliereticino.ch/en/swiss-articles/chiasso-border-switzerland)
+- [Chiasso Brogeda Wait Times Today](https://frontaliereticino.ch/en/swiss-articles/chiasso-brogeda-wait-times-today)
 - [Cost Of Car For Commuter Ticino](https://frontaliereticino.ch/en/swiss-articles/cost-of-car-for-commuter-ticino)
 - [Cross Border Unemployment Switzerland](https://frontaliereticino.ch/en/swiss-articles/cross-border-unemployment-switzerland)
 - [Cross Border Workers Block Reduce Reimbursements Rome](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-block-reduce-reimbursements-rome)
