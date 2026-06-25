@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2978 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2979 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2916,7 +2916,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (115 pages)
+### Other Pages (116 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2990,6 +2990,7 @@
 - [Nuclear 13avs Wages Votes](https://frontaliereticino.ch/en/swiss-articles/nuclear-13avs-wages-votes)
 - [Parliament Avs Adoption Protection](https://frontaliereticino.ch/en/swiss-articles/parliament-avs-adoption-protection)
 - [Partial Funding 13th Pension](https://frontaliereticino.ch/en/swiss-articles/partial-funding-13th-pension)
+- [Pemsa Lugano Job Market](https://frontaliereticino.ch/en/swiss-articles/pemsa-lugano-job-market)
 - [Pension Calculation Cross Border Commuter](https://frontaliereticino.ch/en/swiss-articles/pension-calculation-cross-border-commuter)
 - [Permit G Pros Cons Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/permit-g-pros-cons-cross-border-workers)
 - [Piero Marchesi Claudio Zali Independent List](https://frontaliereticino.ch/en/swiss-articles/piero-marchesi-claudio-zali-independent-list)
