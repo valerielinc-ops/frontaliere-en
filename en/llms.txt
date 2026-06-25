@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2973 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2974 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2703 pages)
+### Blog Articles (2704 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -360,6 +360,7 @@
 - [Balerna Municipal Council Centenary](https://frontaliereticino.ch/en/cross-border-articles/balerna-municipal-council-centenary)
 - [Balerna Planning Zone 2026](https://frontaliereticino.ch/en/cross-border-articles/balerna-planning-zone-2026)
 - [Balerna Railway Garden 2026](https://frontaliereticino.ch/en/cross-border-articles/balerna-railway-garden-2026)
+- [Banca Etica Volunteers Sports Books Varesenews](https://frontaliereticino.ch/en/cross-border-articles/banca-etica-volunteers-sports-books-varesenews)
 - [Bancastato Walking Mendrisio 2026](https://frontaliereticino.ch/en/cross-border-articles/bancastato-walking-mendrisio-2026)
 - [Bandecchi Quarterfinals Chiasso 2026](https://frontaliereticino.ch/en/cross-border-articles/bandecchi-quarterfinals-chiasso-2026)
 - [Bank Customer Service Approved Failed](https://frontaliereticino.ch/en/cross-border-articles/bank-customer-service-approved-failed)
