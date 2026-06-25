@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2975 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2976 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2915,7 +2915,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (113 pages)
+### Other Pages (114 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2991,6 +2991,7 @@
 - [Pension Calculation Cross Border Commuter](https://frontaliereticino.ch/en/swiss-articles/pension-calculation-cross-border-commuter)
 - [Permit G Pros Cons Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/permit-g-pros-cons-cross-border-workers)
 - [Piero Marchesi Claudio Zali Independent List](https://frontaliereticino.ch/en/swiss-articles/piero-marchesi-claudio-zali-independent-list)
+- [Pillar 3a Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/pillar-3a-cross-border-workers)
 - [Railway Traffic Suspended Germany Technical Fault](https://frontaliereticino.ch/en/swiss-articles/railway-traffic-suspended-germany-technical-fault)
 - [Salary Data Exchange Italy](https://frontaliereticino.ch/en/swiss-articles/salary-data-exchange-italy)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
