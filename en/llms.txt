@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2977 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2978 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2916,7 +2916,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (114 pages)
+### Other Pages (115 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2978,6 +2978,7 @@
 - [Heat Impact On Rail Traffic](https://frontaliereticino.ch/en/swiss-articles/heat-impact-on-rail-traffic)
 - [Heat Impact Swiss Railways](https://frontaliereticino.ch/en/swiss-articles/heat-impact-swiss-railways)
 - [Immigration Block Ticino](https://frontaliereticino.ch/en/swiss-articles/immigration-block-ticino)
+- [Increase Housing Mobility Costs Switzerland](https://frontaliereticino.ch/en/swiss-articles/increase-housing-mobility-costs-switzerland)
 - [Increase Vat Army 2024](https://frontaliereticino.ch/en/swiss-articles/increase-vat-army-2024)
 - [Italy Switzerland Cross Border Workers Company Location](https://frontaliereticino.ch/en/swiss-articles/italy-switzerland-cross-border-workers-company-location)
 - [Iva Increase Government Decision Pending](https://frontaliereticino.ch/en/swiss-articles/iva-increase-government-decision-pending)
