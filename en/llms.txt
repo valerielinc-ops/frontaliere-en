@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2976 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2977 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2705 pages)
+### Blog Articles (2706 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1784,6 +1784,7 @@
 - [Nestle Bonus Lombardy Welfare Cross Border](https://frontaliereticino.ch/en/cross-border-articles/nestle-bonus-lombardy-welfare-cross-border)
 - [Netherlands Drug Ticino](https://frontaliereticino.ch/en/cross-border-articles/netherlands-drug-ticino)
 - [Neuchatel Bans Balloon Lantern Launches](https://frontaliereticino.ch/en/cross-border-articles/neuchatel-bans-balloon-lantern-launches)
+- [Neuchatel Health Insurance Young Adults](https://frontaliereticino.ch/en/cross-border-articles/neuchatel-health-insurance-young-adults)
 - [Neutalia 2025 Budget Growth Revenues](https://frontaliereticino.ch/en/cross-border-articles/neutalia-2025-budget-growth-revenues)
 - [Neutralization Estimation Values Ticino](https://frontaliereticino.ch/en/cross-border-articles/neutralization-estimation-values-ticino)
 - [Neutralization Of Property Valuation 2026 Ticino](https://frontaliereticino.ch/en/cross-border-articles/neutralization-of-property-valuation-2026-ticino)
