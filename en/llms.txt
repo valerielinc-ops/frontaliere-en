@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2983 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2984 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2917,7 +2917,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (119 pages)
+### Other Pages (120 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3007,6 +3007,7 @@
 - [Swiss Border Worker Net Salary Calculation](https://frontaliereticino.ch/en/swiss-articles/swiss-border-worker-net-salary-calculation)
 - [Swiss Frontier Pension Avs Inps 2026 Family With Children](https://frontaliereticino.ch/en/swiss-articles/swiss-frontier-pension-avs-inps-2026-family-with-children)
 - [Swiss Health Insurance Abroad Choice](https://frontaliereticino.ch/en/swiss-articles/swiss-health-insurance-abroad-choice)
+- [Swiss Italian Wage Data Exchange](https://frontaliereticino.ch/en/swiss-articles/swiss-italian-wage-data-exchange)
 - [Swiss Lpp Benefits Taxation](https://frontaliereticino.ch/en/swiss-articles/swiss-lpp-benefits-taxation)
 - [Swiss Parliament Pension Vat Debate](https://frontaliereticino.ch/en/swiss-articles/swiss-parliament-pension-vat-debate)
 - [Swiss Parliament Struggles Avs Agreements](https://frontaliereticino.ch/en/swiss-articles/swiss-parliament-struggles-avs-agreements)
