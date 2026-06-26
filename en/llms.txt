@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2982 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2983 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2706 pages)
+### Blog Articles (2707 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1236,6 +1236,7 @@
 - [Grisons Tightens Residence Permits After Mafia Infiltration](https://frontaliereticino.ch/en/cross-border-articles/grisons-tightens-residence-permits-after-mafia-infiltration)
 - [Grono Hydroelectric Plant Active](https://frontaliereticino.ch/en/cross-border-articles/grono-hydroelectric-plant-active)
 - [Guasto Tra Parabiago E Rho](https://frontaliereticino.ch/en/cross-border-articles/guasto-tra-parabiago-e-rho)
+- [Guess Stabio Merchandiser Job](https://frontaliereticino.ch/en/cross-border-articles/guess-stabio-merchandiser-job)
 - [Guide Swiss Social Contributions Payslip Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/guide-swiss-social-contributions-payslip-cross-border-worker)
 - [Guide Tax Return 730 Cross Border Workers Ticino](https://frontaliereticino.ch/en/cross-border-articles/guide-tax-return-730-cross-border-workers-ticino)
 - [Gulf Crisis Fuels Logistics Ticino](https://frontaliereticino.ch/en/cross-border-articles/gulf-crisis-fuels-logistics-ticino)
