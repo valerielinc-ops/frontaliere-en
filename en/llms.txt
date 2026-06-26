@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2991 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2992 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2918,7 +2918,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (126 pages)
+### Other Pages (127 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2997,6 +2997,7 @@
 - [Naspi Unemployment Benefits Cross Border](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefits-cross-border)
 - [Neutralisation Estimates 2026 Protect Middle Class And Home](https://frontaliereticino.ch/en/swiss-articles/neutralisation-estimates-2026-protect-middle-class-and-home)
 - [Nuclear 13avs Wages Votes](https://frontaliereticino.ch/en/swiss-articles/nuclear-13avs-wages-votes)
+- [Pandemic Compensation Swiss Businesses](https://frontaliereticino.ch/en/swiss-articles/pandemic-compensation-swiss-businesses)
 - [Parliament Avs Adoption Protection](https://frontaliereticino.ch/en/swiss-articles/parliament-avs-adoption-protection)
 - [Partial Funding 13th Pension](https://frontaliereticino.ch/en/swiss-articles/partial-funding-13th-pension)
 - [Pemsa Lugano Job Market](https://frontaliereticino.ch/en/swiss-articles/pemsa-lugano-job-market)
