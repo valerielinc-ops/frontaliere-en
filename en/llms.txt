@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2989 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2991 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2918,7 +2918,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (124 pages)
+### Other Pages (126 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2972,6 +2972,7 @@
 - [Economists Adjust Growth Projections 2026](https://frontaliereticino.ch/en/swiss-articles/economists-adjust-growth-projections-2026)
 - [Emigrating Switzerland Tax Aspects](https://frontaliereticino.ch/en/swiss-articles/emigrating-switzerland-tax-aspects)
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability)
+- [Fire Autostrada Piotta](https://frontaliereticino.ch/en/swiss-articles/fire-autostrada-piotta)
 - [Fribourg Hospital Job Nurse](https://frontaliereticino.ch/en/swiss-articles/fribourg-hospital-job-nurse)
 - [Frontalier Salaries Shopping Center](https://frontaliereticino.ch/en/swiss-articles/frontalier-salaries-shopping-center)
 - [Frontaliere Choice Switzerland Work Salary Taxes Traffic Italy Comparison](https://frontaliereticino.ch/en/swiss-articles/frontaliere-choice-switzerland-work-salary-taxes-traffic-italy-comparison)
@@ -3028,6 +3029,7 @@
 - [Trump Tariffs 2026](https://frontaliereticino.ch/en/swiss-articles/trump-tariffs-2026)
 - [Ubs New Old Age Pension Model](https://frontaliereticino.ch/en/swiss-articles/ubs-new-old-age-pension-model)
 - [Unemployment Switzerland May 2026](https://frontaliereticino.ch/en/swiss-articles/unemployment-switzerland-may-2026)
+- [Viareggio Train Disaster Convictions](https://frontaliereticino.ch/en/swiss-articles/viareggio-train-disaster-convictions)
 - [Withholding Tax Cross Border Ticino](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-cross-border-ticino)
 - [Withholding Tax Frontalieri Ticino](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-frontalieri-ticino)
 - [Zurich Vote Affordable Housing Health Insurance](https://frontaliereticino.ch/en/swiss-articles/zurich-vote-affordable-housing-health-insurance)
