@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2985 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2987 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2707 pages)
+### Blog Articles (2708 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1885,6 +1885,7 @@
 - [Openjobmetis Materia Castronno 2026](https://frontaliereticino.ch/en/cross-border-articles/openjobmetis-materia-castronno-2026)
 - [Orchestra Le Nove Lugano Bellinzona Concerts](https://frontaliereticino.ch/en/cross-border-articles/orchestra-le-nove-lugano-bellinzona-concerts)
 - [Organized Crime Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/organized-crime-switzerland-2026)
+- [Orientation Days Aslam Busto Arsizio](https://frontaliereticino.ch/en/cross-border-articles/orientation-days-aslam-busto-arsizio)
 - [Ossolano Frontalier Death Visp Autopsy](https://frontaliereticino.ch/en/cross-border-articles/ossolano-frontalier-death-visp-autopsy)
 - [Othermovie Lugano 2026 God Witness](https://frontaliereticino.ch/en/cross-border-articles/othermovie-lugano-2026-god-witness)
 - [Palacinema Locarno Urgent 2026](https://frontaliereticino.ch/en/cross-border-articles/palacinema-locarno-urgent-2026)
@@ -2917,7 +2918,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (121 pages)
+### Other Pages (122 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2975,6 +2976,7 @@
 - [Frontaliere Choice Switzerland Work Salary Taxes Traffic Italy Comparison](https://frontaliereticino.ch/en/swiss-articles/frontaliere-choice-switzerland-work-salary-taxes-traffic-italy-comparison)
 - [Frontalieri Salary Data Ticino](https://frontaliereticino.ch/en/swiss-articles/frontalieri-salary-data-ticino)
 - [Frontaliers Double Taxation Tax Credit](https://frontaliereticino.ch/en/swiss-articles/frontaliers-double-taxation-tax-credit)
+- [Giro Tre Paesi Road Closures 2026](https://frontaliereticino.ch/en/swiss-articles/giro-tre-paesi-road-closures-2026)
 - [Health Insurance Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-initiatives-2026)
 - [Health Insurance Neuchatel Young Adults](https://frontaliereticino.ch/en/swiss-articles/health-insurance-neuchatel-young-adults)
 - [Health Tax Cross Border Workers Delay Rome](https://frontaliereticino.ch/en/swiss-articles/health-tax-cross-border-workers-delay-rome)
