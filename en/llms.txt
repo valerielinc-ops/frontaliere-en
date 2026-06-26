@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2992 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2994 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2708 pages)
+### Blog Articles (2709 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -2652,6 +2652,7 @@
 - [Two Arrests Chiasso Brogeda Drug Smuggling 2024](https://frontaliereticino.ch/en/cross-border-articles/two-arrests-chiasso-brogeda-drug-smuggling-2024)
 - [Two Schools Two Worlds One Bond](https://frontaliereticino.ch/en/cross-border-articles/two-schools-two-worlds-one-bond)
 - [Two Ticinese Swiss Guards 2026](https://frontaliereticino.ch/en/cross-border-articles/two-ticinese-swiss-guards-2026)
+- [U Boldo Lucio Dalla Tribute](https://frontaliereticino.ch/en/cross-border-articles/u-boldo-lucio-dalla-tribute)
 - [Uboldo Roof Damaged Storm 2026](https://frontaliereticino.ch/en/cross-border-articles/uboldo-roof-damaged-storm-2026)
 - [Ubs Credit Suisse Integration Results 2026](https://frontaliereticino.ch/en/cross-border-articles/ubs-credit-suisse-integration-results-2026)
 - [Ubs Keller Sutter Lobbying 2026](https://frontaliereticino.ch/en/cross-border-articles/ubs-keller-sutter-lobbying-2026)
@@ -2918,7 +2919,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (127 pages)
+### Other Pages (128 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2957,6 +2958,7 @@
 - [Calculating Pension Cross Border Workers Avs Italian](https://frontaliereticino.ch/en/swiss-articles/calculating-pension-cross-border-workers-avs-italian)
 - [Cantonal Votes June Minimum Wage](https://frontaliereticino.ch/en/swiss-articles/cantonal-votes-june-minimum-wage)
 - [Cas Hut Reservation Fee Switzerland](https://frontaliereticino.ch/en/swiss-articles/cas-hut-reservation-fee-switzerland)
+- [Charles Iii Income Taxes 2026](https://frontaliereticino.ch/en/swiss-articles/charles-iii-income-taxes-2026)
 - [Chiasso Border Switzerland](https://frontaliereticino.ch/en/swiss-articles/chiasso-border-switzerland)
 - [Chiasso Brogeda Wait Times Today](https://frontaliereticino.ch/en/swiss-articles/chiasso-brogeda-wait-times-today)
 - [Cost Of Car For Commuter Ticino](https://frontaliereticino.ch/en/swiss-articles/cost-of-car-for-commuter-ticino)
