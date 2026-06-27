@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3009 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3010 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2922,7 +2922,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (140 pages)
+### Other Pages (141 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2969,6 +2969,7 @@
 - [Cross Border Eur Chf Exchange Guide](https://frontaliereticino.ch/en/swiss-articles/cross-border-eur-chf-exchange-guide)
 - [Cross Border Euro Franc Exchange](https://frontaliereticino.ch/en/swiss-articles/cross-border-euro-franc-exchange)
 - [Cross Border Pension Errors 2026](https://frontaliereticino.ch/en/swiss-articles/cross-border-pension-errors-2026)
+- [Cross Border Taxation 2026 New Agreement](https://frontaliereticino.ch/en/swiss-articles/cross-border-taxation-2026-new-agreement)
 - [Cross Border Unemployment Switzerland](https://frontaliereticino.ch/en/swiss-articles/cross-border-unemployment-switzerland)
 - [Cross Border Workers Block Reduce Reimbursements Rome](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-block-reduce-reimbursements-rome)
 - [Cross Border Workers Data Systemic Error](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-data-systemic-error)
