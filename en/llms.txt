@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2994 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2995 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2919,7 +2919,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (128 pages)
+### Other Pages (129 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2975,6 +2975,7 @@
 - [Emigrating Switzerland Tax Aspects](https://frontaliereticino.ch/en/swiss-articles/emigrating-switzerland-tax-aspects)
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability)
 - [Fire Autostrada Piotta](https://frontaliereticino.ch/en/swiss-articles/fire-autostrada-piotta)
+- [Fiscal Reimbursements For Frontier Workers How They Work](https://frontaliereticino.ch/en/swiss-articles/fiscal-reimbursements-for-frontier-workers-how-they-work)
 - [Fribourg Hospital Job Nurse](https://frontaliereticino.ch/en/swiss-articles/fribourg-hospital-job-nurse)
 - [Frontalier Salaries Shopping Center](https://frontaliereticino.ch/en/swiss-articles/frontalier-salaries-shopping-center)
 - [Frontaliere Choice Switzerland Work Salary Taxes Traffic Italy Comparison](https://frontaliereticino.ch/en/swiss-articles/frontaliere-choice-switzerland-work-salary-taxes-traffic-italy-comparison)
