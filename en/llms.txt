@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2999 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3000 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2922,7 +2922,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (130 pages)
+### Other Pages (131 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3013,6 +3013,7 @@
 - [Pillar 3a Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/pillar-3a-cross-border-workers)
 - [Railway Traffic Suspended Germany Technical Fault](https://frontaliereticino.ch/en/swiss-articles/railway-traffic-suspended-germany-technical-fault)
 - [Salary Data Exchange Italy](https://frontaliereticino.ch/en/swiss-articles/salary-data-exchange-italy)
+- [Second Pillar Lpp Cross Border Withdrawal](https://frontaliereticino.ch/en/swiss-articles/second-pillar-lpp-cross-border-withdrawal)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
 - [Swiss Airports Passengers Increase](https://frontaliereticino.ch/en/swiss-articles/swiss-airports-passengers-increase)
 - [Swiss Bank Secrecy](https://frontaliereticino.ch/en/swiss-articles/swiss-bank-secrecy)
