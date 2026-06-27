@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 2995 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 2999 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2709 pages)
+### Blog Articles (2712 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -531,6 +531,7 @@
 - [Caregivers Ticino 2029](https://frontaliereticino.ch/en/cross-border-articles/caregivers-ticino-2029)
 - [Carfree Sundays Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/carfree-sundays-ticino-2026)
 - [Cargo Chiasso Work Skills](https://frontaliereticino.ch/en/cross-border-articles/cargo-chiasso-work-skills)
+- [Cargotrailers Acquisition Lonate Pozzolo](https://frontaliereticino.ch/en/cross-border-articles/cargotrailers-acquisition-lonate-pozzolo)
 - [Carnago Forza Italia Commuting](https://frontaliereticino.ch/en/cross-border-articles/carnago-forza-italia-commuting)
 - [Carnival 2026 Lugano Creative Workshops For Cross Border Workers Children](https://frontaliereticino.ch/en/cross-border-articles/carnival-2026-lugano-creative-workshops-for-cross-border-workers-children)
 - [Carnival Holidays Children Ticino Workshops Museo Erba Lugano](https://frontaliereticino.ch/en/cross-border-articles/carnival-holidays-children-ticino-workshops-museo-erba-lugano)
@@ -824,6 +825,7 @@
 - [Cybercrimepolice Ticino Italian 2026](https://frontaliereticino.ch/en/cross-border-articles/cybercrimepolice-ticino-italian-2026)
 - [Cyclopedestrian Path Bodio Giornico 2026](https://frontaliereticino.ch/en/cross-border-articles/cyclopedestrian-path-bodio-giornico-2026)
 - [Dagatra Meeting Migrants Chiasso](https://frontaliereticino.ch/en/cross-border-articles/dagatra-meeting-migrants-chiasso)
+- [Daily Mobility Varese Survey Data](https://frontaliereticino.ch/en/cross-border-articles/daily-mobility-varese-survey-data)
 - [Damages Repaired Centovallina](https://frontaliereticino.ch/en/cross-border-articles/damages-repaired-centovallina)
 - [Dance Festival Ticino 2026 Performances](https://frontaliereticino.ch/en/cross-border-articles/dance-festival-ticino-2026-performances)
 - [Dancing Shoes Albertoni Cinelli Collaboration](https://frontaliereticino.ch/en/cross-border-articles/dancing-shoes-albertoni-cinelli-collaboration)
@@ -1400,6 +1402,7 @@
 - [Interim Agencies Lugano Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/interim-agencies-lugano-ticino-cross-border)
 - [Internal Cantonale Ascona Porto Ronco Work Discomfort](https://frontaliereticino.ch/en/cross-border-articles/internal-cantonale-ascona-porto-ronco-work-discomfort)
 - [International Paddling Grisons Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/international-paddling-grisons-ticino-2026)
+- [International Red Cross Exchange Varese](https://frontaliereticino.ch/en/cross-border-articles/international-red-cross-exchange-varese)
 - [Internationals Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/internationals-ticino-2026)
 - [Interroll Acquires Royal Apollo Group](https://frontaliereticino.ch/en/cross-border-articles/interroll-acquires-royal-apollo-group)
 - [Intesa Sanpaolo Awards 10 Winning Companies](https://frontaliereticino.ch/en/cross-border-articles/intesa-sanpaolo-awards-10-winning-companies)
@@ -2919,7 +2922,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (129 pages)
+### Other Pages (130 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3028,6 +3031,7 @@
 - [Tax Return Frontalieri 730 Guide](https://frontaliereticino.ch/en/swiss-articles/tax-return-frontalieri-730-guide)
 - [Taxation Cross Border Workers Beyond 20km](https://frontaliereticino.ch/en/swiss-articles/taxation-cross-border-workers-beyond-20km)
 - [Telework Frontier Worker Days 2026](https://frontaliereticino.ch/en/swiss-articles/telework-frontier-worker-days-2026)
+- [Ticino Salary Gap Frontalieri](https://frontaliereticino.ch/en/swiss-articles/ticino-salary-gap-frontalieri)
 - [Trains Halted Stabio Gallarate Regional Incompetence](https://frontaliereticino.ch/en/swiss-articles/trains-halted-stabio-gallarate-regional-incompetence)
 - [Treatment Fee Premiums Ticino](https://frontaliereticino.ch/en/swiss-articles/treatment-fee-premiums-ticino)
 - [Trump Tariffs 2026](https://frontaliereticino.ch/en/swiss-articles/trump-tariffs-2026)
