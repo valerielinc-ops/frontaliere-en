@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3006 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3007 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2922,7 +2922,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (137 pages)
+### Other Pages (138 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2980,6 +2980,7 @@
 - [Economists Adjust Growth Projections 2026](https://frontaliereticino.ch/en/swiss-articles/economists-adjust-growth-projections-2026)
 - [Emigrating Switzerland Tax Aspects](https://frontaliereticino.ch/en/swiss-articles/emigrating-switzerland-tax-aspects)
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability)
+- [Family Health Insurance Cross Border](https://frontaliereticino.ch/en/swiss-articles/family-health-insurance-cross-border)
 - [Fire Autostrada Piotta](https://frontaliereticino.ch/en/swiss-articles/fire-autostrada-piotta)
 - [Fiscal Reimbursements For Frontier Workers How They Work](https://frontaliereticino.ch/en/swiss-articles/fiscal-reimbursements-for-frontier-workers-how-they-work)
 - [Forfeited Tax E Commerce](https://frontaliereticino.ch/en/swiss-articles/forfeited-tax-e-commerce)
