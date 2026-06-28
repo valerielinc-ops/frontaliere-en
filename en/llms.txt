@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3018 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3019 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2923,7 +2923,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (148 pages)
+### Other Pages (149 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3059,6 +3059,7 @@
 - [Withholding Tax Cross Border Ticino](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-cross-border-ticino)
 - [Withholding Tax Frontalieri Ticino](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-frontalieri-ticino)
 - [Withholding Tax Ticino Calculator](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-ticino-calculator)
+- [Working As Childhood Educator Ticino Salary Requirements](https://frontaliereticino.ch/en/swiss-articles/working-as-childhood-educator-ticino-salary-requirements)
 - [Zurich Vote Affordable Housing Health Insurance](https://frontaliereticino.ch/en/swiss-articles/zurich-vote-affordable-housing-health-insurance)
 - [Swiss Employment Contracts](https://frontaliereticino.ch/en/swiss-employment-contracts)
 - [Swiss Taxes Cross Border Workers](https://frontaliereticino.ch/en/swiss-taxes-cross-border-workers)
