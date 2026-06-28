@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3017 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3018 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2712 pages)
+### Blog Articles (2713 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1300,6 +1300,7 @@
 - [Healthcare Professions Lamal Ticino Canton](https://frontaliereticino.ch/en/cross-border-articles/healthcare-professions-lamal-ticino-canton)
 - [Heart Trip Soncino Saronno Point](https://frontaliereticino.ch/en/cross-border-articles/heart-trip-soncino-saronno-point)
 - [Heating Home Ticino Energy Regulations Savings](https://frontaliereticino.ch/en/cross-border-articles/heating-home-ticino-energy-regulations-savings)
+- [Heatwave Swiss Ticino](https://frontaliereticino.ch/en/cross-border-articles/heatwave-swiss-ticino)
 - [Heavy Traffic Autostrada A2 Ticino](https://frontaliereticino.ch/en/cross-border-articles/heavy-traffic-autostrada-a2-ticino)
 - [Heavy Traffic Tax Electric Trucks](https://frontaliereticino.ch/en/cross-border-articles/heavy-traffic-tax-electric-trucks)
 - [Heavy Traffic Tax Gaps Border Controls](https://frontaliereticino.ch/en/cross-border-articles/heavy-traffic-tax-gaps-border-controls)
