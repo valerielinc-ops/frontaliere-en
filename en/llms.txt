@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3013 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3014 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2922,7 +2922,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (144 pages)
+### Other Pages (145 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2993,6 +2993,7 @@
 - [Frontalieri Salary Data Ticino](https://frontaliereticino.ch/en/swiss-articles/frontalieri-salary-data-ticino)
 - [Frontaliers Double Taxation Tax Credit](https://frontaliereticino.ch/en/swiss-articles/frontaliers-double-taxation-tax-credit)
 - [Frontier Worker Pension Avs Inps 2026](https://frontaliereticino.ch/en/swiss-articles/frontier-worker-pension-avs-inps-2026)
+- [G Permit Application Step By Step](https://frontaliereticino.ch/en/swiss-articles/g-permit-application-step-by-step)
 - [Germany Rail Traffic Resumption](https://frontaliereticino.ch/en/swiss-articles/germany-rail-traffic-resumption)
 - [Giro Tre Paesi Road Closures 2026](https://frontaliereticino.ch/en/swiss-articles/giro-tre-paesi-road-closures-2026)
 - [Health Insurance Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-initiatives-2026)
