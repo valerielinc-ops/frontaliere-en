@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3014 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3015 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2922,7 +2922,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (145 pages)
+### Other Pages (146 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3046,6 +3046,7 @@
 - [Telework Frontier Worker Days 2026](https://frontaliereticino.ch/en/swiss-articles/telework-frontier-worker-days-2026)
 - [Third Pillar Benefits Functions](https://frontaliereticino.ch/en/swiss-articles/third-pillar-benefits-functions)
 - [Ticino Salary Gap Frontalieri](https://frontaliereticino.ch/en/swiss-articles/ticino-salary-gap-frontalieri)
+- [Ticino Withholding Tax Calculator](https://frontaliereticino.ch/en/swiss-articles/ticino-withholding-tax-calculator)
 - [Trains Halted Stabio Gallarate Regional Incompetence](https://frontaliereticino.ch/en/swiss-articles/trains-halted-stabio-gallarate-regional-incompetence)
 - [Treatment Fee Premiums Ticino](https://frontaliereticino.ch/en/swiss-articles/treatment-fee-premiums-ticino)
 - [Trump Tariffs 2026](https://frontaliereticino.ch/en/swiss-articles/trump-tariffs-2026)
