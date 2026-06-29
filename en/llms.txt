@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3038 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3040 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -1590,6 +1590,7 @@
 - [Lugano Football Frontalieri 2026](https://frontaliereticino.ch/en/cross-border-articles/lugano-football-frontalieri-2026)
 - [Lugano Hockey House Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/lugano-hockey-house-cross-border-workers)
 - [Lugano Home Invasion 2024](https://frontaliereticino.ch/en/cross-border-articles/lugano-home-invasion-2024)
+- [Lugano Italy Gas Price](https://frontaliereticino.ch/en/cross-border-articles/lugano-italy-gas-price)
 - [Lugano Park Ride Bus Subsidies 2026](https://frontaliereticino.ch/en/cross-border-articles/lugano-park-ride-bus-subsidies-2026)
 - [Lugano Passteggia Registrations Open](https://frontaliereticino.ch/en/cross-border-articles/lugano-passteggia-registrations-open)
 - [Lugano Pensilina Disturbances Quick Intervention](https://frontaliereticino.ch/en/cross-border-articles/lugano-pensilina-disturbances-quick-intervention)
@@ -2101,6 +2102,7 @@
 - [San Gottardo Code Good Friday](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-code-good-friday)
 - [San Gottardo Pass Reopens Ascension](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-pass-reopens-ascension)
 - [San Gottardo Second Tube Diaframma Fallen](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-second-tube-diaframma-fallen)
+- [San Gottardo Traffic 2026](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-traffic-2026)
 - [San Gottardo Traffic Easter Monday 2026](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-traffic-easter-monday-2026)
 - [San Gottardo Tunnel Queue](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-tunnel-queue)
 - [San Gottardo Wind Farm Expansion](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-wind-farm-expansion)
@@ -2169,9 +2171,6 @@
 - [Slow Return A2 Frontalier Workers](https://frontaliereticino.ch/en/cross-border-articles/slow-return-a2-frontalier-workers)
 - [Slowup Road Transport Limitations 2026 Bellinzona](https://frontaliereticino.ch/en/cross-border-articles/slowup-road-transport-limitations-2026-bellinzona)
 - [Slowup Ticino 2026 Car Free Day](https://frontaliereticino.ch/en/cross-border-articles/slowup-ticino-2026-car-free-day)
-- [Slug English](https://frontaliereticino.ch/en/cross-border-articles/slug-english)
-- [Slug Lugano Italy Gas Price](https://frontaliereticino.ch/en/cross-border-articles/slug-lugano-italy-gas-price)
-- [Slug San Gottardo 2026](https://frontaliereticino.ch/en/cross-border-articles/slug-san-gottardo-2026)
 - [Smart Glasses Ticino Innovation](https://frontaliereticino.ch/en/cross-border-articles/smart-glasses-ticino-innovation)
 - [Smart Working Cross Border Rules](https://frontaliereticino.ch/en/cross-border-articles/smart-working-cross-border-rules)
 - [Smartphone Ban School Ticino](https://frontaliereticino.ch/en/cross-border-articles/smartphone-ban-school-ticino)
@@ -2517,6 +2516,7 @@
 - [Ticino Frontalier Pokerce Reduced](https://frontaliereticino.ch/en/cross-border-articles/ticino-frontalier-pokerce-reduced)
 - [Ticino Frontalier Shopping Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-frontalier-shopping-switzerland-2026)
 - [Ticino Frontalieri Feel Like Criminals](https://frontaliereticino.ch/en/cross-border-articles/ticino-frontalieri-feel-like-criminals)
+- [Ticino Fuel Prices 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-fuel-prices-2026)
 - [Ticino Fuel Prices Purchasing Power](https://frontaliereticino.ch/en/cross-border-articles/ticino-fuel-prices-purchasing-power)
 - [Ticino Fuel Prices Quadri Calls For Tax Reduction](https://frontaliereticino.ch/en/cross-border-articles/ticino-fuel-prices-quadri-calls-for-tax-reduction)
 - [Ticino Gas Price Hikes](https://frontaliereticino.ch/en/cross-border-articles/ticino-gas-price-hikes)
@@ -2937,7 +2937,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (154 pages)
+### Other Pages (156 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2986,6 +2986,7 @@
 - [Cross Border Euro Franc Exchange](https://frontaliereticino.ch/en/swiss-articles/cross-border-euro-franc-exchange)
 - [Cross Border Pension Errors 2026](https://frontaliereticino.ch/en/swiss-articles/cross-border-pension-errors-2026)
 - [Cross Border Taxation 2026 New Agreement](https://frontaliereticino.ch/en/swiss-articles/cross-border-taxation-2026-new-agreement)
+- [Cross Border Taxes 2026](https://frontaliereticino.ch/en/swiss-articles/cross-border-taxes-2026)
 - [Cross Border Unemployment Switzerland](https://frontaliereticino.ch/en/swiss-articles/cross-border-unemployment-switzerland)
 - [Cross Border Workers Block Reduce Reimbursements Rome](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-block-reduce-reimbursements-rome)
 - [Cross Border Workers Data Systemic Error](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-data-systemic-error)
@@ -3011,6 +3012,7 @@
 - [G Permit Application Step By Step](https://frontaliereticino.ch/en/swiss-articles/g-permit-application-step-by-step)
 - [Germany Rail Traffic Resumption](https://frontaliereticino.ch/en/swiss-articles/germany-rail-traffic-resumption)
 - [Giro Tre Paesi Road Closures 2026](https://frontaliereticino.ch/en/swiss-articles/giro-tre-paesi-road-closures-2026)
+- [Grenzgaenger Switzerland Taxes 2026](https://frontaliereticino.ch/en/swiss-articles/grenzgaenger-switzerland-taxes-2026)
 - [Grisons Basel Model Traffic](https://frontaliereticino.ch/en/swiss-articles/grisons-basel-model-traffic)
 - [Health Insurance Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-initiatives-2026)
 - [Health Insurance Neuchatel Young Adults](https://frontaliereticino.ch/en/swiss-articles/health-insurance-neuchatel-young-adults)
