@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3022 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3023 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2923,7 +2923,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (152 pages)
+### Other Pages (153 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3015,6 +3015,7 @@
 - [Naspi Unemployment Benefit Italy](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefit-italy)
 - [Naspi Unemployment Benefits Cross Border](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefits-cross-border)
 - [Neutralisation Estimates 2026 Protect Middle Class And Home](https://frontaliereticino.ch/en/swiss-articles/neutralisation-estimates-2026-protect-middle-class-and-home)
+- [New Commuters Increasingly Poor](https://frontaliereticino.ch/en/swiss-articles/new-commuters-increasingly-poor)
 - [Nuclear 13avs Wages Votes](https://frontaliereticino.ch/en/swiss-articles/nuclear-13avs-wages-votes)
 - [Pandemic Compensation Swiss Businesses](https://frontaliereticino.ch/en/swiss-articles/pandemic-compensation-swiss-businesses)
 - [Parliament Avs Adoption Protection](https://frontaliereticino.ch/en/swiss-articles/parliament-avs-adoption-protection)
