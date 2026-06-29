@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3036 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3037 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2726 pages)
+### Blog Articles (2727 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1412,6 +1412,7 @@
 - [International Red Cross Exchange Varese](https://frontaliereticino.ch/en/cross-border-articles/international-red-cross-exchange-varese)
 - [Internationals Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/internationals-ticino-2026)
 - [Interroll Acquires Royal Apollo Group](https://frontaliereticino.ch/en/cross-border-articles/interroll-acquires-royal-apollo-group)
+- [Intesa Mps Opas Shares Cash](https://frontaliereticino.ch/en/cross-border-articles/intesa-mps-opas-shares-cash)
 - [Intesa Sanpaolo Awards 10 Winning Companies](https://frontaliereticino.ch/en/cross-border-articles/intesa-sanpaolo-awards-10-winning-companies)
 - [Investigation Referees Roccchi Inter Roma](https://frontaliereticino.ch/en/cross-border-articles/investigation-referees-roccchi-inter-roma)
 - [Investigation Rescue Crans Montana 2026](https://frontaliereticino.ch/en/cross-border-articles/investigation-rescue-crans-montana-2026)
