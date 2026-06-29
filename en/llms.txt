@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3020 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3022 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2923,7 +2923,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (150 pages)
+### Other Pages (152 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3021,6 +3021,7 @@
 - [Partial Funding 13th Pension](https://frontaliereticino.ch/en/swiss-articles/partial-funding-13th-pension)
 - [Pemsa Lugano Job Market](https://frontaliereticino.ch/en/swiss-articles/pemsa-lugano-job-market)
 - [Pension Calculation Cross Border Commuter](https://frontaliereticino.ch/en/swiss-articles/pension-calculation-cross-border-commuter)
+- [Pension Complement 3rd Pillar Frontaliers](https://frontaliereticino.ch/en/swiss-articles/pension-complement-3rd-pillar-frontaliers)
 - [Permit G Pros Cons Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/permit-g-pros-cons-cross-border-workers)
 - [Piero Marchesi Claudio Zali Independent List](https://frontaliereticino.ch/en/swiss-articles/piero-marchesi-claudio-zali-independent-list)
 - [Pillar 3a Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/pillar-3a-cross-border-workers)
@@ -3047,6 +3048,7 @@
 - [Tax Calculation Cross Border Workers Within 20km](https://frontaliereticino.ch/en/swiss-articles/tax-calculation-cross-border-workers-within-20km)
 - [Tax Return Frontalieri 730 Guide](https://frontaliereticino.ch/en/swiss-articles/tax-return-frontalieri-730-guide)
 - [Taxation Cross Border Workers Beyond 20km](https://frontaliereticino.ch/en/swiss-articles/taxation-cross-border-workers-beyond-20km)
+- [Taxation Cross Border Workers Beyond 20km Border](https://frontaliereticino.ch/en/swiss-articles/taxation-cross-border-workers-beyond-20km-border)
 - [Telework Frontier Worker Days 2026](https://frontaliereticino.ch/en/swiss-articles/telework-frontier-worker-days-2026)
 - [Third Pillar Benefits Functions](https://frontaliereticino.ch/en/swiss-articles/third-pillar-benefits-functions)
 - [Ticino Salary Gap Frontalieri](https://frontaliereticino.ch/en/swiss-articles/ticino-salary-gap-frontalieri)
