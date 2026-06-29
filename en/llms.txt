@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3037 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3038 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2937,7 +2937,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (153 pages)
+### Other Pages (154 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3011,6 +3011,7 @@
 - [G Permit Application Step By Step](https://frontaliereticino.ch/en/swiss-articles/g-permit-application-step-by-step)
 - [Germany Rail Traffic Resumption](https://frontaliereticino.ch/en/swiss-articles/germany-rail-traffic-resumption)
 - [Giro Tre Paesi Road Closures 2026](https://frontaliereticino.ch/en/swiss-articles/giro-tre-paesi-road-closures-2026)
+- [Grisons Basel Model Traffic](https://frontaliereticino.ch/en/swiss-articles/grisons-basel-model-traffic)
 - [Health Insurance Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-initiatives-2026)
 - [Health Insurance Neuchatel Young Adults](https://frontaliereticino.ch/en/swiss-articles/health-insurance-neuchatel-young-adults)
 - [Health Tax Cross Border Workers Delay Rome](https://frontaliereticino.ch/en/swiss-articles/health-tax-cross-border-workers-delay-rome)
