@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3043 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3045 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2728 pages)
+### Blog Articles (2729 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -2844,6 +2844,7 @@
 - [Webinar Ai Business Strategy Case Studies](https://frontaliereticino.ch/en/cross-border-articles/webinar-ai-business-strategy-case-studies)
 - [Webuild Csc Renovation Un Geneva](https://frontaliereticino.ch/en/cross-border-articles/webuild-csc-renovation-un-geneva)
 - [Weekend Events May 1 Varese 2026](https://frontaliereticino.ch/en/cross-border-articles/weekend-events-may-1-varese-2026)
+- [Weekend Events Ticino](https://frontaliereticino.ch/en/cross-border-articles/weekend-events-ticino)
 - [Wellbeing Integrity Students Bellinzona 2026](https://frontaliereticino.ch/en/cross-border-articles/wellbeing-integrity-students-bellinzona-2026)
 - [Wellness District Campo Fiori 2026](https://frontaliereticino.ch/en/cross-border-articles/wellness-district-campo-fiori-2026)
 - [What Does Made In Switzerland Mean](https://frontaliereticino.ch/en/cross-border-articles/what-does-made-in-switzerland-mean)
@@ -2938,7 +2939,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (158 pages)
+### Other Pages (159 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3052,6 +3053,7 @@
 - [Salary Data Exchange Italy](https://frontaliereticino.ch/en/swiss-articles/salary-data-exchange-italy)
 - [Second Pillar Lpp Cross Border Withdrawal](https://frontaliereticino.ch/en/swiss-articles/second-pillar-lpp-cross-border-withdrawal)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
+- [Stabio Border Crossing Switzerland](https://frontaliereticino.ch/en/swiss-articles/stabio-border-crossing-switzerland)
 - [Swiss Airports Passengers Increase](https://frontaliereticino.ch/en/swiss-articles/swiss-airports-passengers-increase)
 - [Swiss Bank Secrecy](https://frontaliereticino.ch/en/swiss-articles/swiss-bank-secrecy)
 - [Swiss Border Worker Net Salary Calculation](https://frontaliereticino.ch/en/swiss-articles/swiss-border-worker-net-salary-calculation)
