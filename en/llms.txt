@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3047 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3048 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (160 pages)
+### Other Pages (161 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2998,6 +2998,7 @@
 - [Cross Border Workers Data Systemic Error](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-data-systemic-error)
 - [Cross Border Workers Final Yes Smartworking](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-final-yes-smartworking)
 - [Cross Border Workers Taxation 2026 New Agreement](https://frontaliereticino.ch/en/swiss-articles/cross-border-workers-taxation-2026-new-agreement)
+- [Dark Side Swiss Eldorado French Commuters](https://frontaliereticino.ch/en/swiss-articles/dark-side-swiss-eldorado-french-commuters)
 - [Data Tax Frontalieri Italy](https://frontaliereticino.ch/en/swiss-articles/data-tax-frontalieri-italy)
 - [Deduction From Rentals Contrary To Rome Agreements](https://frontaliereticino.ch/en/swiss-articles/deduction-from-rentals-contrary-to-rome-agreements)
 - [Deutsche Bahn Rail Traffic Halt Germany](https://frontaliereticino.ch/en/swiss-articles/deutsche-bahn-rail-traffic-halt-germany)
