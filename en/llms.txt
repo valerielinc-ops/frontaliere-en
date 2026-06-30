@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3042 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3043 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2727 pages)
+### Blog Articles (2728 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -364,6 +364,7 @@
 - [Balerna Railway Garden 2026](https://frontaliereticino.ch/en/cross-border-articles/balerna-railway-garden-2026)
 - [Banca Etica Volunteers Sports Books Varesenews](https://frontaliereticino.ch/en/cross-border-articles/banca-etica-volunteers-sports-books-varesenews)
 - [Bancastato Walking Mendrisio 2026](https://frontaliereticino.ch/en/cross-border-articles/bancastato-walking-mendrisio-2026)
+- [Bancomat Trial Varesenews 2023](https://frontaliereticino.ch/en/cross-border-articles/bancomat-trial-varesenews-2023)
 - [Bandecchi Quarterfinals Chiasso 2026](https://frontaliereticino.ch/en/cross-border-articles/bandecchi-quarterfinals-chiasso-2026)
 - [Bank Customer Service Approved Failed](https://frontaliereticino.ch/en/cross-border-articles/bank-customer-service-approved-failed)
 - [Bank Fees Stocks Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/bank-fees-stocks-cross-border-workers)
@@ -3003,6 +3004,7 @@
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability)
 - [Family Health Insurance Cross Border](https://frontaliereticino.ch/en/swiss-articles/family-health-insurance-cross-border)
 - [Fire Autostrada Piotta](https://frontaliereticino.ch/en/swiss-articles/fire-autostrada-piotta)
+- [Fiscal Reimbursements For Frontier Workers How They Work](https://frontaliereticino.ch/en/swiss-articles/fiscal-reimbursements-for-frontier-workers-how-they-work)
 - [Forfeited Tax E Commerce](https://frontaliereticino.ch/en/swiss-articles/forfeited-tax-e-commerce)
 - [Fribourg Hospital Job Nurse](https://frontaliereticino.ch/en/swiss-articles/fribourg-hospital-job-nurse)
 - [Frontalier Salaries Shopping Center](https://frontaliereticino.ch/en/swiss-articles/frontalier-salaries-shopping-center)
@@ -3065,7 +3067,6 @@
 - [Swiss Residency Options Italy 2026 Single](https://frontaliereticino.ch/en/swiss-articles/swiss-residency-options-italy-2026-single)
 - [Switzerland Italy Tax Treaty](https://frontaliereticino.ch/en/swiss-articles/switzerland-italy-tax-treaty)
 - [Tax Calculation Cross Border Workers Within 20km](https://frontaliereticino.ch/en/swiss-articles/tax-calculation-cross-border-workers-within-20km)
-- [Tax Rebates Border Workers](https://frontaliereticino.ch/en/swiss-articles/tax-rebates-border-workers)
 - [Tax Return Frontalieri 730 Guide](https://frontaliereticino.ch/en/swiss-articles/tax-return-frontalieri-730-guide)
 - [Taxation Cross Border Workers Beyond 20km](https://frontaliereticino.ch/en/swiss-articles/taxation-cross-border-workers-beyond-20km)
 - [Taxation Cross Border Workers Beyond 20km Border](https://frontaliereticino.ch/en/swiss-articles/taxation-cross-border-workers-beyond-20km-border)
