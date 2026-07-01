@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3052 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3053 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (165 pages)
+### Other Pages (166 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2974,6 +2974,7 @@
 - [Ahv Financing 13th](https://frontaliereticino.ch/en/swiss-articles/ahv-financing-13th)
 - [Bce Interest Inflation 2023](https://frontaliereticino.ch/en/swiss-articles/bce-interest-inflation-2023)
 - [Black Work Salary Dumping 2025 Switzerland](https://frontaliereticino.ch/en/swiss-articles/black-work-salary-dumping-2025-switzerland)
+- [Block Ristorni Ticino](https://frontaliereticino.ch/en/swiss-articles/block-ristorni-ticino)
 - [Border Controls G7 Entry Bans](https://frontaliereticino.ch/en/swiss-articles/border-controls-g7-entry-bans)
 - [Brogeda Customs Waiting Times](https://frontaliereticino.ch/en/swiss-articles/brogeda-customs-waiting-times)
 - [Calculating Lpp Pension Ubs](https://frontaliereticino.ch/en/swiss-articles/calculating-lpp-pension-ubs)
