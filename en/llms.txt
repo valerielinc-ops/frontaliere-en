@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3053 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3055 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (166 pages)
+### Other Pages (168 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2975,6 +2975,7 @@
 - [Bce Interest Inflation 2023](https://frontaliereticino.ch/en/swiss-articles/bce-interest-inflation-2023)
 - [Black Work Salary Dumping 2025 Switzerland](https://frontaliereticino.ch/en/swiss-articles/black-work-salary-dumping-2025-switzerland)
 - [Block Ristorni Ticino](https://frontaliereticino.ch/en/swiss-articles/block-ristorni-ticino)
+- [Blocking Returns Ticino Decision Radical Liberal Party](https://frontaliereticino.ch/en/swiss-articles/blocking-returns-ticino-decision-radical-liberal-party)
 - [Border Controls G7 Entry Bans](https://frontaliereticino.ch/en/swiss-articles/border-controls-g7-entry-bans)
 - [Brogeda Customs Waiting Times](https://frontaliereticino.ch/en/swiss-articles/brogeda-customs-waiting-times)
 - [Calculating Lpp Pension Ubs](https://frontaliereticino.ch/en/swiss-articles/calculating-lpp-pension-ubs)
@@ -3056,6 +3057,7 @@
 - [Quellensteuer Switzerland Rates 2026](https://frontaliereticino.ch/en/swiss-articles/quellensteuer-switzerland-rates-2026)
 - [Railway Traffic Suspended Germany Technical Fault](https://frontaliereticino.ch/en/swiss-articles/railway-traffic-suspended-germany-technical-fault)
 - [Residence Permit B Withholding Tax 2026](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-withholding-tax-2026)
+- [Salary Cross Border Workers 6250 Month](https://frontaliereticino.ch/en/swiss-articles/salary-cross-border-workers-6250-month)
 - [Salary Data Exchange Italy](https://frontaliereticino.ch/en/swiss-articles/salary-data-exchange-italy)
 - [Second Pillar Lpp Cross Border Withdrawal](https://frontaliereticino.ch/en/swiss-articles/second-pillar-lpp-cross-border-withdrawal)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
