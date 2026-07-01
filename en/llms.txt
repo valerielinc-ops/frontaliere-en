@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3058 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3059 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (171 pages)
+### Other Pages (172 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3080,6 +3080,7 @@
 - [Swiss Postman Fired After 42 Years Berna Does Not Intervene](https://frontaliereticino.ch/en/swiss-articles/swiss-postman-fired-after-42-years-berna-does-not-intervene)
 - [Swiss Residency Options Italy 2026 Single](https://frontaliereticino.ch/en/swiss-articles/swiss-residency-options-italy-2026-single)
 - [Switzerland Italy Tax Treaty](https://frontaliereticino.ch/en/swiss-articles/switzerland-italy-tax-treaty)
+- [Switzerland Minimum Wage Referendum](https://frontaliereticino.ch/en/swiss-articles/switzerland-minimum-wage-referendum)
 - [Switzerland Permit G](https://frontaliereticino.ch/en/swiss-articles/switzerland-permit-g)
 - [Tax Calculation Cross Border Workers Within 20km](https://frontaliereticino.ch/en/swiss-articles/tax-calculation-cross-border-workers-within-20km)
 - [Tax Return Frontalieri 730 Guide](https://frontaliereticino.ch/en/swiss-articles/tax-return-frontalieri-730-guide)
