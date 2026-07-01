@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3057 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3058 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (170 pages)
+### Other Pages (171 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3062,6 +3062,7 @@
 - [Salary Cross Border Workers 6250 Month](https://frontaliereticino.ch/en/swiss-articles/salary-cross-border-workers-6250-month)
 - [Salary Data Exchange Italy](https://frontaliereticino.ch/en/swiss-articles/salary-data-exchange-italy)
 - [Second Pillar Lpp Cross Border Withdrawal](https://frontaliereticino.ch/en/swiss-articles/second-pillar-lpp-cross-border-withdrawal)
+- [Solothurn Film Days Finance 2026](https://frontaliereticino.ch/en/swiss-articles/solothurn-film-days-finance-2026)
 - [Source Tax Basel](https://frontaliereticino.ch/en/swiss-articles/source-tax-basel)
 - [Stabio Border Crossing Switzerland](https://frontaliereticino.ch/en/swiss-articles/stabio-border-crossing-switzerland)
 - [Stop Ristorni Frontiera](https://frontaliereticino.ch/en/swiss-articles/stop-ristorni-frontiera)
