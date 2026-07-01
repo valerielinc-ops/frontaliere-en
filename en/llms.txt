@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3056 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3057 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,13 +2940,14 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (169 pages)
+### Other Pages (170 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
 - [Laura Bianchi](https://frontaliereticino.ch/en/authors/laura-bianchi)
 - [Marco Ferrari](https://frontaliereticino.ch/en/authors/marco-ferrari)
 - [Redazione](https://frontaliereticino.ch/en/authors/redazione)
+- [Samuele Valente](https://frontaliereticino.ch/en/authors/samuele-valente)
 - [Community](https://frontaliereticino.ch/en/community)
 - [Contact Us](https://frontaliereticino.ch/en/contact-us)
 - [Corrections](https://frontaliereticino.ch/en/corrections)
