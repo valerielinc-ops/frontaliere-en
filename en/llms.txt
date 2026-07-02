@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3078 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3081 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2741 pages)
+### Blog Articles (2742 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -2603,6 +2603,7 @@
 - [Ticino Votes June 14 2024](https://frontaliereticino.ch/en/cross-border-articles/ticino-votes-june-14-2024)
 - [Ticino Votes Yes Population Cap](https://frontaliereticino.ch/en/cross-border-articles/ticino-votes-yes-population-cap)
 - [Ticino Wines Collaboration](https://frontaliereticino.ch/en/cross-border-articles/ticino-wines-collaboration)
+- [Ticino Withholds Tax Refunds Rome Berne Dialogue](https://frontaliereticino.ch/en/cross-border-articles/ticino-withholds-tax-refunds-rome-berne-dialogue)
 - [Ticino Work Paradox](https://frontaliereticino.ch/en/cross-border-articles/ticino-work-paradox)
 - [Ticinosentieri New Nominations 2026](https://frontaliereticino.ch/en/cross-border-articles/ticinosentieri-new-nominations-2026)
 - [Ticks Ticino 2026 18000 Bites](https://frontaliereticino.ch/en/cross-border-articles/ticks-ticino-2026-18000-bites)
@@ -2951,7 +2952,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (180 pages)
+### Other Pages (182 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3022,6 +3023,7 @@
 - [Deduction From Rentals Contrary To Rome Agreements](https://frontaliereticino.ch/en/swiss-articles/deduction-from-rentals-contrary-to-rome-agreements)
 - [Deutsche Bahn Rail Traffic Halt Germany](https://frontaliereticino.ch/en/swiss-articles/deutsche-bahn-rail-traffic-halt-germany)
 - [Dogana Gaggiolo Stabio](https://frontaliereticino.ch/en/swiss-articles/dogana-gaggiolo-stabio)
+- [Early Retirement Cross Border Workers 2026](https://frontaliereticino.ch/en/swiss-articles/early-retirement-cross-border-workers-2026)
 - [Economists Adjust Growth Projections 2026](https://frontaliereticino.ch/en/swiss-articles/economists-adjust-growth-projections-2026)
 - [Emigrating Switzerland Tax Aspects](https://frontaliereticino.ch/en/swiss-articles/emigrating-switzerland-tax-aspects)
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability)
@@ -3060,6 +3062,7 @@
 - [Lamal Or Cmi Cross Border Workers Which Is Better 2026](https://frontaliereticino.ch/en/swiss-articles/lamal-or-cmi-cross-border-workers-which-is-better-2026)
 - [Living Abroad Avoid Avs Gap](https://frontaliereticino.ch/en/swiss-articles/living-abroad-avoid-avs-gap)
 - [Minimum Wage Vd Yes But Canton Sixth](https://frontaliereticino.ch/en/swiss-articles/minimum-wage-vd-yes-but-canton-sixth)
+- [Mortgage Italy Cross Border Guide](https://frontaliereticino.ch/en/swiss-articles/mortgage-italy-cross-border-guide)
 - [Naspi Unemployment Benefit Italy](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefit-italy)
 - [Naspi Unemployment Benefits Cross Border](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefits-cross-border)
 - [Neutralisation Estimates 2026 Protect Middle Class And Home](https://frontaliereticino.ch/en/swiss-articles/neutralisation-estimates-2026-protect-middle-class-and-home)
