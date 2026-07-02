@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3081 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3083 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2742 pages)
+### Blog Articles (2744 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -612,6 +612,7 @@
 - [Chiasso Town Planning Telecoms](https://frontaliereticino.ch/en/cross-border-articles/chiasso-town-planning-telecoms)
 - [Chiescia Bosc Carnival 2026 Ludiano Blenio Valley](https://frontaliereticino.ch/en/cross-border-articles/chiescia-bosc-carnival-2026-ludiano-blenio-valley)
 - [Child Allowances Cross Border 2026](https://frontaliereticino.ch/en/cross-border-articles/child-allowances-cross-border-2026)
+- [Child Deduction Cross Border 2026](https://frontaliereticino.ch/en/cross-border-articles/child-deduction-cross-border-2026)
 - [Child Drowning Morcote April 30 2026](https://frontaliereticino.ch/en/cross-border-articles/child-drowning-morcote-april-30-2026)
 - [Child Educator Ticino Salary](https://frontaliereticino.ch/en/cross-border-articles/child-educator-ticino-salary)
 - [Child Educator Ticino Salary 2026](https://frontaliereticino.ch/en/cross-border-articles/child-educator-ticino-salary-2026)
@@ -1239,6 +1240,7 @@
 - [Green Revival Ticino Airola Rodi](https://frontaliereticino.ch/en/cross-border-articles/green-revival-ticino-airola-rodi)
 - [Green Ring Somma Lombardo 2026](https://frontaliereticino.ch/en/cross-border-articles/green-ring-somma-lombardo-2026)
 - [Green Spaces In Cities Relaxation](https://frontaliereticino.ch/en/cross-border-articles/green-spaces-in-cities-relaxation)
+- [Grigioni 1 6 Million 1479 Italian Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/grigioni-1-6-million-1479-italian-cross-border-workers)
 - [Grigioni Flood Ticino](https://frontaliereticino.ch/en/cross-border-articles/grigioni-flood-ticino)
 - [Grison Canton Changes Residence Permit Practice](https://frontaliereticino.ch/en/cross-border-articles/grison-canton-changes-residence-permit-practice)
 - [Grisonian Bank Sued 200 Million](https://frontaliereticino.ch/en/cross-border-articles/grisonian-bank-sued-200-million)
