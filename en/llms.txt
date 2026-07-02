@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3070 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3074 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2736 pages)
+### Blog Articles (2738 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -349,6 +349,7 @@
 - [Avs 13th Parliament Cross Border](https://frontaliereticino.ch/en/cross-border-articles/avs-13th-parliament-cross-border)
 - [Avs 13th Pension Conciliation Vat](https://frontaliereticino.ch/en/cross-border-articles/avs-13th-pension-conciliation-vat)
 - [Avs 2030 Ticino Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/avs-2030-ticino-cross-border-workers)
+- [Avs Ai Financial Prospects Worsen](https://frontaliereticino.ch/en/cross-border-articles/avs-ai-financial-prospects-worsen)
 - [Avs Compensation Fund Fraud Ticino](https://frontaliereticino.ch/en/cross-border-articles/avs-compensation-fund-fraud-ticino)
 - [Avs Digital Data Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/avs-digital-data-cross-border-workers)
 - [Avs Tomorrow At 11 Angelo Bonelli In Direct At Adnkronos](https://frontaliereticino.ch/en/cross-border-articles/avs-tomorrow-at-11-angelo-bonelli-in-direct-at-adnkronos)
@@ -2545,6 +2546,7 @@
 - [Ticino Justice Reform](https://frontaliereticino.ch/en/cross-border-articles/ticino-justice-reform)
 - [Ticino Labor Market Q4 2025](https://frontaliereticino.ch/en/cross-border-articles/ticino-labor-market-q4-2025)
 - [Ticino Lega Solidarity Home 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-lega-solidarity-home-2026)
+- [Ticino Lombardy Remittances Solution](https://frontaliereticino.ch/en/cross-border-articles/ticino-lombardy-remittances-solution)
 - [Ticino Minimum Wage 2027 2029 New Rules](https://frontaliereticino.ch/en/cross-border-articles/ticino-minimum-wage-2027-2029-new-rules)
 - [Ticino Minimum Wage Agreement Increase To 22 Francs](https://frontaliereticino.ch/en/cross-border-articles/ticino-minimum-wage-agreement-increase-to-22-francs)
 - [Ticino Minimum Wage Compromise Talks](https://frontaliereticino.ch/en/cross-border-articles/ticino-minimum-wage-compromise-talks)
@@ -2946,7 +2948,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (177 pages)
+### Other Pages (179 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2980,6 +2982,7 @@
 - [A Block Of Restaurants A Comprehensible Reaction](https://frontaliereticino.ch/en/swiss-articles/a-block-of-restaurants-a-comprehensible-reaction)
 - [Ahv Financing 13th](https://frontaliereticino.ch/en/swiss-articles/ahv-financing-13th)
 - [Application Of Frontalier Agreements Switzerland](https://frontaliereticino.ch/en/swiss-articles/application-of-frontalier-agreements-switzerland)
+- [Avs Ai Financial Prospects](https://frontaliereticino.ch/en/swiss-articles/avs-ai-financial-prospects)
 - [Bce Interest Inflation 2023](https://frontaliereticino.ch/en/swiss-articles/bce-interest-inflation-2023)
 - [Black Work Salary Dumping 2025 Switzerland](https://frontaliereticino.ch/en/swiss-articles/black-work-salary-dumping-2025-switzerland)
 - [Block Ristorni Ticino](https://frontaliereticino.ch/en/swiss-articles/block-ristorni-ticino)
@@ -3029,6 +3032,7 @@
 - [Frontaliere Detrazioni Fiscali Italia 2026](https://frontaliereticino.ch/en/swiss-articles/frontaliere-detrazioni-fiscali-italia-2026)
 - [Frontalieri Salary Data Ticino](https://frontaliereticino.ch/en/swiss-articles/frontalieri-salary-data-ticino)
 - [Frontaliers Double Taxation Tax Credit](https://frontaliereticino.ch/en/swiss-articles/frontaliers-double-taxation-tax-credit)
+- [Frontaliers Early Retirement Planning 2026 Over 20km](https://frontaliereticino.ch/en/swiss-articles/frontaliers-early-retirement-planning-2026-over-20km)
 - [Frontaliers Pension Avs Inps 2026 Within 20km](https://frontaliereticino.ch/en/swiss-articles/frontaliers-pension-avs-inps-2026-within-20km)
 - [Frontier Worker Pension Avs Inps 2026](https://frontaliereticino.ch/en/swiss-articles/frontier-worker-pension-avs-inps-2026)
 - [Frontier Workers Compensation Blocked Alfieri Pd](https://frontaliereticino.ch/en/swiss-articles/frontier-workers-compensation-blocked-alfieri-pd)
