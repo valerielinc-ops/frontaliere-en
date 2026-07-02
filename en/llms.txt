@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3074 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3078 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2738 pages)
+### Blog Articles (2741 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -349,6 +349,7 @@
 - [Avs 13th Parliament Cross Border](https://frontaliereticino.ch/en/cross-border-articles/avs-13th-parliament-cross-border)
 - [Avs 13th Pension Conciliation Vat](https://frontaliereticino.ch/en/cross-border-articles/avs-13th-pension-conciliation-vat)
 - [Avs 2030 Ticino Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/avs-2030-ticino-cross-border-workers)
+- [Avs Ai Financial Difficulties](https://frontaliereticino.ch/en/cross-border-articles/avs-ai-financial-difficulties)
 - [Avs Ai Financial Prospects Worsen](https://frontaliereticino.ch/en/cross-border-articles/avs-ai-financial-prospects-worsen)
 - [Avs Compensation Fund Fraud Ticino](https://frontaliereticino.ch/en/cross-border-articles/avs-compensation-fund-fraud-ticino)
 - [Avs Digital Data Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/avs-digital-data-cross-border-workers)
@@ -2057,6 +2058,7 @@
 - [Residence Permits Grisons](https://frontaliereticino.ch/en/cross-border-articles/residence-permits-grisons)
 - [Responsibility Centers Cross Border Workers Ticino](https://frontaliereticino.ch/en/cross-border-articles/responsibility-centers-cross-border-workers-ticino)
 - [Restaurant Break In Ticino Arrest](https://frontaliereticino.ch/en/cross-border-articles/restaurant-break-in-ticino-arrest)
+- [Restitutions Lombardy Ticino](https://frontaliereticino.ch/en/cross-border-articles/restitutions-lombardy-ticino)
 - [Retail Minor Decline March 2026](https://frontaliereticino.ch/en/cross-border-articles/retail-minor-decline-march-2026)
 - [Retail Revenue Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/retail-revenue-ticino-2026)
 - [Retired Workers Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/retired-workers-ticino-2026)
@@ -2577,6 +2579,7 @@
 - [Ticino Radar Reduction](https://frontaliereticino.ch/en/cross-border-articles/ticino-radar-reduction)
 - [Ticino Radar Speed Controls 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-radar-speed-controls-2026)
 - [Ticino Railways Pressing Work Investments](https://frontaliereticino.ch/en/cross-border-articles/ticino-railways-pressing-work-investments)
+- [Ticino Restaurants Unpaid Hours](https://frontaliereticino.ch/en/cross-border-articles/ticino-restaurants-unpaid-hours)
 - [Ticino Road Controls Cross Border Workers March 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-road-controls-cross-border-workers-march-2026)
 - [Ticino School Care Services Changes](https://frontaliereticino.ch/en/cross-border-articles/ticino-school-care-services-changes)
 - [Ticino School Startups Opportunities For Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/ticino-school-startups-opportunities-for-cross-border-workers)
@@ -2948,7 +2951,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (179 pages)
+### Other Pages (180 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3050,6 +3053,7 @@
 - [Heat Impact Swiss Railways](https://frontaliereticino.ch/en/swiss-articles/heat-impact-swiss-railways)
 - [Immigration Block Ticino](https://frontaliereticino.ch/en/swiss-articles/immigration-block-ticino)
 - [Increase Housing Mobility Costs Switzerland](https://frontaliereticino.ch/en/swiss-articles/increase-housing-mobility-costs-switzerland)
+- [Increase In Ai Benefits Avs Difficulties](https://frontaliereticino.ch/en/swiss-articles/increase-in-ai-benefits-avs-difficulties)
 - [Increase Vat Army 2024](https://frontaliereticino.ch/en/swiss-articles/increase-vat-army-2024)
 - [Italy Switzerland Cross Border Workers Company Location](https://frontaliereticino.ch/en/swiss-articles/italy-switzerland-cross-border-workers-company-location)
 - [Iva Increase Government Decision Pending](https://frontaliereticino.ch/en/swiss-articles/iva-increase-government-decision-pending)
