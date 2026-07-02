@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3066 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3067 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2732 pages)
+### Blog Articles (2733 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -449,6 +449,7 @@
 - [Blackdamp Memory Sacrifice Immigration Lucia Tiziani](https://frontaliereticino.ch/en/cross-border-articles/blackdamp-memory-sacrifice-immigration-lucia-tiziani)
 - [Block Reruns Ticino De Rosa Open To Evaluate](https://frontaliereticino.ch/en/cross-border-articles/block-reruns-ticino-de-rosa-open-to-evaluate)
 - [Block Restitution Ticino Italy 2026](https://frontaliereticino.ch/en/cross-border-articles/block-restitution-ticino-italy-2026)
+- [Block Return Ticino Lombardy](https://frontaliereticino.ch/en/cross-border-articles/block-return-ticino-lombardy)
 - [Blocking Remittances Ticino Frontalieri 2026](https://frontaliereticino.ch/en/cross-border-articles/blocking-remittances-ticino-frontalieri-2026)
 - [Blocks Of Restitutions Berne Italy](https://frontaliereticino.ch/en/cross-border-articles/blocks-of-restitutions-berne-italy)
 - [Blue Parking Como Residents](https://frontaliereticino.ch/en/cross-border-articles/blue-parking-como-residents)
