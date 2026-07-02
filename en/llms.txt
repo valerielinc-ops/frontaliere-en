@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3060 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3061 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (173 pages)
+### Other Pages (174 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -2985,6 +2985,7 @@
 - [Cantonal Votes June Minimum Wage](https://frontaliereticino.ch/en/swiss-articles/cantonal-votes-june-minimum-wage)
 - [Cas Hut Reservation Fee Switzerland](https://frontaliereticino.ch/en/swiss-articles/cas-hut-reservation-fee-switzerland)
 - [Charles Iii Income Taxes 2026](https://frontaliereticino.ch/en/swiss-articles/charles-iii-income-taxes-2026)
+- [Chf Eur Exchange Strategies 2026 Family Children](https://frontaliereticino.ch/en/swiss-articles/chf-eur-exchange-strategies-2026-family-children)
 - [Chiasso Border Switzerland](https://frontaliereticino.ch/en/swiss-articles/chiasso-border-switzerland)
 - [Chiasso Brogeda Customs Traffic 2024](https://frontaliereticino.ch/en/swiss-articles/chiasso-brogeda-customs-traffic-2024)
 - [Chiasso Brogeda Wait Times Today](https://frontaliereticino.ch/en/swiss-articles/chiasso-brogeda-wait-times-today)
