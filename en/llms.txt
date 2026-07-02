@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3061 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3062 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (174 pages)
+### Other Pages (175 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3033,6 +3033,7 @@
 - [Health Insurance Neuchatel Young Adults](https://frontaliereticino.ch/en/swiss-articles/health-insurance-neuchatel-young-adults)
 - [Health Tax Cross Border Workers Delay Rome](https://frontaliereticino.ch/en/swiss-articles/health-tax-cross-border-workers-delay-rome)
 - [Health Tax Crossborder Unions Criticism](https://frontaliereticino.ch/en/swiss-articles/health-tax-crossborder-unions-criticism)
+- [Health Tax Returns Ticino](https://frontaliereticino.ch/en/swiss-articles/health-tax-returns-ticino)
 - [Heat Impact On Rail Traffic](https://frontaliereticino.ch/en/swiss-articles/heat-impact-on-rail-traffic)
 - [Heat Impact Swiss Railways](https://frontaliereticino.ch/en/swiss-articles/heat-impact-swiss-railways)
 - [Immigration Block Ticino](https://frontaliereticino.ch/en/swiss-articles/immigration-block-ticino)
