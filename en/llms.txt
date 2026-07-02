@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3062 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3063 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -2940,7 +2940,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (175 pages)
+### Other Pages (176 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3023,6 +3023,7 @@
 - [Frontaliere Detrazioni Fiscali Italia 2026](https://frontaliereticino.ch/en/swiss-articles/frontaliere-detrazioni-fiscali-italia-2026)
 - [Frontalieri Salary Data Ticino](https://frontaliereticino.ch/en/swiss-articles/frontalieri-salary-data-ticino)
 - [Frontaliers Double Taxation Tax Credit](https://frontaliereticino.ch/en/swiss-articles/frontaliers-double-taxation-tax-credit)
+- [Frontaliers Pension Avs Inps 2026 Within 20km](https://frontaliereticino.ch/en/swiss-articles/frontaliers-pension-avs-inps-2026-within-20km)
 - [Frontier Worker Pension Avs Inps 2026](https://frontaliereticino.ch/en/swiss-articles/frontier-worker-pension-avs-inps-2026)
 - [G Permit Application Step By Step](https://frontaliereticino.ch/en/swiss-articles/g-permit-application-step-by-step)
 - [Germany Rail Traffic Resumption](https://frontaliereticino.ch/en/swiss-articles/germany-rail-traffic-resumption)
