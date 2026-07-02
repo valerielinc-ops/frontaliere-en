@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3063 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3066 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2730 pages)
+### Blog Articles (2732 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -1142,6 +1142,7 @@
 - [Frontaliers Sabotage Varese](https://frontaliereticino.ch/en/cross-border-articles/frontaliers-sabotage-varese)
 - [Frontaliers Sabotage Varese Success](https://frontaliereticino.ch/en/cross-border-articles/frontaliers-sabotage-varese-success)
 - [Frontaliers With Children Swiss Kindergarten](https://frontaliereticino.ch/en/cross-border-articles/frontaliers-with-children-swiss-kindergarten)
+- [Frontier Workers Ristorni Pellicini Working Table](https://frontaliereticino.ch/en/cross-border-articles/frontier-workers-ristorni-pellicini-working-table)
 - [Frontier Workers Salaries Ticino Debate A Vicious Cycle](https://frontaliereticino.ch/en/cross-border-articles/frontier-workers-salaries-ticino-debate-a-vicious-cycle)
 - [Frozen Tax Returns Gobbi 2026](https://frontaliereticino.ch/en/cross-border-articles/frozen-tax-returns-gobbi-2026)
 - [Fuel Comparison Ticino 2024](https://frontaliereticino.ch/en/cross-border-articles/fuel-comparison-ticino-2024)
@@ -2394,6 +2395,7 @@
 - [Switzerland Individual Taxation Impact Ticino Job Market Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/switzerland-individual-taxation-impact-ticino-job-market-cross-border-workers)
 - [Switzerland Instructions 2026](https://frontaliereticino.ch/en/cross-border-articles/switzerland-instructions-2026)
 - [Switzerland Instructions Use Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/switzerland-instructions-use-cross-border-workers)
+- [Switzerland Italy Border Workers Berne Regrets Cantons Stop But Wants A Solution](https://frontaliereticino.ch/en/cross-border-articles/switzerland-italy-border-workers-berne-regrets-cantons-stop-but-wants-a-solution)
 - [Switzerland Italy New Phase Relations](https://frontaliereticino.ch/en/cross-border-articles/switzerland-italy-new-phase-relations)
 - [Switzerland Joins European Ports Alliance Against Drug Trafficking](https://frontaliereticino.ch/en/cross-border-articles/switzerland-joins-european-ports-alliance-against-drug-trafficking)
 - [Switzerland Oil Gas Supply Safe](https://frontaliereticino.ch/en/cross-border-articles/switzerland-oil-gas-supply-safe)
@@ -2940,7 +2942,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax)
 
-### Other Pages (176 pages)
+### Other Pages (177 pages)
 
 - [En](https://frontaliereticino.ch/en)
 - [About Us](https://frontaliereticino.ch/en/about-us)
@@ -3025,6 +3027,7 @@
 - [Frontaliers Double Taxation Tax Credit](https://frontaliereticino.ch/en/swiss-articles/frontaliers-double-taxation-tax-credit)
 - [Frontaliers Pension Avs Inps 2026 Within 20km](https://frontaliereticino.ch/en/swiss-articles/frontaliers-pension-avs-inps-2026-within-20km)
 - [Frontier Worker Pension Avs Inps 2026](https://frontaliereticino.ch/en/swiss-articles/frontier-worker-pension-avs-inps-2026)
+- [Frontier Workers Compensation Blocked Alfieri Pd](https://frontaliereticino.ch/en/swiss-articles/frontier-workers-compensation-blocked-alfieri-pd)
 - [G Permit Application Step By Step](https://frontaliereticino.ch/en/swiss-articles/g-permit-application-step-by-step)
 - [Germany Rail Traffic Resumption](https://frontaliereticino.ch/en/swiss-articles/germany-rail-traffic-resumption)
 - [Giro Tre Paesi Road Closures 2026](https://frontaliereticino.ch/en/swiss-articles/giro-tre-paesi-road-closures-2026)
