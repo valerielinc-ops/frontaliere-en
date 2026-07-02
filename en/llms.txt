@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 3067 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 3070 pages.
 
 ### Tax & Salary Calculators (33 pages)
 
@@ -162,7 +162,7 @@
 
 - [Find Jobs Ticino](https://frontaliereticino.ch/en/find-jobs-ticino)
 
-### Blog Articles (2733 pages)
+### Blog Articles (2736 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics)
@@ -450,6 +450,8 @@
 - [Block Reruns Ticino De Rosa Open To Evaluate](https://frontaliereticino.ch/en/cross-border-articles/block-reruns-ticino-de-rosa-open-to-evaluate)
 - [Block Restitution Ticino Italy 2026](https://frontaliereticino.ch/en/cross-border-articles/block-restitution-ticino-italy-2026)
 - [Block Return Ticino Lombardy](https://frontaliereticino.ch/en/cross-border-articles/block-return-ticino-lombardy)
+- [Block Ristorni Ticino Pd Reaction](https://frontaliereticino.ch/en/cross-border-articles/block-ristorni-ticino-pd-reaction)
+- [Blocked Frontalier Returns Reina](https://frontaliereticino.ch/en/cross-border-articles/blocked-frontalier-returns-reina)
 - [Blocking Remittances Ticino Frontalieri 2026](https://frontaliereticino.ch/en/cross-border-articles/blocking-remittances-ticino-frontalieri-2026)
 - [Blocks Of Restitutions Berne Italy](https://frontaliereticino.ch/en/cross-border-articles/blocks-of-restitutions-berne-italy)
 - [Blue Parking Como Residents](https://frontaliereticino.ch/en/cross-border-articles/blue-parking-como-residents)
@@ -1437,6 +1439,7 @@
 - [Italian Ambassador Return Bern](https://frontaliereticino.ch/en/cross-border-articles/italian-ambassador-return-bern)
 - [Italian Ambassador Switzerland Cassis Cornado Crans Montana](https://frontaliereticino.ch/en/cross-border-articles/italian-ambassador-switzerland-cassis-cornado-crans-montana)
 - [Italian Bank Varese 10 Years Later](https://frontaliereticino.ch/en/cross-border-articles/italian-bank-varese-10-years-later)
+- [Italian Cross Border Workers Oil Complaint Discrimination](https://frontaliereticino.ch/en/cross-border-articles/italian-cross-border-workers-oil-complaint-discrimination)
 - [Italian Health Tax Crossborder Workers Lombardy 2026](https://frontaliereticino.ch/en/cross-border-articles/italian-health-tax-crossborder-workers-lombardy-2026)
 - [Italian Research Geneva 2026](https://frontaliereticino.ch/en/cross-border-articles/italian-research-geneva-2026)
 - [Italo Swiss Gallery Enigmatist](https://frontaliereticino.ch/en/cross-border-articles/italo-swiss-gallery-enigmatist)
