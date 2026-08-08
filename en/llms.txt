@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4841 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4842 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -3989,7 +3989,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (905 pages)
+### Other Pages (906 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4147,6 +4147,7 @@
 - [Jobs Ticino Nurse](https://frontaliereticino.ch/en/jobs-ticino-nurse/)
 - [Jobs Ticino Physiotherapist](https://frontaliereticino.ch/en/jobs-ticino-physiotherapist/)
 - [Jobs Ticino Psychologist](https://frontaliereticino.ch/en/jobs-ticino-psychologist/)
+- [Jobs Ticino Waiter](https://frontaliereticino.ch/en/jobs-ticino-waiter/)
 - [Jobs Ticino Welder](https://frontaliereticino.ch/en/jobs-ticino-welder/)
 - [Jobs Ticino Worker](https://frontaliereticino.ch/en/jobs-ticino-worker/)
 - [Methodology](https://frontaliereticino.ch/en/methodology/)
