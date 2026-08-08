@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4840 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4841 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3223 pages)
+### Blog Articles (3224 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1381,6 +1381,7 @@
 - [Cross Border Commuter Tragedy Porletta](https://frontaliereticino.ch/en/cross-border-articles/cross-border-commuter-tragedy-porletta/)
 - [Cross Border Consultant Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-consultant-ticino/)
 - [Cross Border Courier Ticino Salary Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-courier-ticino-salary-requirements/)
+- [Cross Border Daily Brief 2026 08 08](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-08-08/)
 - [Cross Border Hairdressers Ticino Permit Salary](https://frontaliereticino.ch/en/cross-border-articles/cross-border-hairdressers-ticino-permit-salary/)
 - [Cross Border Healthcare Contribution Sertori](https://frontaliereticino.ch/en/cross-border-articles/cross-border-healthcare-contribution-sertori/)
 - [Cross Border Housing Zurich](https://frontaliereticino.ch/en/cross-border-articles/cross-border-housing-zurich/)
