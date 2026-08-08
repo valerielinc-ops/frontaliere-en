@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 4842 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 4843 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -3989,7 +3989,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (906 pages)
+### Other Pages (907 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4634,6 +4634,7 @@
 - [Second Pillar Lpp Cross Border Withdrawal](https://frontaliereticino.ch/en/swiss-articles/second-pillar-lpp-cross-border-withdrawal/)
 - [Second Pillar Lpp Frontalier Withdrawal](https://frontaliereticino.ch/en/swiss-articles/second-pillar-lpp-frontalier-withdrawal/)
 - [Second Pillar Lpp Frontaliers Withdrawal](https://frontaliereticino.ch/en/swiss-articles/second-pillar-lpp-frontaliers-withdrawal/)
+- [Second Pillar Lpp Switzerland Guide 2026 Zurich](https://frontaliereticino.ch/en/swiss-articles/second-pillar-lpp-switzerland-guide-2026-zurich/)
 - [Secure Food Supply Initiative Vote](https://frontaliereticino.ch/en/swiss-articles/secure-food-supply-initiative-vote/)
 - [Sem Cuts 108 Jobs 2027](https://frontaliereticino.ch/en/swiss-articles/sem-cuts-108-jobs-2027/)
 - [Shock Switzerland Factory Closes 110 Employees Lose Jobs](https://frontaliereticino.ch/en/swiss-articles/shock-switzerland-factory-closes-110-employees-lose-jobs/)
