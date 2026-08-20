@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5690 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5702 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3515 pages)
+### Blog Articles (3522 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2399,10 +2399,12 @@
 - [Live Agra Work Ticino Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-agra-work-ticino-frontalier/)
 - [Live Albese Cassano Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-albese-cassano-work-ticino/)
 - [Live Alta Valle Intelvi Work In Ticino As A Commuter](https://frontaliereticino.ch/en/cross-border-articles/live-alta-valle-intelvi-work-in-ticino-as-a-commuter/)
+- [Live Barasso Work Ticino Commuter](https://frontaliereticino.ch/en/cross-border-articles/live-barasso-work-ticino-commuter/)
 - [Live Bizzarone Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-bizzarone-work-ticino/)
 - [Live Brezzo Bedero Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-brezzo-bedero-work-ticino/)
 - [Live Brissago Valtravaglia Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-brissago-valtravaglia-ticino/)
 - [Live Capiago Intimiano Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-capiago-intimiano-work-ticino/)
+- [Live Castelmarte Work Ticino Frontier Worker](https://frontaliereticino.ch/en/cross-border-articles/live-castelmarte-work-ticino-frontier-worker/)
 - [Live Colonno Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-colonno-work-ticino-cross-border/)
 - [Live Como Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-como-work-ticino-cross-border/)
 - [Live Crevoladossola Work Ticino Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/live-crevoladossola-work-ticino-frontaliers/)
@@ -2437,6 +2439,7 @@
 - [Living In Brinzio Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-brinzio-working-in-ticino/)
 - [Living In Cadegliano Viconago Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-cadegliano-viconago-working-in-ticino/)
 - [Living In Cannero Riviera And Working In Ticino As A Frontaliere](https://frontaliereticino.ch/en/cross-border-articles/living-in-cannero-riviera-and-working-in-ticino-as-a-frontaliere/)
+- [Living In Carimate Working In Ticino As Frontalier](https://frontaliereticino.ch/en/cross-border-articles/living-in-carimate-working-in-ticino-as-frontalier/)
 - [Living In Claino Con Osteno Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-claino-con-osteno-working-in-ticino/)
 - [Living In Clivio Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-clivio-working-in-ticino/)
 - [Living In Courmayeur And Working In Vallese As A Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/living-in-courmayeur-and-working-in-vallese-as-a-cross-border-worker/)
@@ -2467,6 +2470,7 @@
 - [Living In Varzo And Working In Ticino As A Commuter](https://frontaliereticino.ch/en/cross-border-articles/living-in-varzo-and-working-in-ticino-as-a-commuter/)
 - [Living Laglio Working Ticino Border](https://frontaliereticino.ch/en/cross-border-articles/living-laglio-working-ticino-border/)
 - [Living Lavena Ponte Tresa Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-lavena-ponte-tresa-working-ticino/)
+- [Living Lezzeno Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-lezzeno-working-ticino/)
 - [Living Lurago Marinone Working Ticino Commuter](https://frontaliereticino.ch/en/cross-border-articles/living-lurago-marinone-working-ticino-commuter/)
 - [Living Lurate Caccivio Work Ticino Border](https://frontaliereticino.ch/en/cross-border-articles/living-lurate-caccivio-work-ticino-border/)
 - [Living Masciago Primo Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-masciago-primo-working-ticino/)
@@ -3489,6 +3493,7 @@
 - [Swissquote Trading Day Lugano 2026](https://frontaliereticino.ch/en/cross-border-articles/swissquote-trading-day-lugano-2026/)
 - [Switzerland 10 Million Vote Ticino](https://frontaliereticino.ch/en/cross-border-articles/switzerland-10-million-vote-ticino/)
 - [Switzerland 2100 Scenarios Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/switzerland-2100-scenarios-cross-border-workers/)
+- [Switzerland A 13th For The Pension Fund](https://frontaliereticino.ch/en/cross-border-articles/switzerland-a-13th-for-the-pension-fund/)
 - [Switzerland Bank Account Rw Form](https://frontaliereticino.ch/en/cross-border-articles/switzerland-bank-account-rw-form/)
 - [Switzerland Border Workers Franc](https://frontaliereticino.ch/en/cross-border-articles/switzerland-border-workers-franc/)
 - [Switzerland Canada Trade Deal Modernization 2026](https://frontaliereticino.ch/en/cross-border-articles/switzerland-canada-trade-deal-modernization-2026/)
@@ -3879,6 +3884,7 @@
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-8/)
 - [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-9/)
 - [Salaries](https://frontaliereticino.ch/en/cross-border-articles/topics/salaries/)
+- [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/salaries/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/salaries/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/salaries/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/salaries/page-4/)
@@ -4139,6 +4145,7 @@
 - [Victim Protection 142 Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/victim-protection-142-ticino-2026/)
 - [Viganello School Gaza Twinning 2026](https://frontaliereticino.ch/en/cross-border-articles/viganello-school-gaza-twinning-2026/)
 - [Viggiu Youth Projects Community 2026](https://frontaliereticino.ch/en/cross-border-articles/viggiu-youth-projects-community-2026/)
+- [Vignone Cross Border Transfer](https://frontaliereticino.ch/en/cross-border-articles/vignone-cross-border-transfer/)
 - [Villa Visconti Reopens Lainate 2026](https://frontaliereticino.ch/en/cross-border-articles/villa-visconti-reopens-lainate-2026/)
 - [Village Angel Busto Arsizio](https://frontaliereticino.ch/en/cross-border-articles/village-angel-busto-arsizio/)
 - [Violence Against Women Europe Council](https://frontaliereticino.ch/en/cross-border-articles/violence-against-women-europe-council/)
@@ -4280,7 +4287,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1463 pages)
+### Other Pages (1468 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4754,6 +4761,7 @@
 - [Drought Stress Families](https://frontaliereticino.ch/en/swiss-articles/drought-stress-families/)
 - [Drug Dealing Local Network](https://frontaliereticino.ch/en/swiss-articles/drug-dealing-local-network/)
 - [Dsm Firmenich Cuts 1000 Jobs Switzerland](https://frontaliereticino.ch/en/swiss-articles/dsm-firmenich-cuts-1000-jobs-switzerland/)
+- [E Scooter Helmet Mandate](https://frontaliereticino.ch/en/swiss-articles/e-scooter-helmet-mandate/)
 - [Early Retirement Cross Border Workers 2026](https://frontaliereticino.ch/en/swiss-articles/early-retirement-cross-border-workers-2026/)
 - [Earthquake In Indonesia The Number Of Victims Rises To 68](https://frontaliereticino.ch/en/swiss-articles/earthquake-in-indonesia-the-number-of-victims-rises-to-68/)
 - [Easygov Smes Switzerland](https://frontaliereticino.ch/en/swiss-articles/easygov-smes-switzerland/)
@@ -5272,6 +5280,7 @@
 - [Residence Permit B Canton Zurich](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-canton-zurich/)
 - [Residence Permit B In Soleta Requirements And Procedure](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-in-soleta-requirements-and-procedure/)
 - [Residence Permit B In The Canton Of Nidvaldo Requirements And Renewal](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-in-the-canton-of-nidvaldo-requirements-and-renewal/)
+- [Residence Permit B Switzerland Guide](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-switzerland-guide/)
 - [Residence Permit B Withholding Tax 2026](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-withholding-tax-2026/)
 - [Residence Permit B Zurich Requirements](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-zurich-requirements/)
 - [Residence Permit C In The Canton Of Basel City Requirements And Application](https://frontaliereticino.ch/en/swiss-articles/residence-permit-c-in-the-canton-of-basel-city-requirements-and-application/)
@@ -5487,6 +5496,7 @@
 - [Switzerland Asylum Seekers Transfer Italy](https://frontaliereticino.ch/en/swiss-articles/switzerland-asylum-seekers-transfer-italy/)
 - [Switzerland Bank Account Tax Reporting](https://frontaliereticino.ch/en/swiss-articles/switzerland-bank-account-tax-reporting/)
 - [Switzerland Ceuta Melilla Border Controls](https://frontaliereticino.ch/en/swiss-articles/switzerland-ceuta-melilla-border-controls/)
+- [Switzerland China Free Trade Agreement](https://frontaliereticino.ch/en/swiss-articles/switzerland-china-free-trade-agreement/)
 - [Switzerland Cross Border Unemployment Eu](https://frontaliereticino.ch/en/swiss-articles/switzerland-cross-border-unemployment-eu/)
 - [Switzerland Diesel Prices](https://frontaliereticino.ch/en/swiss-articles/switzerland-diesel-prices/)
 - [Switzerland Drought Water Theft Concerns](https://frontaliereticino.ch/en/swiss-articles/switzerland-drought-water-theft-concerns/)
@@ -5495,6 +5505,7 @@
 - [Switzerland Employment Unemployment Q2 2026](https://frontaliereticino.ch/en/swiss-articles/switzerland-employment-unemployment-q2-2026/)
 - [Switzerland Eu Agreement Council Federal](https://frontaliereticino.ch/en/swiss-articles/switzerland-eu-agreement-council-federal/)
 - [Switzerland Export Growth](https://frontaliereticino.ch/en/swiss-articles/switzerland-export-growth/)
+- [Switzerland Gas Winter Option](https://frontaliereticino.ch/en/swiss-articles/switzerland-gas-winter-option/)
 - [Switzerland Gasoline Prices Today](https://frontaliereticino.ch/en/swiss-articles/switzerland-gasoline-prices-today/)
 - [Switzerland Healthcare Lamal Vaud](https://frontaliereticino.ch/en/swiss-articles/switzerland-healthcare-lamal-vaud/)
 - [Switzerland Immigration Emigration Decline 2026](https://frontaliereticino.ch/en/swiss-articles/switzerland-immigration-emigration-decline-2026/)
@@ -5659,6 +5670,7 @@
 - [Uzwil Pool Closed Drought](https://frontaliereticino.ch/en/swiss-articles/uzwil-pool-closed-drought/)
 - [Venditti Lugano National Context](https://frontaliereticino.ch/en/swiss-articles/venditti-lugano-national-context/)
 - [Viareggio Train Disaster Convictions](https://frontaliereticino.ch/en/swiss-articles/viareggio-train-disaster-convictions/)
+- [Viticulture Ticino 2026 Challenges](https://frontaliereticino.ch/en/swiss-articles/viticulture-ticino-2026-challenges/)
 - [Volg Binn News 2024](https://frontaliereticino.ch/en/swiss-articles/volg-binn-news-2024/)
 - [Volg Reckingen 2026](https://frontaliereticino.ch/en/swiss-articles/volg-reckingen-2026/)
 - [Volg Wiler Supermarkets Switzerland](https://frontaliereticino.ch/en/swiss-articles/volg-wiler-supermarkets-switzerland/)
