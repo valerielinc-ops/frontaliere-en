@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5707 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5715 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3524 pages)
+### Blog Articles (3528 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -803,6 +803,7 @@
 - [Accessible Dental Care Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/accessible-dental-care-ticino-2026/)
 - [Accident Alpeggio Vallemaggia 2026](https://frontaliereticino.ch/en/cross-border-articles/accident-alpeggio-vallemaggia-2026/)
 - [Accident Autolaghi Injured Woman](https://frontaliereticino.ch/en/cross-border-articles/accident-autolaghi-injured-woman/)
+- [Accident Border Commuter Road Cantello](https://frontaliereticino.ch/en/cross-border-articles/accident-border-commuter-road-cantello/)
 - [Accident Brogeda Viaduct Como](https://frontaliereticino.ch/en/cross-border-articles/accident-brogeda-viaduct-como/)
 - [Accident Cantu Two Injured](https://frontaliereticino.ch/en/cross-border-articles/accident-cantu-two-injured/)
 - [Accident Fino Mornasco April 30 2026](https://frontaliereticino.ch/en/cross-border-articles/accident-fino-mornasco-april-30-2026/)
@@ -2476,6 +2477,7 @@
 - [Living Lurago Marinone Working Ticino Commuter](https://frontaliereticino.ch/en/cross-border-articles/living-lurago-marinone-working-ticino-commuter/)
 - [Living Lurate Caccivio Work Ticino Border](https://frontaliereticino.ch/en/cross-border-articles/living-lurate-caccivio-work-ticino-border/)
 - [Living Masciago Primo Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-masciago-primo-working-ticino/)
+- [Living Morazzone Working Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-morazzone-working-ticino-cross-border/)
 - [Living Oggebbio Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-oggebbio-working-ticino/)
 - [Living Oyace Working Valais Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-oyace-working-valais-cross-border/)
 - [Living Ponna Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-ponna-working-ticino/)
@@ -3852,6 +3854,7 @@
 - [G Permit](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
+- [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-4/)
 - [Health Insurance](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-2/)
@@ -3937,6 +3940,7 @@
 - [Train Service Restored Locarno Cadenazzo](https://frontaliereticino.ch/en/cross-border-articles/train-service-restored-locarno-cadenazzo/)
 - [Train Vandalism Como Arrest](https://frontaliereticino.ch/en/cross-border-articles/train-vandalism-como-arrest/)
 - [Train Without Ticket Cross Border Workers Ticino](https://frontaliereticino.ch/en/cross-border-articles/train-without-ticket-cross-border-workers-ticino/)
+- [Training Beyond 20km Upskilling](https://frontaliereticino.ch/en/cross-border-articles/training-beyond-20km-upskilling/)
 - [Tram Train Appeal Zali](https://frontaliereticino.ch/en/cross-border-articles/tram-train-appeal-zali/)
 - [Transfer To Domodossola From Commuter Pros And Cons](https://frontaliereticino.ch/en/cross-border-articles/transfer-to-domodossola-from-commuter-pros-and-cons/)
 - [Transfer To Madesimo From Commuter](https://frontaliereticino.ch/en/cross-border-articles/transfer-to-madesimo-from-commuter/)
@@ -4289,7 +4293,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1471 pages)
+### Other Pages (1475 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4589,8 +4593,10 @@
 - [Brexit Impacts Switzerland Eu](https://frontaliereticino.ch/en/swiss-articles/brexit-impacts-switzerland-eu/)
 - [Brogeda Customs Waiting Times](https://frontaliereticino.ch/en/swiss-articles/brogeda-customs-waiting-times/)
 - [Burckhardt Compression Job Cuts](https://frontaliereticino.ch/en/swiss-articles/burckhardt-compression-job-cuts/)
+- [Buy Home Schaffhausen Mortgage](https://frontaliereticino.ch/en/swiss-articles/buy-home-schaffhausen-mortgage/)
 - [Buy House Canton Berne](https://frontaliereticino.ch/en/swiss-articles/buy-house-canton-berne/)
 - [Buy House Canton Obvaldo](https://frontaliereticino.ch/en/swiss-articles/buy-house-canton-obvaldo/)
+- [Buy House Canton Schaffhausen Mortgage Tax](https://frontaliereticino.ch/en/swiss-articles/buy-house-canton-schaffhausen-mortgage-tax/)
 - [Buy House Canton Zurich Prices And Mortgage](https://frontaliereticino.ch/en/swiss-articles/buy-house-canton-zurich-prices-and-mortgage/)
 - [Buy House Friburg](https://frontaliereticino.ch/en/swiss-articles/buy-house-friburg/)
 - [Buy House In Nidwalden Switzerland](https://frontaliereticino.ch/en/swiss-articles/buy-house-in-nidwalden-switzerland/)
@@ -5267,6 +5273,7 @@
 - [Real Estate Gains Tax Municipalities Ticino](https://frontaliereticino.ch/en/swiss-articles/real-estate-gains-tax-municipalities-ticino/)
 - [Record Railway Passengers Second Quarter](https://frontaliereticino.ch/en/swiss-articles/record-railway-passengers-second-quarter/)
 - [Recruitment Lugano](https://frontaliereticino.ch/en/swiss-articles/recruitment-lugano/)
+- [Red Cross Legal Action Name Misuse](https://frontaliereticino.ch/en/swiss-articles/red-cross-legal-action-name-misuse/)
 - [Red Train Schanf Livigno](https://frontaliereticino.ch/en/swiss-articles/red-train-schanf-livigno/)
 - [Region Of Lombardy Faithful](https://frontaliereticino.ch/en/swiss-articles/region-of-lombardy-faithful/)
 - [Rejection Unemployed Center Coldrerio](https://frontaliereticino.ch/en/swiss-articles/rejection-unemployed-center-coldrerio/)
@@ -5277,6 +5284,7 @@
 - [Rental Market Canton Of Bern](https://frontaliereticino.ch/en/swiss-articles/rental-market-canton-of-bern/)
 - [Rental Market Fribourg Canton](https://frontaliereticino.ch/en/swiss-articles/rental-market-fribourg-canton/)
 - [Rental Market Lugano Slows Down](https://frontaliereticino.ch/en/swiss-articles/rental-market-lugano-slows-down/)
+- [Rental Schaffhausen Deposit Termination Mediation](https://frontaliereticino.ch/en/swiss-articles/rental-schaffhausen-deposit-termination-mediation/)
 - [Rentals Obvaldo Cantons Average Rights](https://frontaliereticino.ch/en/swiss-articles/rentals-obvaldo-cantons-average-rights/)
 - [Rentals Ticino Market Landlords](https://frontaliereticino.ch/en/swiss-articles/rentals-ticino-market-landlords/)
 - [Reorganization Of Business Incentives](https://frontaliereticino.ch/en/swiss-articles/reorganization-of-business-incentives/)
