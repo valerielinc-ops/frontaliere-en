@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5702 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5707 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3522 pages)
+### Blog Articles (3524 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2414,6 +2414,7 @@
 - [Live In Valtellina Work In Grisons Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/live-in-valtellina-work-in-grisons-frontaliers/)
 - [Live Intragna Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-intragna-work-ticino-cross-border/)
 - [Live La Thuile Work Valais](https://frontaliereticino.ch/en/cross-border-articles/live-la-thuile-work-valais/)
+- [Live Limido Comasco As A Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-limido-comasco-as-a-frontalier/)
 - [Live Livigno Work Grigioni Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/live-livigno-work-grigioni-frontaliers/)
 - [Live Longer Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-longer-ticino/)
 - [Live Re Work Ticino Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-re-work-ticino-frontalier/)
@@ -2423,6 +2424,7 @@
 - [Livigno Engadina Trains](https://frontaliereticino.ch/en/cross-border-articles/livigno-engadina-trains/)
 - [Livigno S Chanf By Train](https://frontaliereticino.ch/en/cross-border-articles/livigno-s-chanf-by-train/)
 - [Living Aosta Working Valais Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-aosta-working-valais-cross-border/)
+- [Living Caglio Working Ticino Frontier Worker](https://frontaliereticino.ch/en/cross-border-articles/living-caglio-working-ticino-frontier-worker/)
 - [Living Campodolcino Working Grigioni As Frontalier](https://frontaliereticino.ch/en/cross-border-articles/living-campodolcino-working-grigioni-as-frontalier/)
 - [Living Castello Cabiaglio Work Ticino Border Worker](https://frontaliereticino.ch/en/cross-border-articles/living-castello-cabiaglio-work-ticino-border-worker/)
 - [Living Cermenate Working Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-cermenate-working-ticino-cross-border/)
@@ -3850,7 +3852,6 @@
 - [G Permit](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
-- [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-4/)
 - [Health Insurance](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-2/)
@@ -3909,6 +3910,7 @@
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-9/)
 - [Torchlight Procession Sacconago Hope Friendship](https://frontaliereticino.ch/en/cross-border-articles/torchlight-procession-sacconago-hope-friendship/)
 - [Totalization Contributions Avs Inps Frontaliers Ticino](https://frontaliereticino.ch/en/cross-border-articles/totalization-contributions-avs-inps-frontaliers-ticino/)
 - [Tourism Varesotto 2026 Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/tourism-varesotto-2026-cross-border-workers/)
@@ -4287,7 +4289,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1468 pages)
+### Other Pages (1471 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4522,6 +4524,7 @@
 - [Apprenticeship Vocational Training Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/apprenticeship-vocational-training-basel-landschaft/)
 - [Apprenticeship Vocational Training Bern](https://frontaliereticino.ch/en/swiss-articles/apprenticeship-vocational-training-bern/)
 - [Apprenticeship Vocational Training Bern Canton](https://frontaliereticino.ch/en/swiss-articles/apprenticeship-vocational-training-bern-canton/)
+- [Apprenticeship Vocational Training Schaffhausen](https://frontaliereticino.ch/en/swiss-articles/apprenticeship-vocational-training-schaffhausen/)
 - [Apprenticeship Vocational Training Zurich](https://frontaliereticino.ch/en/swiss-articles/apprenticeship-vocational-training-zurich/)
 - [Apprenticeship Zug](https://frontaliereticino.ch/en/swiss-articles/apprenticeship-zug/)
 - [Apprenticeships And Professional Training In Fribourg Canton](https://frontaliereticino.ch/en/swiss-articles/apprenticeships-and-professional-training-in-fribourg-canton/)
@@ -4762,6 +4765,7 @@
 - [Drug Dealing Local Network](https://frontaliereticino.ch/en/swiss-articles/drug-dealing-local-network/)
 - [Dsm Firmenich Cuts 1000 Jobs Switzerland](https://frontaliereticino.ch/en/swiss-articles/dsm-firmenich-cuts-1000-jobs-switzerland/)
 - [E Scooter Helmet Mandate](https://frontaliereticino.ch/en/swiss-articles/e-scooter-helmet-mandate/)
+- [E Scooter Helmet Safety](https://frontaliereticino.ch/en/swiss-articles/e-scooter-helmet-safety/)
 - [Early Retirement Cross Border Workers 2026](https://frontaliereticino.ch/en/swiss-articles/early-retirement-cross-border-workers-2026/)
 - [Earthquake In Indonesia The Number Of Victims Rises To 68](https://frontaliereticino.ch/en/swiss-articles/earthquake-in-indonesia-the-number-of-victims-rises-to-68/)
 - [Easygov Smes Switzerland](https://frontaliereticino.ch/en/swiss-articles/easygov-smes-switzerland/)
@@ -5496,6 +5500,7 @@
 - [Switzerland Asylum Seekers Transfer Italy](https://frontaliereticino.ch/en/swiss-articles/switzerland-asylum-seekers-transfer-italy/)
 - [Switzerland Bank Account Tax Reporting](https://frontaliereticino.ch/en/swiss-articles/switzerland-bank-account-tax-reporting/)
 - [Switzerland Ceuta Melilla Border Controls](https://frontaliereticino.ch/en/swiss-articles/switzerland-ceuta-melilla-border-controls/)
+- [Switzerland China Export Tariffs](https://frontaliereticino.ch/en/swiss-articles/switzerland-china-export-tariffs/)
 - [Switzerland China Free Trade Agreement](https://frontaliereticino.ch/en/swiss-articles/switzerland-china-free-trade-agreement/)
 - [Switzerland Cross Border Unemployment Eu](https://frontaliereticino.ch/en/swiss-articles/switzerland-cross-border-unemployment-eu/)
 - [Switzerland Diesel Prices](https://frontaliereticino.ch/en/swiss-articles/switzerland-diesel-prices/)
