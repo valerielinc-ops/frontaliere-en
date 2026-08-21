@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5795 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5800 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3568 pages)
+### Blog Articles (3570 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1011,6 +1011,7 @@
 - [Best Towns Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/best-towns-cross-border-workers/)
 - [Best Traditional Ticino Restaurants Lugano](https://frontaliereticino.ch/en/cross-border-articles/best-traditional-ticino-restaurants-lugano/)
 - [Betting War Trump Prediction Market](https://frontaliereticino.ch/en/cross-border-articles/betting-war-trump-prediction-market/)
+- [Beura Cardezza Cross Border Ticino](https://frontaliereticino.ch/en/cross-border-articles/beura-cardezza-cross-border-ticino/)
 - [Bianconeri Short Game 2026](https://frontaliereticino.ch/en/cross-border-articles/bianconeri-short-game-2026/)
 - [Biandronno Meeting Astuti Licata 2026](https://frontaliereticino.ch/en/cross-border-articles/biandronno-meeting-astuti-licata-2026/)
 - [Biasca Interchange Works Final Phase](https://frontaliereticino.ch/en/cross-border-articles/biasca-interchange-works-final-phase/)
@@ -1494,6 +1495,7 @@
 - [Cross Border Workers Chf Eur Exchange Strategy 2026 Practical Simulation](https://frontaliereticino.ch/en/cross-border-articles/cross-border-workers-chf-eur-exchange-strategy-2026-practical-simulation/)
 - [Cross Border Workers Childcare Switzerland](https://frontaliereticino.ch/en/cross-border-articles/cross-border-workers-childcare-switzerland/)
 - [Cross Border Workers Cu 2026 Telework 45 Days Final Rules](https://frontaliereticino.ch/en/cross-border-articles/cross-border-workers-cu-2026-telework-45-days-final-rules/)
+- [Cross Border Workers Decline Q2 2026](https://frontaliereticino.ch/en/cross-border-articles/cross-border-workers-decline-q2-2026/)
 - [Cross Border Workers Decline Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-workers-decline-ticino/)
 - [Cross Border Workers Employer Outside Border Area](https://frontaliereticino.ch/en/cross-border-articles/cross-border-workers-employer-outside-border-area/)
 - [Cross Border Workers Flexible Hours Residency](https://frontaliereticino.ch/en/cross-border-articles/cross-border-workers-flexible-hours-residency/)
@@ -4333,7 +4335,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1515 pages)
+### Other Pages (1518 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5025,6 +5027,7 @@
 - [Health Insurance Appenzell Outsrhoden Deductibles](https://frontaliereticino.ch/en/swiss-articles/health-insurance-appenzell-outsrhoden-deductibles/)
 - [Health Insurance Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-initiatives-2026/)
 - [Health Insurance Manager Salary Cap](https://frontaliereticino.ch/en/swiss-articles/health-insurance-manager-salary-cap/)
+- [Health Insurance Managers Commission](https://frontaliereticino.ch/en/swiss-articles/health-insurance-managers-commission/)
 - [Health Insurance Neuchatel Young Adults](https://frontaliereticino.ch/en/swiss-articles/health-insurance-neuchatel-young-adults/)
 - [Health Insurance Premium Reduced Basel City](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premium-reduced-basel-city/)
 - [Health Insurance Premiums By Canton](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-by-canton/)
@@ -5175,6 +5178,7 @@
 - [Media Jobs Ssr Talents Ticino](https://frontaliereticino.ch/en/swiss-articles/media-jobs-ssr-talents-ticino/)
 - [Medical Devices Reimbursement Abroad](https://frontaliereticino.ch/en/swiss-articles/medical-devices-reimbursement-abroad/)
 - [Medics Of Base Shortage Switzerland](https://frontaliereticino.ch/en/swiss-articles/medics-of-base-shortage-switzerland/)
+- [Mental Health Care Costs Switzerland 2024](https://frontaliereticino.ch/en/swiss-articles/mental-health-care-costs-switzerland-2024/)
 - [Mercato Affitti Canton Berna](https://frontaliereticino.ch/en/swiss-articles/mercato-affitti-canton-berna/)
 - [Migros 24 Hour Supermarket Herisau](https://frontaliereticino.ch/en/swiss-articles/migros-24-hour-supermarket-herisau/)
 - [Migros Caissiere Ticino](https://frontaliereticino.ch/en/swiss-articles/migros-caissiere-ticino/)
@@ -5803,6 +5807,7 @@
 - [Zurich Layoffs Finma Pension](https://frontaliereticino.ch/en/swiss-articles/zurich-layoffs-finma-pension/)
 - [Zurich Rent Prices And Tenant Rights](https://frontaliereticino.ch/en/swiss-articles/zurich-rent-prices-and-tenant-rights/)
 - [Zurich Scholarships Funding](https://frontaliereticino.ch/en/swiss-articles/zurich-scholarships-funding/)
+- [Zurich Tenancy Deposit Dispute Procedures](https://frontaliereticino.ch/en/swiss-articles/zurich-tenancy-deposit-dispute-procedures/)
 - [Zurich Train Fine Bribery](https://frontaliereticino.ch/en/swiss-articles/zurich-train-fine-bribery/)
 - [Zurich Vote Affordable Housing Health Insurance](https://frontaliereticino.ch/en/swiss-articles/zurich-vote-affordable-housing-health-insurance/)
 - [Swiss Employment Contracts](https://frontaliereticino.ch/en/swiss-employment-contracts/)
