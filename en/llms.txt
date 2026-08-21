@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5767 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5775 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3554 pages)
+### Blog Articles (3557 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2413,10 +2413,13 @@
 - [Live Caronno Varesino Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-caronno-varesino-work-ticino/)
 - [Live Castelmarte Work Ticino Frontier Worker](https://frontaliereticino.ch/en/cross-border-articles/live-castelmarte-work-ticino-frontier-worker/)
 - [Live Colonno Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-colonno-work-ticino-cross-border/)
+- [Live Colverde Work Ticino Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-colverde-work-ticino-frontalier/)
 - [Live Como Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-como-work-ticino-cross-border/)
+- [Live Cremia Work Ticino Frontier](https://frontaliereticino.ch/en/cross-border-articles/live-cremia-work-ticino-frontier/)
 - [Live Crevoladossola Work Ticino Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/live-crevoladossola-work-ticino-frontaliers/)
 - [Live Dongo Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-dongo-work-ticino-cross-border/)
 - [Live Erba Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-erba-work-ticino-cross-border/)
+- [Live Fagnano Olona Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-fagnano-olona-work-ticino/)
 - [Live Galliate Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-galliate-work-ticino-cross-border/)
 - [Live In Biandronno Work In Ticino As Border Worker](https://frontaliereticino.ch/en/cross-border-articles/live-in-biandronno-work-in-ticino-as-border-worker/)
 - [Live In Centro Valle Intelvi Work In Ticino As A Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-in-centro-valle-intelvi-work-in-ticino-as-a-frontalier/)
@@ -4319,7 +4322,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1501 pages)
+### Other Pages (1506 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4470,7 +4473,6 @@
 - [Jobs Ticino Electrician](https://frontaliereticino.ch/en/jobs-ticino-electrician/)
 - [Jobs Ticino Engineer](https://frontaliereticino.ch/en/jobs-ticino-engineer/)
 - [Jobs Ticino Healthcare Assistant](https://frontaliereticino.ch/en/jobs-ticino-healthcare-assistant/)
-- [Jobs Ticino Mason](https://frontaliereticino.ch/en/jobs-ticino-mason/)
 - [Jobs Ticino Midwife](https://frontaliereticino.ch/en/jobs-ticino-midwife/)
 - [Jobs Ticino Nurse](https://frontaliereticino.ch/en/jobs-ticino-nurse/)
 - [Jobs Ticino Physiotherapist](https://frontaliereticino.ch/en/jobs-ticino-physiotherapist/)
@@ -4569,6 +4571,7 @@
 - [Assegni Familiari Glarona](https://frontaliereticino.ch/en/swiss-articles/assegni-familiari-glarona/)
 - [Assegno Unico Inps New Rules](https://frontaliereticino.ch/en/swiss-articles/assegno-unico-inps-new-rules/)
 - [Assistance Admission Revision 2026](https://frontaliereticino.ch/en/swiss-articles/assistance-admission-revision-2026/)
+- [Asylum Seekers Severe Measures](https://frontaliereticino.ch/en/swiss-articles/asylum-seekers-severe-measures/)
 - [Asylum Statistics July 2026](https://frontaliereticino.ch/en/swiss-articles/asylum-statistics-july-2026/)
 - [Auto Market Of New Not Declines Swiss People Prefer Used](https://frontaliereticino.ch/en/swiss-articles/auto-market-of-new-not-declines-swiss-people-prefer-used/)
 - [Average Salaries Zurich 2026 Comparison](https://frontaliereticino.ch/en/swiss-articles/average-salaries-zurich-2026-comparison/)
@@ -4839,6 +4842,7 @@
 - [Family Allowance Canton Berne](https://frontaliereticino.ch/en/swiss-articles/family-allowance-canton-berne/)
 - [Family Allowance Obvaldo](https://frontaliereticino.ch/en/swiss-articles/family-allowance-obvaldo/)
 - [Family Allowances Appenzell Ausserrhoden](https://frontaliereticino.ch/en/swiss-articles/family-allowances-appenzell-ausserrhoden/)
+- [Family Allowances Appenzello Interno Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-appenzello-interno-application/)
 - [Family Allowances Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/family-allowances-basel-landschaft/)
 - [Family Allowances Cantone Zugo](https://frontaliereticino.ch/en/swiss-articles/family-allowances-cantone-zugo/)
 - [Family Allowances In The Canton Of Glarus Amounts And Demand](https://frontaliereticino.ch/en/swiss-articles/family-allowances-in-the-canton-of-glarus-amounts-and-demand/)
@@ -4984,6 +4988,7 @@
 - [Glencore Australia Listing](https://frontaliereticino.ch/en/swiss-articles/glencore-australia-listing/)
 - [Glencore Production Riscrittura](https://frontaliereticino.ch/en/swiss-articles/glencore-production-riscrittura/)
 - [Gold Falling Switzerland](https://frontaliereticino.ch/en/swiss-articles/gold-falling-switzerland/)
+- [Government Opinion Railway Infrastructure](https://frontaliereticino.ch/en/swiss-articles/government-opinion-railway-infrastructure/)
 - [Governo Dice No Iniziativa Alimentazione](https://frontaliereticino.ch/en/swiss-articles/governo-dice-no-iniziativa-alimentazione/)
 - [Graubunden Cash Payment Bus](https://frontaliereticino.ch/en/swiss-articles/graubunden-cash-payment-bus/)
 - [Greater Responsibilities For Bank Executives](https://frontaliereticino.ch/en/swiss-articles/greater-responsibilities-for-bank-executives/)
@@ -5371,6 +5376,7 @@
 - [Schaffhausen Residence Permit Category B](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-residence-permit-category-b/)
 - [Schindler Profitable Growth](https://frontaliereticino.ch/en/swiss-articles/schindler-profitable-growth/)
 - [Scholarship Lucerne](https://frontaliereticino.ch/en/swiss-articles/scholarship-lucerne/)
+- [Scholarships Appenzell Innerrhoden](https://frontaliereticino.ch/en/swiss-articles/scholarships-appenzell-innerrhoden/)
 - [Scholarships Basel City](https://frontaliereticino.ch/en/swiss-articles/scholarships-basel-city/)
 - [Scholarships Canton Bern Requirements](https://frontaliereticino.ch/en/swiss-articles/scholarships-canton-bern-requirements/)
 - [Scholarships Canton Fribourg](https://frontaliereticino.ch/en/swiss-articles/scholarships-canton-fribourg/)
@@ -5443,6 +5449,7 @@
 - [Spanish Tomatoes Cheap Era Over](https://frontaliereticino.ch/en/swiss-articles/spanish-tomatoes-cheap-era-over/)
 - [Stabio Border Crossing Switzerland](https://frontaliereticino.ch/en/swiss-articles/stabio-border-crossing-switzerland/)
 - [Stadler Rail Cyberattack](https://frontaliereticino.ch/en/swiss-articles/stadler-rail-cyberattack/)
+- [Stadler Rail Fribourg 117 Million](https://frontaliereticino.ch/en/swiss-articles/stadler-rail-fribourg-117-million/)
 - [Start Business Canton Obvaldo](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-obvaldo/)
 - [Start Business Canton Zurich](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-zurich/)
 - [Starting Business Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/starting-business-basel-landschaft/)
@@ -5692,6 +5699,7 @@
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-5/)
+- [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-6/)
 - [Transport And Traffic](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/page-3/)
