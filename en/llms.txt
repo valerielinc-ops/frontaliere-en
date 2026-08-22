@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5809 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5815 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3575 pages)
+### Blog Articles (3577 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2449,6 +2449,7 @@
 - [Live Santa Maria Maggiore Cross Border Worker Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-santa-maria-maggiore-cross-border-worker-ticino/)
 - [Live Solbiate Arno Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-solbiate-arno-work-ticino/)
 - [Live Sormano Work Ticino Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-sormano-work-ticino-frontalier/)
+- [Live Spriana Grisons Border Worker](https://frontaliereticino.ch/en/cross-border-articles/live-spriana-grisons-border-worker/)
 - [Live Valdisotto Work Grigioni Fiscal](https://frontaliereticino.ch/en/cross-border-articles/live-valdisotto-work-grigioni-fiscal/)
 - [Live Venegono Superiore Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-venegono-superiore-work-ticino-cross-border/)
 - [Live Villa Guardia Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-villa-guardia-work-ticino/)
@@ -2492,6 +2493,7 @@
 - [Living In Maccagno Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-maccagno-working-in-ticino/)
 - [Living In Maslianico Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-maslianico-working-in-ticino/)
 - [Living In Moltrasio Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-moltrasio-working-in-ticino/)
+- [Living In Monno Working In Grisons](https://frontaliereticino.ch/en/cross-border-articles/living-in-monno-working-in-grisons/)
 - [Living In Mozzate Working In Ticino As A Commuter](https://frontaliereticino.ch/en/cross-border-articles/living-in-mozzate-working-in-ticino-as-a-commuter/)
 - [Living In Ollomont Working In Valais Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-in-ollomont-working-in-valais-cross-border/)
 - [Living In Oltrona Di San Mamette And Working In Ticino As A Frontalier](https://frontaliereticino.ch/en/cross-border-articles/living-in-oltrona-di-san-mamette-and-working-in-ticino-as-a-frontalier/)
@@ -3845,7 +3847,6 @@
 - [Tonale Pass Tunnel Lombardy Traffic](https://frontaliereticino.ch/en/cross-border-articles/tonale-pass-tunnel-lombardy-traffic/)
 - [Topics](https://frontaliereticino.ch/en/cross-border-articles/topics/)
 - [Agreements And Politics](https://frontaliereticino.ch/en/cross-border-articles/topics/agreements-and-politics/)
-- [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/agreements-and-politics/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/agreements-and-politics/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/agreements-and-politics/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/agreements-and-politics/page-4/)
@@ -3925,6 +3926,7 @@
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-5/)
+- [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-6/)
 - [Safety And Crime](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-3/)
@@ -4340,7 +4342,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1522 pages)
+### Other Pages (1526 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4491,6 +4493,7 @@
 - [Jobs Ticino Electrician](https://frontaliereticino.ch/en/jobs-ticino-electrician/)
 - [Jobs Ticino Engineer](https://frontaliereticino.ch/en/jobs-ticino-engineer/)
 - [Jobs Ticino Healthcare Assistant](https://frontaliereticino.ch/en/jobs-ticino-healthcare-assistant/)
+- [Jobs Ticino Mason](https://frontaliereticino.ch/en/jobs-ticino-mason/)
 - [Jobs Ticino Midwife](https://frontaliereticino.ch/en/jobs-ticino-midwife/)
 - [Jobs Ticino Nurse](https://frontaliereticino.ch/en/jobs-ticino-nurse/)
 - [Jobs Ticino Physiotherapist](https://frontaliereticino.ch/en/jobs-ticino-physiotherapist/)
@@ -4895,6 +4898,7 @@
 - [Fire Autostrada Piotta](https://frontaliereticino.ch/en/swiss-articles/fire-autostrada-piotta/)
 - [Fire New Accommodation Rental Cantons](https://frontaliereticino.ch/en/swiss-articles/fire-new-accommodation-rental-cantons/)
 - [First Day Work Documents Ticino](https://frontaliereticino.ch/en/swiss-articles/first-day-work-documents-ticino/)
+- [First Pillar Zurich Minimum Living Standard](https://frontaliereticino.ch/en/swiss-articles/first-pillar-zurich-minimum-living-standard/)
 - [Fiscal News 730 2025 Cross Border](https://frontaliereticino.ch/en/swiss-articles/fiscal-news-730-2025-cross-border/)
 - [Fiscal Reimbursements For Frontier Workers How They Work](https://frontaliereticino.ch/en/swiss-articles/fiscal-reimbursements-for-frontier-workers-how-they-work/)
 - [Fiscal Residency Audit Digital Evidence](https://frontaliereticino.ch/en/swiss-articles/fiscal-residency-audit-digital-evidence/)
@@ -5493,6 +5497,7 @@
 - [Sulzer First Semester 2026](https://frontaliereticino.ch/en/swiss-articles/sulzer-first-semester-2026/)
 - [Summer Ffs Construction Ticino](https://frontaliereticino.ch/en/swiss-articles/summer-ffs-construction-ticino/)
 - [Sunrise 147 Job Cuts](https://frontaliereticino.ch/en/swiss-articles/sunrise-147-job-cuts/)
+- [Supplementary Benefits Zurich Minimum Living](https://frontaliereticino.ch/en/swiss-articles/supplementary-benefits-zurich-minimum-living/)
 - [Suspension Of Cross Border Tax Transfer](https://frontaliereticino.ch/en/swiss-articles/suspension-of-cross-border-tax-transfer/)
 - [Suspension Of Work On Anti Migrant Wall In Big Bend Texas](https://frontaliereticino.ch/en/swiss-articles/suspension-of-work-on-anti-migrant-wall-in-big-bend-texas/)
 - [Svizzera Ees Rallenta Controlli](https://frontaliereticino.ch/en/swiss-articles/svizzera-ees-rallenta-controlli/)
@@ -5730,6 +5735,7 @@
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-5/)
+- [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-6/)
 - [Transport And Traffic](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/page-3/)
