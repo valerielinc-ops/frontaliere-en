@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5879 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5883 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3607 pages)
+### Blog Articles (3609 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2255,6 +2255,7 @@
 - [Initiative F 35 Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/initiative-f-35-ticino-2026/)
 - [Initiative No To 10 Million Switzerland Vote](https://frontaliereticino.ch/en/cross-border-articles/initiative-no-to-10-million-switzerland-vote/)
 - [Iniziativa Salari Ticino Voto Anti Dumping](https://frontaliereticino.ch/en/cross-border-articles/iniziativa-salari-ticino-voto-anti-dumping/)
+- [Injury While Commuting Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/injury-while-commuting-cross-border-worker/)
 - [Innovative Lake City Cross Border](https://frontaliereticino.ch/en/cross-border-articles/innovative-lake-city-cross-border/)
 - [Inspection Construction Mendrisiotto](https://frontaliereticino.ch/en/cross-border-articles/inspection-construction-mendrisiotto/)
 - [Integration Foreign Workers Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/integration-foreign-workers-ticino-2026/)
@@ -3902,7 +3903,6 @@
 - [Page 23](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-23/)
 - [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-24/)
 - [Page 25](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-25/)
-- [Page 26](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-26/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-5/)
@@ -3999,6 +3999,7 @@
 - [Tradate Fight Injured Man](https://frontaliereticino.ch/en/cross-border-articles/tradate-fight-injured-man/)
 - [Traffic A2 July Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/traffic-a2-july-cross-border-workers/)
 - [Traffic Costs Switzerland 2023](https://frontaliereticino.ch/en/cross-border-articles/traffic-costs-switzerland-2023/)
+- [Traffic Fine Notification Italian Resident](https://frontaliereticino.ch/en/cross-border-articles/traffic-fine-notification-italian-resident/)
 - [Traffic Jam A2 Lugano Delays](https://frontaliereticino.ch/en/cross-border-articles/traffic-jam-a2-lugano-delays/)
 - [Traffic Light Paradiso Melide 2026](https://frontaliereticino.ch/en/cross-border-articles/traffic-light-paradiso-melide-2026/)
 - [Traffic Lights Against Parasitic Traffic The Graubunden Strategy Works](https://frontaliereticino.ch/en/cross-border-articles/traffic-lights-against-parasitic-traffic-the-graubunden-strategy-works/)
@@ -4292,6 +4293,7 @@
 - [Work Tragedy Blenio Aquila](https://frontaliereticino.ch/en/cross-border-articles/work-tragedy-blenio-aquila/)
 - [Working As A Warehouse Worker In Logistics Ticino](https://frontaliereticino.ch/en/cross-border-articles/working-as-a-warehouse-worker-in-logistics-ticino/)
 - [Working In Switzerland](https://frontaliereticino.ch/en/cross-border-articles/working-in-switzerland/)
+- [Workplace Accident Commute Border Worker Lainf](https://frontaliereticino.ch/en/cross-border-articles/workplace-accident-commute-border-worker-lainf/)
 - [Workplace Accident Miglieglia](https://frontaliereticino.ch/en/cross-border-articles/workplace-accident-miglieglia/)
 - [Workplace Accident Vallemaggia Piano Peccia](https://frontaliereticino.ch/en/cross-border-articles/workplace-accident-vallemaggia-piano-peccia/)
 - [Workplace Accidents Inail Opens Up To Hi Tech Prosthetics](https://frontaliereticino.ch/en/cross-border-articles/workplace-accidents-inail-opens-up-to-hi-tech-prosthetics/)
@@ -4372,7 +4374,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1560 pages)
+### Other Pages (1562 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5173,6 +5175,7 @@
 - [Jokes New Measures Of The Federal Council](https://frontaliereticino.ch/en/swiss-articles/jokes-new-measures-of-the-federal-council/)
 - [June Hotel Stays Decline](https://frontaliereticino.ch/en/swiss-articles/june-hotel-stays-decline/)
 - [Kagi Ceo Export Challenges](https://frontaliereticino.ch/en/swiss-articles/kagi-ceo-export-challenges/)
+- [Keller Sutter Finance Ministers Germanic Countries](https://frontaliereticino.ch/en/swiss-articles/keller-sutter-finance-ministers-germanic-countries/)
 - [Keller Sutter Stability Sane Finances](https://frontaliereticino.ch/en/swiss-articles/keller-sutter-stability-sane-finances/)
 - [Kindergarten And Childcare In Canton Zug Costs](https://frontaliereticino.ch/en/swiss-articles/kindergarten-and-childcare-in-canton-zug-costs/)
 - [Kindergarten And Childcare In The Canton Of Lucerne Costs](https://frontaliereticino.ch/en/swiss-articles/kindergarten-and-childcare-in-the-canton-of-lucerne-costs/)
@@ -5391,6 +5394,7 @@
 - [Quadro Rw 2026 Who Declares Swiss Account](https://frontaliereticino.ch/en/swiss-articles/quadro-rw-2026-who-declares-swiss-account/)
 - [Quellensteuer Switzerland Rates 2026](https://frontaliereticino.ch/en/swiss-articles/quellensteuer-switzerland-rates-2026/)
 - [Quellensteuer Tarife 2026](https://frontaliereticino.ch/en/swiss-articles/quellensteuer-tarife-2026/)
+- [Radiologists Premiums Increases 2027](https://frontaliereticino.ch/en/swiss-articles/radiologists-premiums-increases-2027/)
 - [Railway Traffic Suspended Germany Technical Fault](https://frontaliereticino.ch/en/swiss-articles/railway-traffic-suspended-germany-technical-fault/)
 - [Rain Returns Drought Ticino](https://frontaliereticino.ch/en/swiss-articles/rain-returns-drought-ticino/)
 - [Ramaggedon Memory Chip Shortage](https://frontaliereticino.ch/en/swiss-articles/ramaggedon-memory-chip-shortage/)
