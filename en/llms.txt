@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5872 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5879 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3604 pages)
+### Blog Articles (3607 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1848,6 +1848,7 @@
 - [Fontana Fedriga Healthcare](https://frontaliereticino.ch/en/cross-border-articles/fontana-fedriga-healthcare/)
 - [Food Delivery Exploitation Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/food-delivery-exploitation-ticino-2026/)
 - [Food Safety Ticino Companies](https://frontaliereticino.ch/en/cross-border-articles/food-safety-ticino-companies/)
+- [Food Shopping Frontier Workers 2024](https://frontaliereticino.ch/en/cross-border-articles/food-shopping-frontier-workers-2024/)
 - [Food Sovereignty Lake Ticino](https://frontaliereticino.ch/en/cross-border-articles/food-sovereignty-lake-ticino/)
 - [Food Waste Youth Social Media](https://frontaliereticino.ch/en/cross-border-articles/food-waste-youth-social-media/)
 - [Forbidden Thoughts Stock Rising Towards 15000 Point Island](https://frontaliereticino.ch/en/cross-border-articles/forbidden-thoughts-stock-rising-towards-15000-point-island/)
@@ -2073,6 +2074,7 @@
 - [Grisons Residence Permits 2026](https://frontaliereticino.ch/en/cross-border-articles/grisons-residence-permits-2026/)
 - [Grisons Tightens Residence Permits 2026](https://frontaliereticino.ch/en/cross-border-articles/grisons-tightens-residence-permits-2026/)
 - [Grisons Tightens Residence Permits After Mafia Infiltration](https://frontaliereticino.ch/en/cross-border-articles/grisons-tightens-residence-permits-after-mafia-infiltration/)
+- [Grocery Shopping Comparison Cross Border Workers Ticino](https://frontaliereticino.ch/en/cross-border-articles/grocery-shopping-comparison-cross-border-workers-ticino/)
 - [Grono Hydroelectric Plant Active](https://frontaliereticino.ch/en/cross-border-articles/grono-hydroelectric-plant-active/)
 - [Guasto Tra Parabiago E Rho](https://frontaliereticino.ch/en/cross-border-articles/guasto-tra-parabiago-e-rho/)
 - [Guess Stabio Merchandiser Job](https://frontaliereticino.ch/en/cross-border-articles/guess-stabio-merchandiser-job/)
@@ -3543,6 +3545,7 @@
 - [Swiss Railway 300 Projects 2026](https://frontaliereticino.ch/en/cross-border-articles/swiss-railway-300-projects-2026/)
 - [Swiss Reduces Administrative Staff](https://frontaliereticino.ch/en/cross-border-articles/swiss-reduces-administrative-staff/)
 - [Swiss Relay Teams Beijing 2027](https://frontaliereticino.ch/en/cross-border-articles/swiss-relay-teams-beijing-2027/)
+- [Swiss Road Fine Payment Italian Resident](https://frontaliereticino.ch/en/cross-border-articles/swiss-road-fine-payment-italian-resident/)
 - [Swiss Road Fines Payment By Italian Resident](https://frontaliereticino.ch/en/cross-border-articles/swiss-road-fines-payment-by-italian-resident/)
 - [Swiss Sabotage Movie Frontaliers Ticinesi](https://frontaliereticino.ch/en/cross-border-articles/swiss-sabotage-movie-frontaliers-ticinesi/)
 - [Swiss Salaries Increase 2025](https://frontaliereticino.ch/en/cross-border-articles/swiss-salaries-increase-2025/)
@@ -4369,7 +4372,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1556 pages)
+### Other Pages (1560 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5542,6 +5545,7 @@
 - [Studying Solar Eclipse](https://frontaliereticino.ch/en/swiss-articles/studying-solar-eclipse/)
 - [Succession And Donation Taxes In The Canton Of Uri](https://frontaliereticino.ch/en/swiss-articles/succession-and-donation-taxes-in-the-canton-of-uri/)
 - [Succession Donation Cantonal Svitto](https://frontaliereticino.ch/en/swiss-articles/succession-donation-cantonal-svitto/)
+- [Succession Donation Tax Lucerne Guide](https://frontaliereticino.ch/en/swiss-articles/succession-donation-tax-lucerne-guide/)
 - [Sulla Disoccupazione Dei Frontalieri Si Apre Un Nuovo Fronte Con Bruxelles](https://frontaliereticino.ch/en/swiss-articles/sulla-disoccupazione-dei-frontalieri-si-apre-un-nuovo-fronte-con-bruxelles/)
 - [Sulzer Chemtech Restructuring](https://frontaliereticino.ch/en/swiss-articles/sulzer-chemtech-restructuring/)
 - [Sulzer First Semester 2026](https://frontaliereticino.ch/en/swiss-articles/sulzer-first-semester-2026/)
@@ -5703,6 +5707,7 @@
 - [Temu Skv Collaboration](https://frontaliereticino.ch/en/swiss-articles/temu-skv-collaboration/)
 - [Tenancy Law Conciliation Ticino](https://frontaliereticino.ch/en/swiss-articles/tenancy-law-conciliation-ticino/)
 - [Tenancy Law Rules Switzerland](https://frontaliereticino.ch/en/swiss-articles/tenancy-law-rules-switzerland/)
+- [Tenant Rights Canton Uri](https://frontaliereticino.ch/en/swiss-articles/tenant-rights-canton-uri/)
 - [Tenant Rights Rent Switzerland](https://frontaliereticino.ch/en/swiss-articles/tenant-rights-rent-switzerland/)
 - [Tendicione Arresti Veicoli 2024](https://frontaliereticino.ch/en/swiss-articles/tendicione-arresti-veicoli-2024/)
 - [Terziario Una Svolta Per Chiasso](https://frontaliereticino.ch/en/swiss-articles/terziario-una-svolta-per-chiasso/)
@@ -5824,6 +5829,8 @@
 - [Uri Canton Scholarships](https://frontaliereticino.ch/en/swiss-articles/uri-canton-scholarships/)
 - [Uri Cantonal Taxes](https://frontaliereticino.ch/en/swiss-articles/uri-cantonal-taxes/)
 - [Uri Lease Fees And Rights](https://frontaliereticino.ch/en/swiss-articles/uri-lease-fees-and-rights/)
+- [Uri Rental Guide Tenancy Rights](https://frontaliereticino.ch/en/swiss-articles/uri-rental-guide-tenancy-rights/)
+- [Uri Rental Law Tenants Rights](https://frontaliereticino.ch/en/swiss-articles/uri-rental-law-tenants-rights/)
 - [Us Trade Representative Praises Swiss Investments](https://frontaliereticino.ch/en/swiss-articles/us-trade-representative-praises-swiss-investments/)
 - [Usa Tariffs Council Federal](https://frontaliereticino.ch/en/swiss-articles/usa-tariffs-council-federal/)
 - [Usa Tariffs Switzerland July 2026](https://frontaliereticino.ch/en/swiss-articles/usa-tariffs-switzerland-july-2026/)
