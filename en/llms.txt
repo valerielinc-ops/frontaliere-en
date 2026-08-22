@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 5883 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 5886 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3609 pages)
+### Blog Articles (3610 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4282,6 +4282,7 @@
 - [Women Art Chiasso 2026](https://frontaliereticino.ch/en/cross-border-articles/women-art-chiasso-2026/)
 - [Work As Physical Therapist In Ticino From Abroad](https://frontaliereticino.ch/en/cross-border-articles/work-as-physical-therapist-in-ticino-from-abroad/)
 - [Work Germany Educators](https://frontaliereticino.ch/en/cross-border-articles/work-germany-educators/)
+- [Work Injury Coverage Frontalier](https://frontaliereticino.ch/en/cross-border-articles/work-injury-coverage-frontalier/)
 - [Work Life Balance Bellinzona 2026](https://frontaliereticino.ch/en/cross-border-articles/work-life-balance-bellinzona-2026/)
 - [Work Permits Ticino Digital](https://frontaliereticino.ch/en/cross-border-articles/work-permits-ticino-digital/)
 - [Work Plasterer Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/work-plasterer-ticino-cross-border/)
@@ -4374,7 +4375,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (1562 pages)
+### Other Pages (1564 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4575,6 +4576,7 @@
 - [Agricultural Vehicle Exits Road Dies 9 Year Old Child](https://frontaliereticino.ch/en/swiss-articles/agricultural-vehicle-exits-road-dies-9-year-old-child/)
 - [Agrola Diesel Price Bellinzona Today](https://frontaliereticino.ch/en/swiss-articles/agrola-diesel-price-bellinzona-today/)
 - [Agsrosope New Laboratories Posieux](https://frontaliereticino.ch/en/swiss-articles/agsrosope-new-laboratories-posieux/)
+- [Ahv Benefits Uri Compensation](https://frontaliereticino.ch/en/swiss-articles/ahv-benefits-uri-compensation/)
 - [Ahv Financing 13th](https://frontaliereticino.ch/en/swiss-articles/ahv-financing-13th/)
 - [Ai Behaving Like A Hacker How Is It Possible](https://frontaliereticino.ch/en/swiss-articles/ai-behaving-like-a-hacker-how-is-it-possible/)
 - [Ai Changes Work But Not People](https://frontaliereticino.ch/en/swiss-articles/ai-changes-work-but-not-people/)
@@ -5158,6 +5160,7 @@
 - [Intelligence Dogs Cats Research](https://frontaliereticino.ch/en/swiss-articles/intelligence-dogs-cats-research/)
 - [Interchange Nodes Labor Projects Settembre](https://frontaliereticino.ch/en/swiss-articles/interchange-nodes-labor-projects-settembre/)
 - [Interest Rates Snb 2027](https://frontaliereticino.ch/en/swiss-articles/interest-rates-snb-2027/)
+- [Ireland Asylum Dubliners Italy](https://frontaliereticino.ch/en/swiss-articles/ireland-asylum-dubliners-italy/)
 - [It Developer Ticino Cross Border](https://frontaliereticino.ch/en/swiss-articles/it-developer-ticino-cross-border/)
 - [Italian Forfettario Regime Compatibility Swiss Income](https://frontaliereticino.ch/en/swiss-articles/italian-forfettario-regime-compatibility-swiss-income/)
 - [Italy Restarts Asylum Repatriations](https://frontaliereticino.ch/en/swiss-articles/italy-restarts-asylum-repatriations/)
