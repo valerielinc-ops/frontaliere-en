@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6779 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6784 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3910 pages)
+### Blog Articles (3911 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1883,6 +1883,7 @@
 - [Fight Against Tiger Mosquito Mendrisio](https://frontaliereticino.ch/en/cross-border-articles/fight-against-tiger-mosquito-mendrisio/)
 - [Fight At Ponte Chiasso Customs Injured And Injured](https://frontaliereticino.ch/en/cross-border-articles/fight-at-ponte-chiasso-customs-injured-and-injured/)
 - [Fight Gender Violence Ticino](https://frontaliereticino.ch/en/cross-border-articles/fight-gender-violence-ticino/)
+- [Figino Serenza Cross Border Worker Ticino](https://frontaliereticino.ch/en/cross-border-articles/figino-serenza-cross-border-worker-ticino/)
 - [Finance Checks Comasco 226 People](https://frontaliereticino.ch/en/cross-border-articles/finance-checks-comasco-226-people/)
 - [Finance Ticino Reinvents Immaterial Economy](https://frontaliereticino.ch/en/cross-border-articles/finance-ticino-reinvents-immaterial-economy/)
 - [Finances 2025 Ticino Weak](https://frontaliereticino.ch/en/cross-border-articles/finances-2025-ticino-weak/)
@@ -4675,7 +4676,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2157 pages)
+### Other Pages (2161 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5279,6 +5280,7 @@
 - [Data Center Heat Underutilized](https://frontaliereticino.ch/en/swiss-articles/data-center-heat-underutilized/)
 - [Data Tax Frontalieri Italy](https://frontaliereticino.ch/en/swiss-articles/data-tax-frontalieri-italy/)
 - [Daycare Center And Childcare Canton Zurich Costs](https://frontaliereticino.ch/en/swiss-articles/daycare-center-and-childcare-canton-zurich-costs/)
+- [Daycare Controls Children Safety](https://frontaliereticino.ch/en/swiss-articles/daycare-controls-children-safety/)
 - [Daycare San Gallo Rates Subsidies](https://frontaliereticino.ch/en/swiss-articles/daycare-san-gallo-rates-subsidies/)
 - [Dazi Usa 24 July](https://frontaliereticino.ch/en/swiss-articles/dazi-usa-24-july/)
 - [Dazi Usa Switzerland 2026](https://frontaliereticino.ch/en/swiss-articles/dazi-usa-switzerland-2026/)
@@ -6109,6 +6111,7 @@
 - [Residence Permit B Canton Uri Requirements Renewal](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-canton-uri-requirements-renewal/)
 - [Residence Permit B Canton Zurich](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-canton-zurich/)
 - [Residence Permit B Fribourg Renewal Procedure](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-fribourg-renewal-procedure/)
+- [Residence Permit B Fribourg Requirements Renewal](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-fribourg-requirements-renewal/)
 - [Residence Permit B In Soleta Requirements And Procedure](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-in-soleta-requirements-and-procedure/)
 - [Residence Permit B In The Canton Of Nidvaldo Requirements And Renewal](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-in-the-canton-of-nidvaldo-requirements-and-renewal/)
 - [Residence Permit B Lucerne Renewal Procedure](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-lucerne-renewal-procedure/)
@@ -6716,6 +6719,8 @@
 - [Using The Swiss Cross On Imported Products](https://frontaliereticino.ch/en/swiss-articles/using-the-swiss-cross-on-imported-products/)
 - [Uss Pensioners Benefits 2027](https://frontaliereticino.ch/en/swiss-articles/uss-pensioners-benefits-2027/)
 - [Uzwil Pool Closed Drought](https://frontaliereticino.ch/en/swiss-articles/uzwil-pool-closed-drought/)
+- [Valais Lamal Premiums Reduction](https://frontaliereticino.ch/en/swiss-articles/valais-lamal-premiums-reduction/)
+- [Valais Residence Permit B Procedures](https://frontaliereticino.ch/en/swiss-articles/valais-residence-permit-b-procedures/)
 - [Vaud Rental Security Deposit Termination](https://frontaliereticino.ch/en/swiss-articles/vaud-rental-security-deposit-termination/)
 - [Vaud Rentals Deposit Rights](https://frontaliereticino.ch/en/swiss-articles/vaud-rentals-deposit-rights/)
 - [Venditti Lugano National Context](https://frontaliereticino.ch/en/swiss-articles/venditti-lugano-national-context/)
