@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6858 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6865 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3926 pages)
+### Blog Articles (3928 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4274,6 +4274,7 @@
 - [Page 21](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-21/)
 - [Page 22](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-22/)
 - [Page 23](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-23/)
+- [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-24/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
@@ -4313,6 +4314,7 @@
 - [Tragedy Vico Morcote Child Drowns Pool](https://frontaliereticino.ch/en/cross-border-articles/tragedy-vico-morcote-child-drowns-pool/)
 - [Train Breakdown Bellinzona 2026](https://frontaliereticino.ch/en/cross-border-articles/train-breakdown-bellinzona-2026/)
 - [Train Connections Reopen Ticino](https://frontaliereticino.ch/en/cross-border-articles/train-connections-reopen-ticino/)
+- [Train Fire Exercise Monte Ceneri Tunnel](https://frontaliereticino.ch/en/cross-border-articles/train-fire-exercise-monte-ceneri-tunnel/)
 - [Train Problems Bellinzona Lugano](https://frontaliereticino.ch/en/cross-border-articles/train-problems-bellinzona-lugano/)
 - [Train Service Restored Locarno Cadenazzo](https://frontaliereticino.ch/en/cross-border-articles/train-service-restored-locarno-cadenazzo/)
 - [Train Strike September 2026](https://frontaliereticino.ch/en/cross-border-articles/train-strike-september-2026/)
@@ -4691,7 +4693,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2220 pages)
+### Other Pages (2225 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5060,6 +5062,7 @@
 - [Bell Bellinzona Aziendale 2026 En](https://frontaliereticino.ch/en/swiss-articles/bell-bellinzona-aziendale-2026-en/)
 - [Beloved Assistance Victims Crans Montana](https://frontaliereticino.ch/en/swiss-articles/beloved-assistance-victims-crans-montana/)
 - [Beloved Foundation Resignations](https://frontaliereticino.ch/en/swiss-articles/beloved-foundation-resignations/)
+- [Beloved Requests Seventy](https://frontaliereticino.ch/en/swiss-articles/beloved-requests-seventy/)
 - [Benzina Prices Increase Ticino](https://frontaliereticino.ch/en/swiss-articles/benzina-prices-increase-ticino/)
 - [Bern Childcare Costs Tariffs](https://frontaliereticino.ch/en/swiss-articles/bern-childcare-costs-tariffs/)
 - [Bern Does Not Want To Create Tensions With Italy](https://frontaliereticino.ch/en/swiss-articles/bern-does-not-want-to-create-tensions-with-italy/)
@@ -5131,6 +5134,7 @@
 - [Buying Home Glarus Canton](https://frontaliereticino.ch/en/swiss-articles/buying-home-glarus-canton/)
 - [Buying House Canton Bern Prices Mortgage](https://frontaliereticino.ch/en/swiss-articles/buying-house-canton-bern-prices-mortgage/)
 - [Buying House Canton Schwyz](https://frontaliereticino.ch/en/swiss-articles/buying-house-canton-schwyz/)
+- [Buying House Zurich Prices Mortgage](https://frontaliereticino.ch/en/swiss-articles/buying-house-zurich-prices-mortgage/)
 - [Buying Property Canton Soletta Mortgage](https://frontaliereticino.ch/en/swiss-articles/buying-property-canton-soletta-mortgage/)
 - [Buying Property Svitto Mortgage Equity](https://frontaliereticino.ch/en/swiss-articles/buying-property-svitto-mortgage-equity/)
 - [Buying Property Zugo Guide](https://frontaliereticino.ch/en/swiss-articles/buying-property-zugo-guide/)
@@ -5691,6 +5695,7 @@
 - [Hospital Invoice Transparency Switzerland](https://frontaliereticino.ch/en/swiss-articles/hospital-invoice-transparency-switzerland/)
 - [Hot Air Balloon Tragedy Ticino](https://frontaliereticino.ch/en/swiss-articles/hot-air-balloon-tragedy-ticino/)
 - [Hotel Flaz Pontresina 2028](https://frontaliereticino.ch/en/swiss-articles/hotel-flaz-pontresina-2028/)
+- [Hotel Lenzerheide Hacker Warning](https://frontaliereticino.ch/en/swiss-articles/hotel-lenzerheide-hacker-warning/)
 - [House In Glarus Prices Funds And Sustainability Of The Mortgage](https://frontaliereticino.ch/en/swiss-articles/house-in-glarus-prices-funds-and-sustainability-of-the-mortgage/)
 - [Hoval Ticino Job Opportunities](https://frontaliereticino.ch/en/swiss-articles/hoval-ticino-job-opportunities/)
 - [How Geneva Identified Hantavirus](https://frontaliereticino.ch/en/swiss-articles/how-geneva-identified-hantavirus/)
@@ -6240,6 +6245,8 @@
 - [Sbb Growth First Half 2026](https://frontaliereticino.ch/en/swiss-articles/sbb-growth-first-half-2026/)
 - [Sbb Passenger Growth H1 2026](https://frontaliereticino.ch/en/swiss-articles/sbb-passenger-growth-h1-2026/)
 - [Sbt Finance Climate Meeting](https://frontaliereticino.ch/en/swiss-articles/sbt-finance-climate-meeting/)
+- [Schaffhausen Rental Deposits Canons](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-rental-deposits-canons/)
+- [Schaffhausen Rental Lease Guide](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-rental-lease-guide/)
 - [Schaffhausen Rentals Rights And Procedure](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-rentals-rights-and-procedure/)
 - [Schaffhausen Rentals Security Deposit Termination](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-rentals-security-deposit-termination/)
 - [Schaffhausen Residence Permit Category B](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-residence-permit-category-b/)
@@ -6300,6 +6307,7 @@
 - [Ses Bills 2027 Reduction](https://frontaliereticino.ch/en/swiss-articles/ses-bills-2027-reduction/)
 - [Sexual Health Ticino](https://frontaliereticino.ch/en/swiss-articles/sexual-health-ticino/)
 - [Shaffhausen Inheritance Donation Tax Rates](https://frontaliereticino.ch/en/swiss-articles/shaffhausen-inheritance-donation-tax-rates/)
+- [Shaffhausen Rental Deposit Dispute](https://frontaliereticino.ch/en/swiss-articles/shaffhausen-rental-deposit-dispute/)
 - [Shein Hong Kong Ipo French Tax Fast Fashion](https://frontaliereticino.ch/en/swiss-articles/shein-hong-kong-ipo-french-tax-fast-fashion/)
 - [Shock Switzerland Factory Closes 110 Employees Lose Jobs](https://frontaliereticino.ch/en/swiss-articles/shock-switzerland-factory-closes-110-employees-lose-jobs/)
 - [Short Term Fribourg Renewal](https://frontaliereticino.ch/en/swiss-articles/short-term-fribourg-renewal/)
@@ -6504,6 +6512,7 @@
 - [Swiss Mortgage Market Record 2025](https://frontaliereticino.ch/en/swiss-articles/swiss-mortgage-market-record-2025/)
 - [Swiss Neutrality Practice](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-practice/)
 - [Swiss Neutrality Prosperity](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-prosperity/)
+- [Swiss Neutrality Reflection Delbiaggio](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-reflection-delbiaggio/)
 - [Swiss Neutrality Vote September](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-vote-september/)
 - [Swiss Neutrality Vote September Amato](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-vote-september-amato/)
 - [Swiss New Ccl For Ground Crew](https://frontaliereticino.ch/en/swiss-articles/swiss-new-ccl-for-ground-crew/)
@@ -6674,7 +6683,6 @@
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-7/)
-- [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-8/)
 - [Franc And Prices](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-3/)
@@ -6690,7 +6698,6 @@
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-5/)
-- [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-6/)
 - [Housing And Rent](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-3/)
