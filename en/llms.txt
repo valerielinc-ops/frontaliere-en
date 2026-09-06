@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6795 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6803 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4676,7 +4676,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2172 pages)
+### Other Pages (2180 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5389,6 +5389,7 @@
 - [Family Allowances Appenzello Interno Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-appenzello-interno-application/)
 - [Family Allowances Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/family-allowances-basel-landschaft/)
 - [Family Allowances Canton Schaffhausen Amounts And Demand](https://frontaliereticino.ch/en/swiss-articles/family-allowances-canton-schaffhausen-amounts-and-demand/)
+- [Family Allowances Canton Valais](https://frontaliereticino.ch/en/swiss-articles/family-allowances-canton-valais/)
 - [Family Allowances Cantone Zugo](https://frontaliereticino.ch/en/swiss-articles/family-allowances-cantone-zugo/)
 - [Family Allowances In The Canton Of Glarus Amounts And Demand](https://frontaliereticino.ch/en/swiss-articles/family-allowances-in-the-canton-of-glarus-amounts-and-demand/)
 - [Family Allowances In The Canton Of Lucerne Amounts And Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-in-the-canton-of-lucerne-amounts-and-application/)
@@ -5865,6 +5866,7 @@
 - [Naturalization Canton Lucerne Requirements And Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-lucerne-requirements-and-procedure/)
 - [Naturalization Canton Obwalden Guide](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-obwalden-guide/)
 - [Naturalization Canton Schaffhausen Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-schaffhausen-requirements-procedure/)
+- [Naturalization Canton Solothurn Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-solothurn-requirements-procedure/)
 - [Naturalization Canton Svitto Requisites And Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-svitto-requisites-and-procedure/)
 - [Naturalization Canton Uri Requisites And Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-uri-requisites-and-procedure/)
 - [Naturalization Canton Zug Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-zug-requirements-procedure/)
@@ -5958,6 +5960,7 @@
 - [Ordinary Naturalization Lucerne](https://frontaliereticino.ch/en/swiss-articles/ordinary-naturalization-lucerne/)
 - [Organic Farms Drought Relief 2026](https://frontaliereticino.ch/en/swiss-articles/organic-farms-drought-relief-2026/)
 - [Osce Conference Berne](https://frontaliereticino.ch/en/swiss-articles/osce-conference-berne/)
+- [Osce Conference Berne 2026](https://frontaliereticino.ch/en/swiss-articles/osce-conference-berne-2026/)
 - [Pa30 Farmer Autonomy](https://frontaliereticino.ch/en/swiss-articles/pa30-farmer-autonomy/)
 - [Pacifism Armed Neutrality Buzzi](https://frontaliereticino.ch/en/swiss-articles/pacifism-armed-neutrality-buzzi/)
 - [Pandemic Compensation Swiss Businesses](https://frontaliereticino.ch/en/swiss-articles/pandemic-compensation-swiss-businesses/)
@@ -6000,6 +6003,7 @@
 - [Permit B Nidvaldo Renewal Procedure](https://frontaliereticino.ch/en/swiss-articles/permit-b-nidvaldo-renewal-procedure/)
 - [Permit B Zug Practical Guide](https://frontaliereticino.ch/en/swiss-articles/permit-b-zug-practical-guide/)
 - [Permit C Lucerna Guide](https://frontaliereticino.ch/en/swiss-articles/permit-c-lucerna-guide/)
+- [Permit C Residence Canton Valais Requirements Application](https://frontaliereticino.ch/en/swiss-articles/permit-c-residence-canton-valais-requirements-application/)
 - [Permit G Pros Cons Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/permit-g-pros-cons-cross-border-workers/)
 - [Permit L Appenzello Validity Renewal](https://frontaliereticino.ch/en/swiss-articles/permit-l-appenzello-validity-renewal/)
 - [Permit L Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/permit-l-basel-landschaft/)
@@ -6022,6 +6026,7 @@
 - [Podiatrist Cross Border Worker Ticino Salary](https://frontaliereticino.ch/en/swiss-articles/podiatrist-cross-border-worker-ticino-salary/)
 - [Podologist Frontalier Ticino Salary Requirements](https://frontaliereticino.ch/en/swiss-articles/podologist-frontalier-ticino-salary-requirements/)
 - [Police Intervention Goldach School](https://frontaliereticino.ch/en/swiss-articles/police-intervention-goldach-school/)
+- [Police Operation Goldach](https://frontaliereticino.ch/en/swiss-articles/police-operation-goldach/)
 - [Political Funding Declarations 2025](https://frontaliereticino.ch/en/swiss-articles/political-funding-declarations-2025/)
 - [Polpi Vs Blue Crabs](https://frontaliereticino.ch/en/swiss-articles/polpi-vs-blue-crabs/)
 - [Pork Exports To China](https://frontaliereticino.ch/en/swiss-articles/pork-exports-to-china/)
@@ -6259,6 +6264,7 @@
 - [Short Term L Permit Canton Zurich](https://frontaliereticino.ch/en/swiss-articles/short-term-l-permit-canton-zurich/)
 - [Short Term L Permit Graubunden Validity](https://frontaliereticino.ch/en/swiss-articles/short-term-l-permit-graubunden-validity/)
 - [Short Term L Permit Lucerne](https://frontaliereticino.ch/en/swiss-articles/short-term-l-permit-lucerne/)
+- [Short Term Permit Canton Valais](https://frontaliereticino.ch/en/swiss-articles/short-term-permit-canton-valais/)
 - [Short Term Permit L Canton Basel City Validity And Extension](https://frontaliereticino.ch/en/swiss-articles/short-term-permit-l-canton-basel-city-validity-and-extension/)
 - [Short Term Permit L Canton Solothurn Validity And Extension](https://frontaliereticino.ch/en/swiss-articles/short-term-permit-l-canton-solothurn-validity-and-extension/)
 - [Short Term Permit L In The Canton Of Svitto Validity And Extension](https://frontaliereticino.ch/en/swiss-articles/short-term-permit-l-in-the-canton-of-svitto-validity-and-extension/)
@@ -6604,6 +6610,7 @@
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-7/)
+- [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-8/)
 - [Border And Customs](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/page-2/)
 - [Energy And Fuel](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/)
@@ -6615,6 +6622,7 @@
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-7/)
+- [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-8/)
 - [Franc And Prices](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-3/)
