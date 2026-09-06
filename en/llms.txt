@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6816 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6823 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3911 pages)
+### Blog Articles (3913 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4216,6 +4216,9 @@
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-6/)
+- [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-7/)
+- [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-9/)
 - [Pensions Avs Lpp](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-3/)
@@ -4258,8 +4261,6 @@
 - [Page 21](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-21/)
 - [Page 22](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-22/)
 - [Page 23](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-23/)
-- [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-24/)
-- [Page 25](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-25/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
@@ -4580,6 +4581,7 @@
 - [Withholding Tax Rates Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/withholding-tax-rates-ticino-2026/)
 - [Wolf Time To Act](https://frontaliereticino.ch/en/cross-border-articles/wolf-time-to-act/)
 - [Women Art Chiasso 2026](https://frontaliereticino.ch/en/cross-border-articles/women-art-chiasso-2026/)
+- [Work Arosio Ticino](https://frontaliereticino.ch/en/cross-border-articles/work-arosio-ticino/)
 - [Work As Physical Therapist In Ticino From Abroad](https://frontaliereticino.ch/en/cross-border-articles/work-as-physical-therapist-in-ticino-from-abroad/)
 - [Work Germany Educators](https://frontaliereticino.ch/en/cross-border-articles/work-germany-educators/)
 - [Work Injury Coverage Frontalier](https://frontaliereticino.ch/en/cross-border-articles/work-injury-coverage-frontalier/)
@@ -4676,7 +4678,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2193 pages)
+### Other Pages (2198 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5102,6 +5104,7 @@
 - [Buy House Switzerland Mortgage Requirements](https://frontaliereticino.ch/en/swiss-articles/buy-house-switzerland-mortgage-requirements/)
 - [Buy House Thurgau Mortgage](https://frontaliereticino.ch/en/swiss-articles/buy-house-thurgau-mortgage/)
 - [Buy House Uri Prices Mortgage](https://frontaliereticino.ch/en/swiss-articles/buy-house-uri-prices-mortgage/)
+- [Buy House Valais Prices Mortgage Costs](https://frontaliereticino.ch/en/swiss-articles/buy-house-valais-prices-mortgage-costs/)
 - [Buy House Vaud Prices Mortgage](https://frontaliereticino.ch/en/swiss-articles/buy-house-vaud-prices-mortgage/)
 - [Buy House Zurich Mortgage Financing](https://frontaliereticino.ch/en/swiss-articles/buy-house-zurich-mortgage-financing/)
 - [Buy Property Bern Mortgage](https://frontaliereticino.ch/en/swiss-articles/buy-property-bern-mortgage/)
@@ -5596,6 +5599,7 @@
 - [Greens State Secretariat Climate](https://frontaliereticino.ch/en/swiss-articles/greens-state-secretariat-climate/)
 - [Grenzgaenger Switzerland Taxes 2026](https://frontaliereticino.ch/en/swiss-articles/grenzgaenger-switzerland-taxes-2026/)
 - [Grisons Basel Model Traffic](https://frontaliereticino.ch/en/swiss-articles/grisons-basel-model-traffic/)
+- [Grisons Deposit Guarantee Rental](https://frontaliereticino.ch/en/swiss-articles/grisons-deposit-guarantee-rental/)
 - [Grisons Diversion Traffic Udc](https://frontaliereticino.ch/en/swiss-articles/grisons-diversion-traffic-udc/)
 - [Grisons Hospital Expansion 2026](https://frontaliereticino.ch/en/swiss-articles/grisons-hospital-expansion-2026/)
 - [Grisons Hospital Expansion 500m](https://frontaliereticino.ch/en/swiss-articles/grisons-hospital-expansion-500m/)
@@ -6122,6 +6126,7 @@
 - [Rentals Schwyz Tenancy Law](https://frontaliereticino.ch/en/swiss-articles/rentals-schwyz-tenancy-law/)
 - [Rentals Ticino Market Landlords](https://frontaliereticino.ch/en/swiss-articles/rentals-ticino-market-landlords/)
 - [Rentals Vaud Tenant Rights](https://frontaliereticino.ch/en/swiss-articles/rentals-vaud-tenant-rights/)
+- [Renting Well Properties Ticino](https://frontaliereticino.ch/en/swiss-articles/renting-well-properties-ticino/)
 - [Reorganization Of Business Incentives](https://frontaliereticino.ch/en/swiss-articles/reorganization-of-business-incentives/)
 - [Reri Moneypark Decline Three Years](https://frontaliereticino.ch/en/swiss-articles/reri-moneypark-decline-three-years/)
 - [Residence Permit B Aargau Requirements](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-aargau-requirements/)
@@ -6333,6 +6338,7 @@
 - [Start Business Canton Schwyz Procedures](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-schwyz-procedures/)
 - [Start Business Canton Zurich](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-zurich/)
 - [Start Business Fribourg Registration](https://frontaliereticino.ch/en/swiss-articles/start-business-fribourg-registration/)
+- [Start Business Grisons Registration Costs](https://frontaliereticino.ch/en/swiss-articles/start-business-grisons-registration-costs/)
 - [Start Business Lucerna Legal Form](https://frontaliereticino.ch/en/swiss-articles/start-business-lucerna-legal-form/)
 - [Start Business Lucerne Legal Forms](https://frontaliereticino.ch/en/swiss-articles/start-business-lucerne-legal-forms/)
 - [Start Business Nidvaldo Costs](https://frontaliereticino.ch/en/swiss-articles/start-business-nidvaldo-costs/)
@@ -6752,6 +6758,7 @@
 - [Valais Family Allowances Amounts](https://frontaliereticino.ch/en/swiss-articles/valais-family-allowances-amounts/)
 - [Valais Lamal Premiums Reduction](https://frontaliereticino.ch/en/swiss-articles/valais-lamal-premiums-reduction/)
 - [Valais Residence Permit B Procedures](https://frontaliereticino.ch/en/swiss-articles/valais-residence-permit-b-procedures/)
+- [Vallese Scholarships Requirements](https://frontaliereticino.ch/en/swiss-articles/vallese-scholarships-requirements/)
 - [Vaud Rental Security Deposit Termination](https://frontaliereticino.ch/en/swiss-articles/vaud-rental-security-deposit-termination/)
 - [Vaud Rentals Deposit Rights](https://frontaliereticino.ch/en/swiss-articles/vaud-rentals-deposit-rights/)
 - [Venditti Lugano National Context](https://frontaliereticino.ch/en/swiss-articles/venditti-lugano-national-context/)
