@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6845 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6853 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3922 pages)
+### Blog Articles (3925 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1328,6 +1328,7 @@
 - [Cocquio Trevisago Ticino Frontier Worker Guide](https://frontaliereticino.ch/en/cross-border-articles/cocquio-trevisago-ticino-frontier-worker-guide/)
 - [Code And Not Only On The Highway](https://frontaliereticino.ch/en/cross-border-articles/code-and-not-only-on-the-highway/)
 - [Cof Lanzo Hand Hygiene 2026](https://frontaliereticino.ch/en/cross-border-articles/cof-lanzo-hand-hygiene-2026/)
+- [Colacem Sustainability 2025](https://frontaliereticino.ch/en/cross-border-articles/colacem-sustainability-2025/)
 - [Coldiretti Brennero Made In Italy 2026](https://frontaliereticino.ch/en/cross-border-articles/coldiretti-brennero-made-in-italy-2026/)
 - [Coldiretti Varese Alarm](https://frontaliereticino.ch/en/cross-border-articles/coldiretti-varese-alarm/)
 - [Collected 2000 Euro Playground Matteo](https://frontaliereticino.ch/en/cross-border-articles/collected-2000-euro-playground-matteo/)
@@ -2145,6 +2146,7 @@
 - [Girometta Doro Andrea Chiodi Varese 2026](https://frontaliereticino.ch/en/cross-border-articles/girometta-doro-andrea-chiodi-varese-2026/)
 - [Giubiasco Path Qui Allora 2026](https://frontaliereticino.ch/en/cross-border-articles/giubiasco-path-qui-allora-2026/)
 - [Giubiasco Viale Olgiati Night Works](https://frontaliereticino.ch/en/cross-border-articles/giubiasco-viale-olgiati-night-works/)
+- [Giussano Como Ticino Commuter](https://frontaliereticino.ch/en/cross-border-articles/giussano-como-ticino-commuter/)
 - [Glarona Car Free Sundays Ticino Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/glarona-car-free-sundays-ticino-cross-border-workers/)
 - [Glarona Landsgemeinde 2026 Finances Housing](https://frontaliereticino.ch/en/cross-border-articles/glarona-landsgemeinde-2026-finances-housing/)
 - [Glarus Landsgemeinde 2026](https://frontaliereticino.ch/en/cross-border-articles/glarus-landsgemeinde-2026/)
@@ -2634,6 +2636,7 @@
 - [Live Solbiate Cagno Frontier Worker Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-solbiate-cagno-frontier-worker-ticino/)
 - [Live Sormano Work Ticino Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-sormano-work-ticino-frontalier/)
 - [Live Spriana Grisons Border Worker](https://frontaliereticino.ch/en/cross-border-articles/live-spriana-grisons-border-worker/)
+- [Live Sumirago Frontier Worker](https://frontaliereticino.ch/en/cross-border-articles/live-sumirago-frontier-worker/)
 - [Live Tubre Work Graubunden Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-tubre-work-graubunden-cross-border/)
 - [Live Valbondione Work Graubunden Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-valbondione-work-graubunden-cross-border/)
 - [Live Valdisotto Work Grigioni Fiscal](https://frontaliereticino.ch/en/cross-border-articles/live-valdisotto-work-grigioni-fiscal/)
@@ -4204,7 +4207,6 @@
 - [G Permit](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
-- [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-4/)
 - [Health Insurance](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-11/)
@@ -4270,6 +4272,7 @@
 - [Page 21](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-21/)
 - [Page 22](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-22/)
 - [Page 23](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-23/)
+- [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-24/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
@@ -4687,7 +4690,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2211 pages)
+### Other Pages (2216 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5243,6 +5246,7 @@
 - [Consumer Prices Increased August 2026](https://frontaliereticino.ch/en/swiss-articles/consumer-prices-increased-august-2026/)
 - [Consumer Protection Streaming Switzerland](https://frontaliereticino.ch/en/swiss-articles/consumer-protection-streaming-switzerland/)
 - [Contribution Gaps Avs Zurich](https://frontaliereticino.ch/en/swiss-articles/contribution-gaps-avs-zurich/)
+- [Conversion Driving License Valais](https://frontaliereticino.ch/en/swiss-articles/conversion-driving-license-valais/)
 - [Cop31 November Antalya 2026](https://frontaliereticino.ch/en/swiss-articles/cop31-november-antalya-2026/)
 - [Coronavirus Frontalieri Svizzera](https://frontaliereticino.ch/en/swiss-articles/coronavirus-frontalieri-svizzera/)
 - [Cost Of Car For Commuter Ticino](https://frontaliereticino.ch/en/swiss-articles/cost-of-car-for-commuter-ticino/)
@@ -5394,6 +5398,7 @@
 - [Espionage Switzerland Controls](https://frontaliereticino.ch/en/swiss-articles/espionage-switzerland-controls/)
 - [Est Market Surveillance 2025](https://frontaliereticino.ch/en/swiss-articles/est-market-surveillance-2025/)
 - [Establish Company Canton Nidvaldo](https://frontaliereticino.ch/en/swiss-articles/establish-company-canton-nidvaldo/)
+- [Estate Tax Donation Valais Canton Rates](https://frontaliereticino.ch/en/swiss-articles/estate-tax-donation-valais-canton-rates/)
 - [Estate Tax Inheritance Appenzello Interno](https://frontaliereticino.ch/en/swiss-articles/estate-tax-inheritance-appenzello-interno/)
 - [Estetista Frontaliere Ticino Stipendio Requisiti](https://frontaliereticino.ch/en/swiss-articles/estetista-frontaliere-ticino-stipendio-requisiti/)
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability/)
@@ -6095,6 +6100,7 @@
 - [Public Transport Subscriptions Friburgo](https://frontaliereticino.ch/en/swiss-articles/public-transport-subscriptions-friburgo/)
 - [Public Transport Subscriptions Vaud Zones](https://frontaliereticino.ch/en/swiss-articles/public-transport-subscriptions-vaud-zones/)
 - [Public Transport Switzerland Subscriptions Discounts](https://frontaliereticino.ch/en/swiss-articles/public-transport-switzerland-subscriptions-discounts/)
+- [Public Transport Valais Guide](https://frontaliereticino.ch/en/swiss-articles/public-transport-valais-guide/)
 - [Public Transport Violence Sev](https://frontaliereticino.ch/en/swiss-articles/public-transport-violence-sev/)
 - [Public Transport Zug Subscriptions](https://frontaliereticino.ch/en/swiss-articles/public-transport-zug-subscriptions/)
 - [Publiredazionale Corporate Info](https://frontaliereticino.ch/en/swiss-articles/publiredazionale-corporate-info/)
@@ -6356,6 +6362,7 @@
 - [Start Business Canton Obvaldo](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-obvaldo/)
 - [Start Business Canton Obwalden Registry](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-obwalden-registry/)
 - [Start Business Canton Schwyz Procedures](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-schwyz-procedures/)
+- [Start Business Canton Valais Commerce Registry](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-valais-commerce-registry/)
 - [Start Business Canton Zurich](https://frontaliereticino.ch/en/swiss-articles/start-business-canton-zurich/)
 - [Start Business Fribourg Registration](https://frontaliereticino.ch/en/swiss-articles/start-business-fribourg-registration/)
 - [Start Business Grisons Registration Costs](https://frontaliereticino.ch/en/swiss-articles/start-business-grisons-registration-costs/)
@@ -6678,6 +6685,7 @@
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-5/)
+- [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-6/)
 - [Housing And Rent](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-3/)
