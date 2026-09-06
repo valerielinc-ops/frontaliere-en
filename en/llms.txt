@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6823 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6829 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3913 pages)
+### Blog Articles (3914 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -773,6 +773,7 @@
 - [A4 Milano Brescia Closure](https://frontaliereticino.ch/en/cross-border-articles/a4-milano-brescia-closure/)
 - [A8 A9 Highway Branch Closed Night Work Chiasso 2026](https://frontaliereticino.ch/en/cross-border-articles/a8-a9-highway-branch-closed-night-work-chiasso-2026/)
 - [A8 Accident Castellanza Busto Arsizio 2026](https://frontaliereticino.ch/en/cross-border-articles/a8-accident-castellanza-busto-arsizio-2026/)
+- [A8 Busto Arsizio Night Closure](https://frontaliereticino.ch/en/cross-border-articles/a8-busto-arsizio-night-closure/)
 - [A8 Castellanza Night Closures 2026](https://frontaliereticino.ch/en/cross-border-articles/a8-castellanza-night-closures-2026/)
 - [A8 Closures Gallarate Cross Border](https://frontaliereticino.ch/en/cross-border-articles/a8-closures-gallarate-cross-border/)
 - [A8 Highway Closures Nighttime](https://frontaliereticino.ch/en/cross-border-articles/a8-highway-closures-nighttime/)
@@ -2572,6 +2573,7 @@
 - [Live Crevoladossola Work Ticino Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/live-crevoladossola-work-ticino-frontaliers/)
 - [Live Crosio Valle Cross Border Ticino](https://frontaliereticino.ch/en/cross-border-articles/live-crosio-valle-cross-border-ticino/)
 - [Live Cuasso Al Monte Work Ticino Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-cuasso-al-monte-work-ticino-frontalier/)
+- [Live Daverio Work Ticino Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/live-daverio-work-ticino-cross-border-worker/)
 - [Live Dizzasco Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-dizzasco-work-ticino-cross-border/)
 - [Live Dongo Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-dongo-work-ticino-cross-border/)
 - [Live Erba Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-erba-work-ticino-cross-border/)
@@ -4195,7 +4197,6 @@
 - [G Permit](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
-- [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-4/)
 - [Health Insurance](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-11/)
@@ -4678,7 +4679,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2198 pages)
+### Other Pages (2203 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4995,6 +4996,7 @@
 - [Avs Benefits Fribourg](https://frontaliereticino.ch/en/swiss-articles/avs-benefits-fribourg/)
 - [Avs Bern Pension Contribution Gaps](https://frontaliereticino.ch/en/swiss-articles/avs-bern-pension-contribution-gaps/)
 - [Avs Complementary Benefits Basel](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-basel/)
+- [Avs Complementary Benefits Basel Countryside](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-basel-countryside/)
 - [Avs Complementary Benefits Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-basel-landschaft/)
 - [Avs Complementary Benefits Canton Grisons](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-canton-grisons/)
 - [Avs Complementary Benefits Canton Uri](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-canton-uri/)
@@ -5043,6 +5045,7 @@
 - [Beer Shortage](https://frontaliereticino.ch/en/swiss-articles/beer-shortage/)
 - [Belgrade Pride 25 Years](https://frontaliereticino.ch/en/swiss-articles/belgrade-pride-25-years/)
 - [Bell Bellinzona Aziendale 2026 En](https://frontaliereticino.ch/en/swiss-articles/bell-bellinzona-aziendale-2026-en/)
+- [Beloved Assistance Victims Crans Montana](https://frontaliereticino.ch/en/swiss-articles/beloved-assistance-victims-crans-montana/)
 - [Beloved Foundation Resignations](https://frontaliereticino.ch/en/swiss-articles/beloved-foundation-resignations/)
 - [Benzina Prices Increase Ticino](https://frontaliereticino.ch/en/swiss-articles/benzina-prices-increase-ticino/)
 - [Bern Childcare Costs Tariffs](https://frontaliereticino.ch/en/swiss-articles/bern-childcare-costs-tariffs/)
@@ -5394,6 +5397,7 @@
 - [Families Work Lugano Nursery Platform](https://frontaliereticino.ch/en/swiss-articles/families-work-lugano-nursery-platform/)
 - [Family Allowance Canton Berne](https://frontaliereticino.ch/en/swiss-articles/family-allowance-canton-berne/)
 - [Family Allowance Obvaldo](https://frontaliereticino.ch/en/swiss-articles/family-allowance-obvaldo/)
+- [Family Allowances Aargau](https://frontaliereticino.ch/en/swiss-articles/family-allowances-aargau/)
 - [Family Allowances Appenzell Ausserrhoden](https://frontaliereticino.ch/en/swiss-articles/family-allowances-appenzell-ausserrhoden/)
 - [Family Allowances Appenzello Interno Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-appenzello-interno-application/)
 - [Family Allowances Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/family-allowances-basel-landschaft/)
@@ -5880,6 +5884,7 @@
 - [Naturalization Canton Solothurn Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-solothurn-requirements-procedure/)
 - [Naturalization Canton Svitto Requisites And Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-svitto-requisites-and-procedure/)
 - [Naturalization Canton Uri Requisites And Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-uri-requisites-and-procedure/)
+- [Naturalization Canton Valais Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-valais-requirements-procedure/)
 - [Naturalization Canton Zug Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-canton-zug-requirements-procedure/)
 - [Naturalization Fribourg Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-fribourg-requirements-procedure/)
 - [Naturalization Grisons Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-grisons-requirements-procedure/)
@@ -6471,6 +6476,7 @@
 - [Swiss Mobility Railway Road Investment](https://frontaliereticino.ch/en/swiss-articles/swiss-mobility-railway-road-investment/)
 - [Swiss Mortgage Market Record 2025](https://frontaliereticino.ch/en/swiss-articles/swiss-mortgage-market-record-2025/)
 - [Swiss Neutrality Practice](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-practice/)
+- [Swiss Neutrality Prosperity](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-prosperity/)
 - [Swiss Neutrality Vote September](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-vote-september/)
 - [Swiss Neutrality Vote September Amato](https://frontaliereticino.ch/en/swiss-articles/swiss-neutrality-vote-september-amato/)
 - [Swiss New Ccl For Ground Crew](https://frontaliereticino.ch/en/swiss-articles/swiss-new-ccl-for-ground-crew/)
