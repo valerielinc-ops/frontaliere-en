@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6853 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6858 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3925 pages)
+### Blog Articles (3926 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2113,6 +2113,7 @@
 - [Gandria Luxury Real Estate Ticino](https://frontaliereticino.ch/en/cross-border-articles/gandria-luxury-real-estate-ticino/)
 - [Gap Geneva Olympic Basketball](https://frontaliereticino.ch/en/cross-border-articles/gap-geneva-olympic-basketball/)
 - [Garlasco Murder Chiara 2026](https://frontaliereticino.ch/en/cross-border-articles/garlasco-murder-chiara-2026/)
+- [Garzeno Ticino Frontier Commute Guide](https://frontaliereticino.ch/en/cross-border-articles/garzeno-ticino-frontier-commute-guide/)
 - [Gas Price Ticino Cross Border Workers 2026](https://frontaliereticino.ch/en/cross-border-articles/gas-price-ticino-cross-border-workers-2026/)
 - [Gas Prices Ticino](https://frontaliereticino.ch/en/cross-border-articles/gas-prices-ticino/)
 - [Gas Prices Ticino March 2026](https://frontaliereticino.ch/en/cross-border-articles/gas-prices-ticino-march-2026/)
@@ -2721,6 +2722,7 @@
 - [Living In Ollomont Working In Valais Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-in-ollomont-working-in-valais-cross-border/)
 - [Living In Oltrona Di San Mamette And Working In Ticino As A Frontalier](https://frontaliereticino.ch/en/cross-border-articles/living-in-oltrona-di-san-mamette-and-working-in-ticino-as-a-frontalier/)
 - [Living In Orsenigo And Working In Ticino As A Border Worker What Changes](https://frontaliereticino.ch/en/cross-border-articles/living-in-orsenigo-and-working-in-ticino-as-a-border-worker-what-changes/)
+- [Living In Pianello Del Lario Working In Ticino As Commuter](https://frontaliereticino.ch/en/cross-border-articles/living-in-pianello-del-lario-working-in-ticino-as-commuter/)
 - [Living In Piuro Working In Grisons](https://frontaliereticino.ch/en/cross-border-articles/living-in-piuro-working-in-grisons/)
 - [Living In Porlezza And Working In Ticino As A Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/living-in-porlezza-and-working-in-ticino-as-a-cross-border-worker/)
 - [Living In Porlezza Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-porlezza-working-in-ticino/)
@@ -4272,7 +4274,6 @@
 - [Page 21](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-21/)
 - [Page 22](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-22/)
 - [Page 23](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-23/)
-- [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-24/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
@@ -4690,7 +4691,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2216 pages)
+### Other Pages (2220 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5731,6 +5732,7 @@
 - [Inheritance And Gift Taxes In The Canton Of Solothurn](https://frontaliereticino.ch/en/swiss-articles/inheritance-and-gift-taxes-in-the-canton-of-solothurn/)
 - [Inheritance Cross Border Switzerland Italy](https://frontaliereticino.ch/en/swiss-articles/inheritance-cross-border-switzerland-italy/)
 - [Inheritance Donation Tax Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/inheritance-donation-tax-basel-landschaft/)
+- [Inheritance Donations Valais Guide](https://frontaliereticino.ch/en/swiss-articles/inheritance-donations-valais-guide/)
 - [Inheritance Gift Tax Bern Rates](https://frontaliereticino.ch/en/swiss-articles/inheritance-gift-tax-bern-rates/)
 - [Inheritance Gift Tax Uri Guide](https://frontaliereticino.ch/en/swiss-articles/inheritance-gift-tax-uri-guide/)
 - [Inheritance Gift Tax Vaud Canton](https://frontaliereticino.ch/en/swiss-articles/inheritance-gift-tax-vaud-canton/)
@@ -6400,8 +6402,10 @@
 - [Succession And Donation Taxes In The Canton Of Uri](https://frontaliereticino.ch/en/swiss-articles/succession-and-donation-taxes-in-the-canton-of-uri/)
 - [Succession Donation Cantonal Svitto](https://frontaliereticino.ch/en/swiss-articles/succession-donation-cantonal-svitto/)
 - [Succession Donation Tax Lucerne Guide](https://frontaliereticino.ch/en/swiss-articles/succession-donation-tax-lucerne-guide/)
+- [Succession Donation Valais Guide](https://frontaliereticino.ch/en/swiss-articles/succession-donation-valais-guide/)
 - [Succession Donation Zurich Guide](https://frontaliereticino.ch/en/swiss-articles/succession-donation-zurich-guide/)
 - [Succession Tax Saint Gall Rates Exemptions](https://frontaliereticino.ch/en/swiss-articles/succession-tax-saint-gall-rates-exemptions/)
+- [Succession Tax Valais Declaration](https://frontaliereticino.ch/en/swiss-articles/succession-tax-valais-declaration/)
 - [Sulla Disoccupazione Dei Frontalieri Si Apre Un Nuovo Fronte Con Bruxelles](https://frontaliereticino.ch/en/swiss-articles/sulla-disoccupazione-dei-frontalieri-si-apre-un-nuovo-fronte-con-bruxelles/)
 - [Sulzer Chemtech Restructuring](https://frontaliereticino.ch/en/swiss-articles/sulzer-chemtech-restructuring/)
 - [Sulzer First Semester 2026](https://frontaliereticino.ch/en/swiss-articles/sulzer-first-semester-2026/)
@@ -6567,6 +6571,7 @@
 - [Switzerland Italy Tax Treaty](https://frontaliereticino.ch/en/swiss-articles/switzerland-italy-tax-treaty/)
 - [Switzerland Loses Appeal Multinationals](https://frontaliereticino.ch/en/swiss-articles/switzerland-loses-appeal-multinationals/)
 - [Switzerland Minimum Wage Referendum](https://frontaliereticino.ch/en/swiss-articles/switzerland-minimum-wage-referendum/)
+- [Switzerland Multipolar World](https://frontaliereticino.ch/en/swiss-articles/switzerland-multipolar-world/)
 - [Switzerland Neutrality Yes](https://frontaliereticino.ch/en/swiss-articles/switzerland-neutrality-yes/)
 - [Switzerland Permit G](https://frontaliereticino.ch/en/swiss-articles/switzerland-permit-g/)
 - [Switzerland Reno Merchandise Truck Transport](https://frontaliereticino.ch/en/swiss-articles/switzerland-reno-merchandise-truck-transport/)
