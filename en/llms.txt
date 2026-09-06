@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6865 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6871 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3928 pages)
+### Blog Articles (3929 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2776,6 +2776,7 @@
 - [Living Switzerland Vs Italy Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-switzerland-vs-italy-cross-border/)
 - [Living Trasquera Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-trasquera-working-ticino/)
 - [Living Valbrona Working Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-valbrona-working-ticino-cross-border/)
+- [Living Valmadrera Working Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-valmadrera-working-ticino-cross-border/)
 - [Living Valpelline Working Valais](https://frontaliereticino.ch/en/cross-border-articles/living-valpelline-working-valais/)
 - [Living Varano Borghi Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-varano-borghi-working-ticino/)
 - [Living Verrayes Working Valais Crossborder](https://frontaliereticino.ch/en/cross-border-articles/living-verrayes-working-valais-crossborder/)
@@ -4693,7 +4694,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2225 pages)
+### Other Pages (2230 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5897,6 +5898,7 @@
 - [Natural Disasters 112 Billion Dollars](https://frontaliereticino.ch/en/swiss-articles/natural-disasters-112-billion-dollars/)
 - [Natural Disasters 2026 Damage Below Average](https://frontaliereticino.ch/en/swiss-articles/natural-disasters-2026-damage-below-average/)
 - [Natural Reserves Drought Summer 2024](https://frontaliereticino.ch/en/swiss-articles/natural-reserves-drought-summer-2024/)
+- [Naturalization Appenzell Ausserrhoden Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-appenzell-ausserrhoden-requirements-procedure/)
 - [Naturalization Appenzell Innerrhoden Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-appenzell-innerrhoden-procedure/)
 - [Naturalization Basel Landschaft Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-basel-landschaft-requirements-procedure/)
 - [Naturalization Basel Stadt Requirements](https://frontaliereticino.ch/en/swiss-articles/naturalization-basel-stadt-requirements/)
@@ -5916,6 +5918,7 @@
 - [Naturalization Lucerne Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-lucerne-procedure/)
 - [Naturalization Ordinary Lucerne Guide](https://frontaliereticino.ch/en/swiss-articles/naturalization-ordinary-lucerne-guide/)
 - [Ndrangheta Trial Switzerland](https://frontaliereticino.ch/en/swiss-articles/ndrangheta-trial-switzerland/)
+- [Neuchatel Scholarships Requirements Amounts](https://frontaliereticino.ch/en/swiss-articles/neuchatel-scholarships-requirements-amounts/)
 - [Neutralisation Estimates 2026 Protect Middle Class And Home](https://frontaliereticino.ch/en/swiss-articles/neutralisation-estimates-2026-protect-middle-class-and-home/)
 - [Neutralita Fronte No Lancia Allarme En](https://frontaliereticino.ch/en/swiss-articles/neutralita-fronte-no-lancia-allarme-en/)
 - [Neutrality Active Role](https://frontaliereticino.ch/en/swiss-articles/neutrality-active-role/)
@@ -6234,6 +6237,7 @@
 - [Salaries Labour Market St Gallen](https://frontaliereticino.ch/en/swiss-articles/salaries-labour-market-st-gallen/)
 - [Salaries Radiologists Bonus Switzerland](https://frontaliereticino.ch/en/swiss-articles/salaries-radiologists-bonus-switzerland/)
 - [Salaries Switzerland Increased 2026](https://frontaliereticino.ch/en/swiss-articles/salaries-switzerland-increased-2026/)
+- [Salaries Switzerland Sectors Education Contracts](https://frontaliereticino.ch/en/swiss-articles/salaries-switzerland-sectors-education-contracts/)
 - [Salario Medio Svizzera Professione](https://frontaliereticino.ch/en/swiss-articles/salario-medio-svizzera-professione/)
 - [Salary Cross Border Workers 6250 Month](https://frontaliereticino.ch/en/swiss-articles/salary-cross-border-workers-6250-month/)
 - [Salary Data Exchange Italy](https://frontaliereticino.ch/en/swiss-articles/salary-data-exchange-italy/)
@@ -6251,6 +6255,7 @@
 - [Schaffhausen Rentals Security Deposit Termination](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-rentals-security-deposit-termination/)
 - [Schaffhausen Residence Permit Category B](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-residence-permit-category-b/)
 - [Schaffhausen Transport Passes Zones Fares](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-transport-passes-zones-fares/)
+- [Schaffhausen Work Collective Labour Agreements](https://frontaliereticino.ch/en/swiss-articles/schaffhausen-work-collective-labour-agreements/)
 - [Schindler Profitable Growth](https://frontaliereticino.ch/en/swiss-articles/schindler-profitable-growth/)
 - [Scholarship Lucerne](https://frontaliereticino.ch/en/swiss-articles/scholarship-lucerne/)
 - [Scholarships Appenzell Innerrhoden](https://frontaliereticino.ch/en/swiss-articles/scholarships-appenzell-innerrhoden/)
@@ -6683,6 +6688,7 @@
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-7/)
+- [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-8/)
 - [Franc And Prices](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-3/)
@@ -6716,7 +6722,6 @@
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-6/)
-- [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-7/)
 - [Safety And Crime](https://frontaliereticino.ch/en/swiss-articles/topics/safety-and-crime/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/safety-and-crime/page-2/)
 - [Salaries](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/)
@@ -6733,6 +6738,7 @@
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-7/)
+- [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-8/)
 - [Transport And Traffic](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/page-3/)
