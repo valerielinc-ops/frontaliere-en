@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 6871 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 6881 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3929 pages)
+### Blog Articles (3933 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1533,6 +1533,7 @@
 - [Cross Border Pension Avs Inps 2026](https://frontaliereticino.ch/en/cross-border-articles/cross-border-pension-avs-inps-2026/)
 - [Cross Border Pension Calculation Avs Inps Guide](https://frontaliereticino.ch/en/cross-border-articles/cross-border-pension-calculation-avs-inps-guide/)
 - [Cross Border Physiotherapist Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-physiotherapist-ticino/)
+- [Cross Border Poggiridenti Grisons](https://frontaliereticino.ch/en/cross-border-articles/cross-border-poggiridenti-grisons/)
 - [Cross Border Psychologist Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-psychologist-ticino/)
 - [Cross Border Radiology Technician Ticino Salary Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-radiology-technician-ticino-salary-requirements/)
 - [Cross Border Sales Jobs Ticino Salary Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-sales-jobs-ticino-salary-requirements/)
@@ -2626,6 +2627,7 @@
 - [Live Musso Work Ticino As Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-musso-work-ticino-as-frontalier/)
 - [Live Novedrate Work Ticino Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-novedrate-work-ticino-frontalier/)
 - [Live Oliveto Lario Work Ticino From Frontalier](https://frontaliereticino.ch/en/cross-border-articles/live-oliveto-lario-work-ticino-from-frontalier/)
+- [Live Ponte Valtelline Work Grisons](https://frontaliereticino.ch/en/cross-border-articles/live-ponte-valtelline-work-grisons/)
 - [Live Prata Camportaccio Work Grisons](https://frontaliereticino.ch/en/cross-border-articles/live-prata-camportaccio-work-grisons/)
 - [Live Pusiano Work Ticino Frontier Worker](https://frontaliereticino.ch/en/cross-border-articles/live-pusiano-work-ticino-frontier-worker/)
 - [Live Quart Work Valais Cross Border](https://frontaliereticino.ch/en/cross-border-articles/live-quart-work-valais-cross-border/)
@@ -3050,6 +3052,7 @@
 - [Monte Ceneri Tunnel Closed](https://frontaliereticino.ch/en/cross-border-articles/monte-ceneri-tunnel-closed/)
 - [Monte Lema Cable Car Season 2026](https://frontaliereticino.ch/en/cross-border-articles/monte-lema-cable-car-season-2026/)
 - [Montegrino Valtravaglia Frontaliers Ticino](https://frontaliereticino.ch/en/cross-border-articles/montegrino-valtravaglia-frontaliers-ticino/)
+- [Montescheno Cross Border Ticino Guide](https://frontaliereticino.ch/en/cross-border-articles/montescheno-cross-border-ticino-guide/)
 - [Montessori Green Food Week 2026](https://frontaliereticino.ch/en/cross-border-articles/montessori-green-food-week-2026/)
 - [Monteviasco Cable Car Timetables Services](https://frontaliereticino.ch/en/cross-border-articles/monteviasco-cable-car-timetables-services/)
 - [Moon Stars Resident Discount Locarno Card 2026](https://frontaliereticino.ch/en/cross-border-articles/moon-stars-resident-discount-locarno-card-2026/)
@@ -3522,6 +3525,7 @@
 - [San Fermo Work Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/san-fermo-work-ticino-cross-border/)
 - [San Gallo Wins Thun Celebration Delayed](https://frontaliereticino.ch/en/cross-border-articles/san-gallo-wins-thun-celebration-delayed/)
 - [San Giacomo Filippo Graubunden Cross Border](https://frontaliereticino.ch/en/cross-border-articles/san-giacomo-filippo-graubunden-cross-border/)
+- [San Giacomo Work Grisons](https://frontaliereticino.ch/en/cross-border-articles/san-giacomo-work-grisons/)
 - [San Gottardo Code Good Friday](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-code-good-friday/)
 - [San Gottardo Pass Reopens Ascension](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-pass-reopens-ascension/)
 - [San Gottardo Queues 20 Km July](https://frontaliereticino.ch/en/cross-border-articles/san-gottardo-queues-20-km-july/)
@@ -4694,7 +4698,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2230 pages)
+### Other Pages (2236 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5010,6 +5014,7 @@
 - [Avs Benefits Appenzell Rhodes Compensation Fund](https://frontaliereticino.ch/en/swiss-articles/avs-benefits-appenzell-rhodes-compensation-fund/)
 - [Avs Benefits Fribourg](https://frontaliereticino.ch/en/swiss-articles/avs-benefits-fribourg/)
 - [Avs Bern Pension Contribution Gaps](https://frontaliereticino.ch/en/swiss-articles/avs-bern-pension-contribution-gaps/)
+- [Avs Complementary Benefits Appenzell Outer Rhodes](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-appenzell-outer-rhodes/)
 - [Avs Complementary Benefits Basel](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-basel/)
 - [Avs Complementary Benefits Basel Countryside](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-basel-countryside/)
 - [Avs Complementary Benefits Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/avs-complementary-benefits-basel-landschaft/)
@@ -5135,6 +5140,7 @@
 - [Buying Home Glarus Canton](https://frontaliereticino.ch/en/swiss-articles/buying-home-glarus-canton/)
 - [Buying House Canton Bern Prices Mortgage](https://frontaliereticino.ch/en/swiss-articles/buying-house-canton-bern-prices-mortgage/)
 - [Buying House Canton Schwyz](https://frontaliereticino.ch/en/swiss-articles/buying-house-canton-schwyz/)
+- [Buying House Neuchatel Costs Mortgage](https://frontaliereticino.ch/en/swiss-articles/buying-house-neuchatel-costs-mortgage/)
 - [Buying House Zurich Prices Mortgage](https://frontaliereticino.ch/en/swiss-articles/buying-house-zurich-prices-mortgage/)
 - [Buying Property Canton Soletta Mortgage](https://frontaliereticino.ch/en/swiss-articles/buying-property-canton-soletta-mortgage/)
 - [Buying Property Svitto Mortgage Equity](https://frontaliereticino.ch/en/swiss-articles/buying-property-svitto-mortgage-equity/)
@@ -5490,6 +5496,7 @@
 - [Forfeited Tax E Commerce](https://frontaliereticino.ch/en/swiss-articles/forfeited-tax-e-commerce/)
 - [Former Snb President Hans Meyer Passes Away](https://frontaliereticino.ch/en/swiss-articles/former-snb-president-hans-meyer-passes-away/)
 - [Fotovoltaico Calano Le Vendite](https://frontaliereticino.ch/en/swiss-articles/fotovoltaico-calano-le-vendite/)
+- [Founding Business Eastern Appenzell](https://frontaliereticino.ch/en/swiss-articles/founding-business-eastern-appenzell/)
 - [Founding Business Thurgau Procedure Costs](https://frontaliereticino.ch/en/swiss-articles/founding-business-thurgau-procedure-costs/)
 - [Franco Euro At Minimum For A Year](https://frontaliereticino.ch/en/swiss-articles/franco-euro-at-minimum-for-a-year/)
 - [Free Movement Labour Market 2026](https://frontaliereticino.ch/en/swiss-articles/free-movement-labour-market-2026/)
@@ -5978,6 +5985,7 @@
 - [Open Activity Svitz Registro Di Commercio](https://frontaliereticino.ch/en/swiss-articles/open-activity-svitz-registro-di-commercio/)
 - [Open Bank Account Switzerland Resident](https://frontaliereticino.ch/en/swiss-articles/open-bank-account-switzerland-resident/)
 - [Open Business Appenzell Ausserrhoden](https://frontaliereticino.ch/en/swiss-articles/open-business-appenzell-ausserrhoden/)
+- [Open Business Appenzell Ausserrhoden Registry](https://frontaliereticino.ch/en/swiss-articles/open-business-appenzell-ausserrhoden-registry/)
 - [Open Business Appenzell Inner Rhodes Guide](https://frontaliereticino.ch/en/swiss-articles/open-business-appenzell-inner-rhodes-guide/)
 - [Open Business Basel Landschaft Registration](https://frontaliereticino.ch/en/swiss-articles/open-business-basel-landschaft-registration/)
 - [Open Business Canton Soletta Commerce Registry](https://frontaliereticino.ch/en/swiss-articles/open-business-canton-soletta-commerce-registry/)
@@ -6106,6 +6114,7 @@
 - [Public Transport Glaurus](https://frontaliereticino.ch/en/swiss-articles/public-transport-glaurus/)
 - [Public Transport Obligation To Accept Cash](https://frontaliereticino.ch/en/swiss-articles/public-transport-obligation-to-accept-cash/)
 - [Public Transport Passes Canton Lucerne Zones And Fares](https://frontaliereticino.ch/en/swiss-articles/public-transport-passes-canton-lucerne-zones-and-fares/)
+- [Public Transport Passes Neuchatel Zones](https://frontaliereticino.ch/en/swiss-articles/public-transport-passes-neuchatel-zones/)
 - [Public Transport Passes Schwyz](https://frontaliereticino.ch/en/swiss-articles/public-transport-passes-schwyz/)
 - [Public Transport Subscriptions Friburgo](https://frontaliereticino.ch/en/swiss-articles/public-transport-subscriptions-friburgo/)
 - [Public Transport Subscriptions Vaud Zones](https://frontaliereticino.ch/en/swiss-articles/public-transport-subscriptions-vaud-zones/)
@@ -6704,6 +6713,7 @@
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-5/)
+- [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/health-insurance/page-6/)
 - [Housing And Rent](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-3/)
@@ -6722,6 +6732,7 @@
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-6/)
+- [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-7/)
 - [Safety And Crime](https://frontaliereticino.ch/en/swiss-articles/topics/safety-and-crime/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/safety-and-crime/page-2/)
 - [Salaries](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/)
@@ -6738,7 +6749,6 @@
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-7/)
-- [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/taxes/page-8/)
 - [Transport And Traffic](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/transport-and-traffic/page-3/)
