@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7076 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7082 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3977 pages)
+### Blog Articles (3978 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -3503,6 +3503,7 @@
 - [Risk Of Gasoline In Switzerland Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/risk-of-gasoline-in-switzerland-cross-border-workers/)
 - [Risks Children Initiative 10 Million](https://frontaliereticino.ch/en/cross-border-articles/risks-children-initiative-10-million/)
 - [Risks Of Oil Lugano May 3 2026](https://frontaliereticino.ch/en/cross-border-articles/risks-of-oil-lugano-may-3-2026/)
+- [Ritom Power Plant Explosion Gotthard Line](https://frontaliereticino.ch/en/cross-border-articles/ritom-power-plant-explosion-gotthard-line/)
 - [Riverlhab Cross Border Project Ticino](https://frontaliereticino.ch/en/cross-border-articles/riverlhab-cross-border-project-ticino/)
 - [Road Accident Cittiglio Laveno](https://frontaliereticino.ch/en/cross-border-articles/road-accident-cittiglio-laveno/)
 - [Road Closures Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/road-closures-ticino-2026/)
@@ -4742,7 +4743,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2387 pages)
+### Other Pages (2392 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4886,6 +4887,7 @@
 - [Healthcare Jobs Ticino](https://frontaliereticino.ch/en/healthcare-jobs-ticino/)
 - [Internships Lugano](https://frontaliereticino.ch/en/internships-lugano/)
 - [Jobs Ticino Accountant](https://frontaliereticino.ch/en/jobs-ticino-accountant/)
+- [Jobs Ticino Architect](https://frontaliereticino.ch/en/jobs-ticino-architect/)
 - [Jobs Ticino Butcher](https://frontaliereticino.ch/en/jobs-ticino-butcher/)
 - [Jobs Ticino Clerk](https://frontaliereticino.ch/en/jobs-ticino-clerk/)
 - [Jobs Ticino Cook](https://frontaliereticino.ch/en/jobs-ticino-cook/)
@@ -5511,6 +5513,7 @@
 - [Exceptional Transport Federal Standards](https://frontaliereticino.ch/en/swiss-articles/exceptional-transport-federal-standards/)
 - [Exemption Total Duties Emergency](https://frontaliereticino.ch/en/swiss-articles/exemption-total-duties-emergency/)
 - [Experiment Matter Darkness Under Sedrun](https://frontaliereticino.ch/en/swiss-articles/experiment-matter-darkness-under-sedrun/)
+- [Extraparlamentary Commissions Reorganization](https://frontaliereticino.ch/en/swiss-articles/extraparlamentary-commissions-reorganization/)
 - [Extreme Heat Construction Sites Penalties Ssic](https://frontaliereticino.ch/en/swiss-articles/extreme-heat-construction-sites-penalties-ssic/)
 - [F35 Fighter Jets Commission Amherd](https://frontaliereticino.ch/en/swiss-articles/f35-fighter-jets-commission-amherd/)
 - [F35a Fixed Price Not Agreed](https://frontaliereticino.ch/en/swiss-articles/f35a-fixed-price-not-agreed/)
@@ -5780,6 +5783,7 @@
 - [Health Insurance Premiums Lucerne](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-lucerne/)
 - [Health Insurance Premiums Schaffhausen](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-schaffhausen/)
 - [Health Insurance Premiums Schwyz Reduction](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-schwyz-reduction/)
+- [Health Insurance Premiums St Gallen Reduction](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-st-gallen-reduction/)
 - [Health Insurance Premiums Switzerland 2026](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-switzerland-2026/)
 - [Health Insurance Premiums Uri Subsidies](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-uri-subsidies/)
 - [Health Insurance Premiums Zurich Reduction](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-zurich-reduction/)
@@ -6393,6 +6397,7 @@
 - [Salaries Labour Market Basel](https://frontaliereticino.ch/en/swiss-articles/salaries-labour-market-basel/)
 - [Salaries Labour Market Schaffhausen Sectors](https://frontaliereticino.ch/en/swiss-articles/salaries-labour-market-schaffhausen-sectors/)
 - [Salaries Labour Market St Gallen](https://frontaliereticino.ch/en/swiss-articles/salaries-labour-market-st-gallen/)
+- [Salaries Labour Market Turgovia Sectors Levels](https://frontaliereticino.ch/en/swiss-articles/salaries-labour-market-turgovia-sectors-levels/)
 - [Salaries Radiologists Bonus Switzerland](https://frontaliereticino.ch/en/swiss-articles/salaries-radiologists-bonus-switzerland/)
 - [Salaries Switzerland Increased 2026](https://frontaliereticino.ch/en/swiss-articles/salaries-switzerland-increased-2026/)
 - [Salaries Switzerland Sectors Education Contracts](https://frontaliereticino.ch/en/swiss-articles/salaries-switzerland-sectors-education-contracts/)
@@ -6744,6 +6749,7 @@
 - [Switzerland China Export Tariffs](https://frontaliereticino.ch/en/swiss-articles/switzerland-china-export-tariffs/)
 - [Switzerland China Free Trade Agreement](https://frontaliereticino.ch/en/swiss-articles/switzerland-china-free-trade-agreement/)
 - [Switzerland China Tariff Deal](https://frontaliereticino.ch/en/swiss-articles/switzerland-china-tariff-deal/)
+- [Switzerland Corruption Restitution Banks](https://frontaliereticino.ch/en/swiss-articles/switzerland-corruption-restitution-banks/)
 - [Switzerland Cross Border Unemployment Eu](https://frontaliereticino.ch/en/swiss-articles/switzerland-cross-border-unemployment-eu/)
 - [Switzerland Diesel Prices](https://frontaliereticino.ch/en/swiss-articles/switzerland-diesel-prices/)
 - [Switzerland Drought Water Theft Concerns](https://frontaliereticino.ch/en/swiss-articles/switzerland-drought-water-theft-concerns/)
