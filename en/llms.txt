@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7082 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7083 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4743,7 +4743,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2392 pages)
+### Other Pages (2393 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5515,6 +5515,7 @@
 - [Experiment Matter Darkness Under Sedrun](https://frontaliereticino.ch/en/swiss-articles/experiment-matter-darkness-under-sedrun/)
 - [Extraparlamentary Commissions Reorganization](https://frontaliereticino.ch/en/swiss-articles/extraparlamentary-commissions-reorganization/)
 - [Extreme Heat Construction Sites Penalties Ssic](https://frontaliereticino.ch/en/swiss-articles/extreme-heat-construction-sites-penalties-ssic/)
+- [F 35 Amherd Statute Limitations Liability](https://frontaliereticino.ch/en/swiss-articles/f-35-amherd-statute-limitations-liability/)
 - [F35 Fighter Jets Commission Amherd](https://frontaliereticino.ch/en/swiss-articles/f35-fighter-jets-commission-amherd/)
 - [F35a Fixed Price Not Agreed](https://frontaliereticino.ch/en/swiss-articles/f35a-fixed-price-not-agreed/)
 - [False Alarm Goldach](https://frontaliereticino.ch/en/swiss-articles/false-alarm-goldach/)
