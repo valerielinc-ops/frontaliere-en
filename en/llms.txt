@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7085 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7086 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3979 pages)
+### Blog Articles (3980 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4496,6 +4496,7 @@
 - [Usi Supsi 25 Million Cuts Health Insurance Ticino](https://frontaliereticino.ch/en/cross-border-articles/usi-supsi-25-million-cuts-health-insurance-ticino/)
 - [Usi Supsi Petition 500 Signatures](https://frontaliereticino.ch/en/cross-border-articles/usi-supsi-petition-500-signatures/)
 - [Usi Ticino Budget Cuts 2026](https://frontaliereticino.ch/en/cross-border-articles/usi-ticino-budget-cuts-2026/)
+- [Uss Minimum Wage 2027](https://frontaliereticino.ch/en/cross-border-articles/uss-minimum-wage-2027/)
 - [Ust Neuchatel Remote Work 300 Employees](https://frontaliereticino.ch/en/cross-border-articles/ust-neuchatel-remote-work-300-employees/)
 - [Ustat Maintenance And Christmas 2025 Service Closures](https://frontaliereticino.ch/en/cross-border-articles/ustat-maintenance-and-christmas-2025-service-closures/)
 - [Uzbekistan Gold Gas Ticino Implications](https://frontaliereticino.ch/en/cross-border-articles/uzbekistan-gold-gas-ticino-implications/)
