@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7083 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7084 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4743,7 +4743,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2393 pages)
+### Other Pages (2394 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -6581,6 +6581,7 @@
 - [Starting Business Schwyz Guide](https://frontaliereticino.ch/en/swiss-articles/starting-business-schwyz-guide/)
 - [Startup Uri Commercial Register](https://frontaliereticino.ch/en/swiss-articles/startup-uri-commercial-register/)
 - [Statent 2024 Switzerland Employment](https://frontaliereticino.ch/en/swiss-articles/statent-2024-switzerland-employment/)
+- [Stefan Leist Deputy Director Ffa 2026](https://frontaliereticino.ch/en/swiss-articles/stefan-leist-deputy-director-ffa-2026/)
 - [Stipends Canton St Gallen Requirements Amounts](https://frontaliereticino.ch/en/swiss-articles/stipends-canton-st-gallen-requirements-amounts/)
 - [Stop Ristorni Frontiera](https://frontaliereticino.ch/en/swiss-articles/stop-ristorni-frontiera/)
 - [Strategic Air Traffic Locations Become Hiking Destinations](https://frontaliereticino.ch/en/swiss-articles/strategic-air-traffic-locations-become-hiking-destinations/)
