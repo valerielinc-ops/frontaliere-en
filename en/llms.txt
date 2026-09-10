@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7066 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7076 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3976 pages)
+### Blog Articles (3977 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1528,6 +1528,7 @@
 - [Cross Border Early Retirement 2026 Guide](https://frontaliereticino.ch/en/cross-border-articles/cross-border-early-retirement-2026-guide/)
 - [Cross Border Hairdressers Ticino Permit Salary](https://frontaliereticino.ch/en/cross-border-articles/cross-border-hairdressers-ticino-permit-salary/)
 - [Cross Border Healthcare Contribution Sertori](https://frontaliereticino.ch/en/cross-border-articles/cross-border-healthcare-contribution-sertori/)
+- [Cross Border Hiring Lugano Inquiry](https://frontaliereticino.ch/en/cross-border-articles/cross-border-hiring-lugano-inquiry/)
 - [Cross Border Housing Zurich](https://frontaliereticino.ch/en/cross-border-articles/cross-border-housing-zurich/)
 - [Cross Border It Worker Ticino Salary Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-it-worker-ticino-salary-requirements/)
 - [Cross Border Meeting Festa Lucciola](https://frontaliereticino.ch/en/cross-border-articles/cross-border-meeting-festa-lucciola/)
@@ -4741,7 +4742,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2378 pages)
+### Other Pages (2387 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5157,6 +5158,7 @@
 - [Borse Di Studio Canton Nidvaldo En](https://frontaliereticino.ch/en/swiss-articles/borse-di-studio-canton-nidvaldo-en/)
 - [Brexit Impacts Switzerland Eu](https://frontaliereticino.ch/en/swiss-articles/brexit-impacts-switzerland-eu/)
 - [Brienz Relocation Safety](https://frontaliereticino.ch/en/swiss-articles/brienz-relocation-safety/)
+- [Broadband Expansion 2030 2037](https://frontaliereticino.ch/en/swiss-articles/broadband-expansion-2030-2037/)
 - [Broadband Rural Areas Switzerland](https://frontaliereticino.ch/en/swiss-articles/broadband-rural-areas-switzerland/)
 - [Brogeda Customs Waiting Times](https://frontaliereticino.ch/en/swiss-articles/brogeda-customs-waiting-times/)
 - [Burckhardt Compression Job Cuts](https://frontaliereticino.ch/en/swiss-articles/burckhardt-compression-job-cuts/)
@@ -5522,6 +5524,7 @@
 - [Family Allowances Basel Landschaft](https://frontaliereticino.ch/en/swiss-articles/family-allowances-basel-landschaft/)
 - [Family Allowances Bern Conditions Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-bern-conditions-application/)
 - [Family Allowances Canton Schaffhausen Amounts And Demand](https://frontaliereticino.ch/en/swiss-articles/family-allowances-canton-schaffhausen-amounts-and-demand/)
+- [Family Allowances Canton Schwyz How To Apply](https://frontaliereticino.ch/en/swiss-articles/family-allowances-canton-schwyz-how-to-apply/)
 - [Family Allowances Canton Valais](https://frontaliereticino.ch/en/swiss-articles/family-allowances-canton-valais/)
 - [Family Allowances Cantone Zugo](https://frontaliereticino.ch/en/swiss-articles/family-allowances-cantone-zugo/)
 - [Family Allowances In The Canton Of Glarus Amounts And Demand](https://frontaliereticino.ch/en/swiss-articles/family-allowances-in-the-canton-of-glarus-amounts-and-demand/)
@@ -5531,6 +5534,7 @@
 - [Family Allowances Lucerne Guide](https://frontaliereticino.ch/en/swiss-articles/family-allowances-lucerne-guide/)
 - [Family Allowances Lucerne How To Apply](https://frontaliereticino.ch/en/swiss-articles/family-allowances-lucerne-how-to-apply/)
 - [Family Allowances Schwyz Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-schwyz-application/)
+- [Family Allowances Schwyz Guide](https://frontaliereticino.ch/en/swiss-articles/family-allowances-schwyz-guide/)
 - [Family Allowances St Gallen Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-st-gallen-application/)
 - [Family Allowances Uri Amounts Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-uri-amounts-application/)
 - [Family Allowances Vaud Amounts Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-vaud-amounts-application/)
@@ -6171,6 +6175,7 @@
 - [Patient Safety 2026 Switzerland](https://frontaliereticino.ch/en/swiss-articles/patient-safety-2026-switzerland/)
 - [Patto Diritti Economici Sociali E Culturali Sviluppi Svizzera](https://frontaliereticino.ch/en/swiss-articles/patto-diritti-economici-sociali-e-culturali-sviluppi-svizzera/)
 - [Pemsa Lugano Job Market](https://frontaliereticino.ch/en/swiss-articles/pemsa-lugano-job-market/)
+- [Pension August Positive Returns](https://frontaliereticino.ch/en/swiss-articles/pension-august-positive-returns/)
 - [Pension Calculation Cross Border Commuter](https://frontaliereticino.ch/en/swiss-articles/pension-calculation-cross-border-commuter/)
 - [Pension Complement 3rd Pillar Frontaliers](https://frontaliereticino.ch/en/swiss-articles/pension-complement-3rd-pillar-frontaliers/)
 - [Pension Funds Returns 2025](https://frontaliereticino.ch/en/swiss-articles/pension-funds-returns-2025/)
@@ -6443,6 +6448,7 @@
 - [Seco Broad Based Growth](https://frontaliereticino.ch/en/swiss-articles/seco-broad-based-growth/)
 - [Seco Career Administration](https://frontaliereticino.ch/en/swiss-articles/seco-career-administration/)
 - [Seco Fmi Partnership Economy](https://frontaliereticino.ch/en/swiss-articles/seco-fmi-partnership-economy/)
+- [Seco Job Opportunities](https://frontaliereticino.ch/en/swiss-articles/seco-job-opportunities/)
 - [Seco Swiss Labor Market Solid](https://frontaliereticino.ch/en/swiss-articles/seco-swiss-labor-market-solid/)
 - [Seco Unemployment June 2024](https://frontaliereticino.ch/en/swiss-articles/seco-unemployment-june-2024/)
 - [Seco Us Duties 2026](https://frontaliereticino.ch/en/swiss-articles/seco-us-duties-2026/)
@@ -6580,6 +6586,7 @@
 - [Succession Donation Zurich Guide](https://frontaliereticino.ch/en/swiss-articles/succession-donation-zurich-guide/)
 - [Succession Tax Saint Gall Rates Exemptions](https://frontaliereticino.ch/en/swiss-articles/succession-tax-saint-gall-rates-exemptions/)
 - [Succession Tax Valais Declaration](https://frontaliereticino.ch/en/swiss-articles/succession-tax-valais-declaration/)
+- [Sudan Gold Import Ban Switzerland 2026](https://frontaliereticino.ch/en/swiss-articles/sudan-gold-import-ban-switzerland-2026/)
 - [Sulla Disoccupazione Dei Frontalieri Si Apre Un Nuovo Fronte Con Bruxelles](https://frontaliereticino.ch/en/swiss-articles/sulla-disoccupazione-dei-frontalieri-si-apre-un-nuovo-fronte-con-bruxelles/)
 - [Sulzer Chemtech Restructuring](https://frontaliereticino.ch/en/swiss-articles/sulzer-chemtech-restructuring/)
 - [Sulzer First Semester 2026](https://frontaliereticino.ch/en/swiss-articles/sulzer-first-semester-2026/)
@@ -6747,6 +6754,7 @@
 - [Switzerland Export Growth](https://frontaliereticino.ch/en/swiss-articles/switzerland-export-growth/)
 - [Switzerland Gas Winter Option](https://frontaliereticino.ch/en/swiss-articles/switzerland-gas-winter-option/)
 - [Switzerland Gasoline Prices Today](https://frontaliereticino.ch/en/swiss-articles/switzerland-gasoline-prices-today/)
+- [Switzerland Guide Start Business Costs](https://frontaliereticino.ch/en/swiss-articles/switzerland-guide-start-business-costs/)
 - [Switzerland Healthcare Lamal Vaud](https://frontaliereticino.ch/en/swiss-articles/switzerland-healthcare-lamal-vaud/)
 - [Switzerland Immigration Emigration Decline 2026](https://frontaliereticino.ch/en/swiss-articles/switzerland-immigration-emigration-decline-2026/)
 - [Switzerland Inflation Bns Rates](https://frontaliereticino.ch/en/swiss-articles/switzerland-inflation-bns-rates/)
@@ -7049,6 +7057,7 @@
 - [World Cars Gray Impression Color](https://frontaliereticino.ch/en/swiss-articles/world-cars-gray-impression-color/)
 - [Your Rent Won T Drop Automatically](https://frontaliereticino.ch/en/swiss-articles/your-rent-won-t-drop-automatically/)
 - [Youth Unemployment Switzerland August 2023](https://frontaliereticino.ch/en/swiss-articles/youth-unemployment-switzerland-august-2023/)
+- [Yumo Platform Young People Finance](https://frontaliereticino.ch/en/swiss-articles/yumo-platform-young-people-finance/)
 - [Zali And The Pressures For An Hiring](https://frontaliereticino.ch/en/swiss-articles/zali-and-the-pressures-for-an-hiring/)
 - [Zimmer Biomet Job Cuts](https://frontaliereticino.ch/en/swiss-articles/zimmer-biomet-job-cuts/)
 - [Zimmer Biomet Switzerland Unia](https://frontaliereticino.ch/en/swiss-articles/zimmer-biomet-switzerland-unia/)
@@ -7060,6 +7069,7 @@
 - [Zugo Lamal Premium Subsidy](https://frontaliereticino.ch/en/swiss-articles/zugo-lamal-premium-subsidy/)
 - [Zugo Rental Deposit Procedure](https://frontaliereticino.ch/en/swiss-articles/zugo-rental-deposit-procedure/)
 - [Zugo Salary Occupation Guide](https://frontaliereticino.ch/en/swiss-articles/zugo-salary-occupation-guide/)
+- [Zurich Airport Autonomous Shuttles](https://frontaliereticino.ch/en/swiss-articles/zurich-airport-autonomous-shuttles/)
 - [Zurich Airport July 2026](https://frontaliereticino.ch/en/swiss-articles/zurich-airport-july-2026/)
 - [Zurich Aof Benefits Compensation Fund](https://frontaliereticino.ch/en/swiss-articles/zurich-aof-benefits-compensation-fund/)
 - [Zurich Apprenticeship Vocational Training](https://frontaliereticino.ch/en/swiss-articles/zurich-apprenticeship-vocational-training/)
