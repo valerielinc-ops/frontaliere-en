@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7097 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7098 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3983 pages)
+### Blog Articles (3984 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4187,6 +4187,7 @@
 - [Tilo 25 Million Passengers](https://frontaliereticino.ch/en/cross-border-articles/tilo-25-million-passengers/)
 - [Tilo 25 Million Passengers 2025](https://frontaliereticino.ch/en/cross-border-articles/tilo-25-million-passengers-2025/)
 - [Tilo Bus Replacement Stabio Malpensa](https://frontaliereticino.ch/en/cross-border-articles/tilo-bus-replacement-stabio-malpensa/)
+- [Tilo Changes Bus Instead Of The S10 Chiasso Melide](https://frontaliereticino.ch/en/cross-border-articles/tilo-changes-bus-instead-of-the-s10-chiasso-melide/)
 - [Tilo Disruptions Mendrisio Malpensa April 2026](https://frontaliereticino.ch/en/cross-border-articles/tilo-disruptions-mendrisio-malpensa-april-2026/)
 - [Tilo Gallarate Malpensa May 2026](https://frontaliereticino.ch/en/cross-border-articles/tilo-gallarate-malpensa-may-2026/)
 - [Tilo Line Upgrade Mendrisio Gallarate](https://frontaliereticino.ch/en/cross-border-articles/tilo-line-upgrade-mendrisio-gallarate/)
