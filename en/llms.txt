@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7086 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7095 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3980 pages)
+### Blog Articles (3982 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1911,6 +1911,7 @@
 - [Financing Status S Old Age Pension](https://frontaliereticino.ch/en/cross-border-articles/financing-status-s-old-age-pension/)
 - [Find Job Ticino Guide Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/find-job-ticino-guide-cross-border-worker/)
 - [Fines Vaping Stations Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/fines-vaping-stations-ticino-2026/)
+- [Fino Mornasco Commuter Ticino](https://frontaliereticino.ch/en/cross-border-articles/fino-mornasco-commuter-ticino/)
 - [Fiorenzo Dado Le Sue Tre P E Gli Statali Nella Morsa Politica](https://frontaliereticino.ch/en/cross-border-articles/fiorenzo-dado-le-sue-tre-p-e-gli-statali-nella-morsa-politica/)
 - [Fire Bellinzona Apartment Evacuated](https://frontaliereticino.ch/en/cross-border-articles/fire-bellinzona-apartment-evacuated/)
 - [Fire Bellinzona Via Borromini Evacuated](https://frontaliereticino.ch/en/cross-border-articles/fire-bellinzona-via-borromini-evacuated/)
@@ -4317,7 +4318,6 @@
 - [Page 21](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-21/)
 - [Page 22](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-22/)
 - [Page 23](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-23/)
-- [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-24/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
@@ -4326,6 +4326,7 @@
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-8/)
 - [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-9/)
 - [Transport And Traffic](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/)
+- [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-4/)
@@ -4393,6 +4394,7 @@
 - [Travel Discounts Cross Border Workers Ticino](https://frontaliereticino.ch/en/cross-border-articles/travel-discounts-cross-border-workers-ticino/)
 - [Trend Frontalieri Ticino 2026 Q2](https://frontaliereticino.ch/en/cross-border-articles/trend-frontalieri-ticino-2026-q2/)
 - [Trenord 388 Price Hike Ticino Lines](https://frontaliereticino.ch/en/cross-border-articles/trenord-388-price-hike-ticino-lines/)
+- [Trenord Como Milan Additional Trains 2025](https://frontaliereticino.ch/en/cross-border-articles/trenord-como-milan-additional-trains-2025/)
 - [Trenord Compensation Commuters Como 2026](https://frontaliereticino.ch/en/cross-border-articles/trenord-compensation-commuters-como-2026/)
 - [Trenord Copper Theft Como Milan](https://frontaliereticino.ch/en/cross-border-articles/trenord-copper-theft-como-milan/)
 - [Trenord Delays April 2026](https://frontaliereticino.ch/en/cross-border-articles/trenord-delays-april-2026/)
@@ -4745,7 +4747,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2394 pages)
+### Other Pages (2401 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5509,6 +5511,7 @@
 - [Estate Tax Inheritance Appenzello Interno](https://frontaliereticino.ch/en/swiss-articles/estate-tax-inheritance-appenzello-interno/)
 - [Estetista Frontaliere Ticino Stipendio Requisiti](https://frontaliereticino.ch/en/swiss-articles/estetista-frontaliere-ticino-stipendio-requisiti/)
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability/)
+- [Eu Committee Approves Swiss Agreements](https://frontaliereticino.ch/en/swiss-articles/eu-committee-approves-swiss-agreements/)
 - [Eu Surveillance Ai Act](https://frontaliereticino.ch/en/swiss-articles/eu-surveillance-ai-act/)
 - [Evasion Bois Mermet](https://frontaliereticino.ch/en/swiss-articles/evasion-bois-mermet/)
 - [Evolution Cross Border Workers Swiss Data](https://frontaliereticino.ch/en/swiss-articles/evolution-cross-border-workers-swiss-data/)
@@ -5783,6 +5786,7 @@
 - [Health Insurance Premiums Cantonal Bern Reduction](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-cantonal-bern-reduction/)
 - [Health Insurance Premiums Fribourg Subsidies](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-fribourg-subsidies/)
 - [Health Insurance Premiums Grisons](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-grisons/)
+- [Health Insurance Premiums Jura Canton Reductions](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-jura-canton-reductions/)
 - [Health Insurance Premiums Lucerne](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-lucerne/)
 - [Health Insurance Premiums Schaffhausen](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-schaffhausen/)
 - [Health Insurance Premiums Schwyz Reduction](https://frontaliereticino.ch/en/swiss-articles/health-insurance-premiums-schwyz-reduction/)
@@ -5907,6 +5911,7 @@
 - [Jokes New Measures Of The Federal Council](https://frontaliereticino.ch/en/swiss-articles/jokes-new-measures-of-the-federal-council/)
 - [June Hotel Stays Decline](https://frontaliereticino.ch/en/swiss-articles/june-hotel-stays-decline/)
 - [Junge Tat Trial Zurich](https://frontaliereticino.ch/en/swiss-articles/junge-tat-trial-zurich/)
+- [Jura Cantonal Tax Rates Deductions](https://frontaliereticino.ch/en/swiss-articles/jura-cantonal-tax-rates-deductions/)
 - [Kagi Ceo Export Challenges](https://frontaliereticino.ch/en/swiss-articles/kagi-ceo-export-challenges/)
 - [Keller Sutter Finance Ministers Germanic Countries](https://frontaliereticino.ch/en/swiss-articles/keller-sutter-finance-ministers-germanic-countries/)
 - [Keller Sutter Stability Sane Finances](https://frontaliereticino.ch/en/swiss-articles/keller-sutter-stability-sane-finances/)
@@ -6202,6 +6207,7 @@
 - [Permesso L Of Short Duration Canton Berna](https://frontaliereticino.ch/en/swiss-articles/permesso-l-of-short-duration-canton-berna/)
 - [Permesso L Short Duration Canton Uri](https://frontaliereticino.ch/en/swiss-articles/permesso-l-short-duration-canton-uri/)
 - [Permit B Berna Requirements Renewal](https://frontaliereticino.ch/en/swiss-articles/permit-b-berna-requirements-renewal/)
+- [Permit B Jura Requirements Renewal](https://frontaliereticino.ch/en/swiss-articles/permit-b-jura-requirements-renewal/)
 - [Permit B Nidvaldo Renewal Procedure](https://frontaliereticino.ch/en/swiss-articles/permit-b-nidvaldo-renewal-procedure/)
 - [Permit B Zug Practical Guide](https://frontaliereticino.ch/en/swiss-articles/permit-b-zug-practical-guide/)
 - [Permit C Canton Uri Request](https://frontaliereticino.ch/en/swiss-articles/permit-c-canton-uri-request/)
@@ -6339,6 +6345,7 @@
 - [Residence Permit B Fribourg Requirements Renewal](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-fribourg-requirements-renewal/)
 - [Residence Permit B In Soleta Requirements And Procedure](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-in-soleta-requirements-and-procedure/)
 - [Residence Permit B In The Canton Of Nidvaldo Requirements And Renewal](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-in-the-canton-of-nidvaldo-requirements-and-renewal/)
+- [Residence Permit B Jura](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-jura/)
 - [Residence Permit B Lucerne Renewal Procedure](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-lucerne-renewal-procedure/)
 - [Residence Permit B Nidwalden](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-nidwalden/)
 - [Residence Permit B Obwalden Guide](https://frontaliereticino.ch/en/swiss-articles/residence-permit-b-obwalden-guide/)
@@ -6687,6 +6694,7 @@
 - [Swiss Hospitals Nurses Exodus Year](https://frontaliereticino.ch/en/swiss-articles/swiss-hospitals-nurses-exodus-year/)
 - [Swiss Hotel Hacked](https://frontaliereticino.ch/en/swiss-articles/swiss-hotel-hacked/)
 - [Swiss Income Savings Record 2025](https://frontaliereticino.ch/en/swiss-articles/swiss-income-savings-record-2025/)
+- [Swiss Investment Usa Lonza](https://frontaliereticino.ch/en/swiss-articles/swiss-investment-usa-lonza/)
 - [Swiss Italian Food Prices Frontier Workers](https://frontaliereticino.ch/en/swiss-articles/swiss-italian-food-prices-frontier-workers/)
 - [Swiss Italian Wage Data Exchange](https://frontaliereticino.ch/en/swiss-articles/swiss-italian-wage-data-exchange/)
 - [Swiss Labor Market August 2026](https://frontaliereticino.ch/en/swiss-articles/swiss-labor-market-august-2026/)
@@ -6869,6 +6877,7 @@
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-9/)
 - [Border And Customs](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/page-2/)
 - [Energy And Fuel](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/)
