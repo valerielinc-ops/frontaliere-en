@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7121 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7122 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4760,7 +4760,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2414 pages)
+### Other Pages (2415 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -7045,6 +7045,7 @@
 - [Valais Lamal Premiums Reduction](https://frontaliereticino.ch/en/swiss-articles/valais-lamal-premiums-reduction/)
 - [Valais Residence Permit B Procedures](https://frontaliereticino.ch/en/swiss-articles/valais-residence-permit-b-procedures/)
 - [Vallese Scholarships Requirements](https://frontaliereticino.ch/en/swiss-articles/vallese-scholarships-requirements/)
+- [Vaud Health Insurance Premiums Reduction](https://frontaliereticino.ch/en/swiss-articles/vaud-health-insurance-premiums-reduction/)
 - [Vaud Rental Security Deposit Termination](https://frontaliereticino.ch/en/swiss-articles/vaud-rental-security-deposit-termination/)
 - [Vaud Rentals Deposit Rights](https://frontaliereticino.ch/en/swiss-articles/vaud-rentals-deposit-rights/)
 - [Venditti Lugano National Context](https://frontaliereticino.ch/en/swiss-articles/venditti-lugano-national-context/)
