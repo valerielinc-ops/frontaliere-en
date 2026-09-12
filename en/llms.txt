@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7113 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7118 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3991 pages)
+### Blog Articles (3993 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1630,6 +1630,7 @@
 - [Csoa Molino Debris Removal Lugano](https://frontaliereticino.ch/en/cross-border-articles/csoa-molino-debris-removal-lugano/)
 - [Cu 2026 Deadlines Telework Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/cu-2026-deadlines-telework-cross-border-workers/)
 - [Cuasso Monte Hospital Frontalieri Closure](https://frontaliereticino.ch/en/cross-border-articles/cuasso-monte-hospital-frontalieri-closure/)
+- [Cultural Enterprises Switzerland 2024](https://frontaliereticino.ch/en/cross-border-articles/cultural-enterprises-switzerland-2024/)
 - [Currencies And Borders Switzerland Italy](https://frontaliereticino.ch/en/cross-border-articles/currencies-and-borders-switzerland-italy/)
 - [Customs Duty Acquisitions Switzerland](https://frontaliereticino.ch/en/cross-border-articles/customs-duty-acquisitions-switzerland/)
 - [Customs Exemption Swiss Acquisitions Border Worker](https://frontaliereticino.ch/en/cross-border-articles/customs-exemption-swiss-acquisitions-border-worker/)
@@ -2734,6 +2735,7 @@
 - [Living In Claino Con Osteno Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-claino-con-osteno-working-in-ticino/)
 - [Living In Clivio Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-clivio-working-in-ticino/)
 - [Living In Courmayeur And Working In Vallese As A Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/living-in-courmayeur-and-working-in-vallese-as-a-cross-border-worker/)
+- [Living In Cucciago Working In Ticino As A Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/living-in-cucciago-working-in-ticino-as-a-cross-border-worker/)
 - [Living In Cugliate Fabiasco And Working In Ticino As Frontalier](https://frontaliereticino.ch/en/cross-border-articles/living-in-cugliate-fabiasco-and-working-in-ticino-as-frontalier/)
 - [Living In Doues And Working In Valais As A Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/living-in-doues-and-working-in-valais-as-a-cross-border-worker/)
 - [Living In Druogno Working In Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-in-druogno-working-in-ticino/)
@@ -4262,7 +4264,6 @@
 - [G Permit](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
-- [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-4/)
 - [Health Insurance](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-11/)
@@ -4490,6 +4491,7 @@
 - [University Of Insubria Ai 2026](https://frontaliereticino.ch/en/cross-border-articles/university-of-insubria-ai-2026/)
 - [Unpaid Wages Case Study](https://frontaliereticino.ch/en/cross-border-articles/unpaid-wages-case-study/)
 - [Untersander Geneva 2026](https://frontaliereticino.ch/en/cross-border-articles/untersander-geneva-2026/)
+- [Upper Piemont Hiring September 2026](https://frontaliereticino.ch/en/cross-border-articles/upper-piemont-hiring-september-2026/)
 - [Upskilling Frontier Worker Parent 2026](https://frontaliereticino.ch/en/cross-border-articles/upskilling-frontier-worker-parent-2026/)
 - [Us Degree Not Recognized Ticino Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/us-degree-not-recognized-ticino-cross-border-workers/)
 - [Us Passport Renunciation Berna](https://frontaliereticino.ch/en/cross-border-articles/us-passport-renunciation-berna/)
@@ -4756,7 +4758,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2410 pages)
+### Other Pages (2413 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -6475,6 +6477,7 @@
 - [Scientifica Festival Zurich Research](https://frontaliereticino.ch/en/swiss-articles/scientifica-festival-zurich-research/)
 - [Sconti Farmaci Vigilanza Poco Efficace En](https://frontaliereticino.ch/en/swiss-articles/sconti-farmaci-vigilanza-poco-efficace-en/)
 - [Seasonal Cross Border Work Ticino](https://frontaliereticino.ch/en/swiss-articles/seasonal-cross-border-work-ticino/)
+- [Seasonal Workers Tourism Housing Costs](https://frontaliereticino.ch/en/swiss-articles/seasonal-workers-tourism-housing-costs/)
 - [Seco Broad Based Growth](https://frontaliereticino.ch/en/swiss-articles/seco-broad-based-growth/)
 - [Seco Career Administration](https://frontaliereticino.ch/en/swiss-articles/seco-career-administration/)
 - [Seco Fmi Partnership Economy](https://frontaliereticino.ch/en/swiss-articles/seco-fmi-partnership-economy/)
@@ -6560,6 +6563,7 @@
 - [Spoofing Calls In Decline](https://frontaliereticino.ch/en/swiss-articles/spoofing-calls-in-decline/)
 - [Ssr Survey September 27 Votes](https://frontaliereticino.ch/en/swiss-articles/ssr-survey-september-27-votes/)
 - [St Gallen Public Transport Passes](https://frontaliereticino.ch/en/swiss-articles/st-gallen-public-transport-passes/)
+- [St Gallen Rental Market Rents Tenancy Law](https://frontaliereticino.ch/en/swiss-articles/st-gallen-rental-market-rents-tenancy-law/)
 - [Stabio Border Crossing Switzerland](https://frontaliereticino.ch/en/swiss-articles/stabio-border-crossing-switzerland/)
 - [Stablecoin Franc Operational Phase](https://frontaliereticino.ch/en/swiss-articles/stablecoin-franc-operational-phase/)
 - [Stadler Rail Cyberattack](https://frontaliereticino.ch/en/swiss-articles/stadler-rail-cyberattack/)
@@ -6884,6 +6888,7 @@
 - [Ticino Solar Photovoltaic 1982](https://frontaliereticino.ch/en/swiss-articles/ticino-solar-photovoltaic-1982/)
 - [Ticino Speed Cameras Revenue](https://frontaliereticino.ch/en/swiss-articles/ticino-speed-cameras-revenue/)
 - [Ticino Withholding Tax Calculator](https://frontaliereticino.ch/en/swiss-articles/ticino-withholding-tax-calculator/)
+- [Ticino Youth Demographics Ustat](https://frontaliereticino.ch/en/swiss-articles/ticino-youth-demographics-ustat/)
 - [Tilo Works What Changes](https://frontaliereticino.ch/en/swiss-articles/tilo-works-what-changes/)
 - [Topics](https://frontaliereticino.ch/en/swiss-articles/topics/)
 - [Agreements And Politics](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/)
