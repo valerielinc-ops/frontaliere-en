@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7098 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7100 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3984 pages)
+### Blog Articles (3985 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -933,6 +933,7 @@
 - [Avis Lombardy Blood Donation Private 2026](https://frontaliereticino.ch/en/cross-border-articles/avis-lombardy-blood-donation-private-2026/)
 - [Avs 13th Parliament Cross Border](https://frontaliereticino.ch/en/cross-border-articles/avs-13th-parliament-cross-border/)
 - [Avs 13th Pension Conciliation Vat](https://frontaliereticino.ch/en/cross-border-articles/avs-13th-pension-conciliation-vat/)
+- [Avs 2030 Pension Reform](https://frontaliereticino.ch/en/cross-border-articles/avs-2030-pension-reform/)
 - [Avs 2030 Ticino Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/avs-2030-ticino-cross-border-workers/)
 - [Avs Ai Financial Difficulties](https://frontaliereticino.ch/en/cross-border-articles/avs-ai-financial-difficulties/)
 - [Avs Ai Financial Prospects Worsen](https://frontaliereticino.ch/en/cross-border-articles/avs-ai-financial-prospects-worsen/)
@@ -4749,7 +4750,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2402 pages)
+### Other Pages (2403 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5048,6 +5049,7 @@
 - [Artificial Intelligence Work Switzerland 2026](https://frontaliereticino.ch/en/swiss-articles/artificial-intelligence-work-switzerland-2026/)
 - [Artificial Intelligence Workshop For Seniors](https://frontaliereticino.ch/en/swiss-articles/artificial-intelligence-workshop-for-seniors/)
 - [Asb Swiss Banks Growth 2026](https://frontaliereticino.ch/en/swiss-articles/asb-swiss-banks-growth-2026/)
+- [Asib Bank Salary Demands](https://frontaliereticino.ch/en/swiss-articles/asib-bank-salary-demands/)
 - [Asib Ubs Regulation Support](https://frontaliereticino.ch/en/swiss-articles/asib-ubs-regulation-support/)
 - [Assegni Familiari Canton Nidvaldo](https://frontaliereticino.ch/en/swiss-articles/assegni-familiari-canton-nidvaldo/)
 - [Assegni Familiari Canton Uri En](https://frontaliereticino.ch/en/swiss-articles/assegni-familiari-canton-uri-en/)
