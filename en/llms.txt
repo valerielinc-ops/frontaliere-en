@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7118 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7121 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3993 pages)
+### Blog Articles (3995 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1525,6 +1525,7 @@
 - [Cross Border Daily Brief 2026 09 08](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-08/)
 - [Cross Border Daily Brief 2026 09 10](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-10/)
 - [Cross Border Daily Brief 2026 09 11](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-11/)
+- [Cross Border Daily Brief 2026 09 12](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-12/)
 - [Cross Border Dental Assistant Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-dental-assistant-ticino/)
 - [Cross Border Documents Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/cross-border-documents-frontaliers/)
 - [Cross Border Driver Ticino Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-driver-ticino-requirements/)
@@ -3357,6 +3358,7 @@
 - [Petition Young Communists Military Exemption Tax](https://frontaliereticino.ch/en/cross-border-articles/petition-young-communists-military-exemption-tax/)
 - [Petrol Inflation Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/petrol-inflation-switzerland-2026/)
 - [Petrol Kills Protest Vezia 2026](https://frontaliereticino.ch/en/cross-border-articles/petrol-kills-protest-vezia-2026/)
+- [Petrol Reserves Switzerland Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/petrol-reserves-switzerland-frontaliers/)
 - [Pfaffikon Kanton Schwyz Franzosi Einbrecher](https://frontaliereticino.ch/en/cross-border-articles/pfaffikon-kanton-schwyz-franzosi-einbrecher/)
 - [Pfas Filters San Antonino 2024](https://frontaliereticino.ch/en/cross-border-articles/pfas-filters-san-antonino-2024/)
 - [Pfas Filtration San Antonino 2026](https://frontaliereticino.ch/en/cross-border-articles/pfas-filtration-san-antonino-2026/)
@@ -4758,7 +4760,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2413 pages)
+### Other Pages (2414 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -6058,6 +6060,7 @@
 - [Natural Disasters 112 Billion Dollars](https://frontaliereticino.ch/en/swiss-articles/natural-disasters-112-billion-dollars/)
 - [Natural Disasters 2026 Damage Below Average](https://frontaliereticino.ch/en/swiss-articles/natural-disasters-2026-damage-below-average/)
 - [Natural Reserves Drought Summer 2024](https://frontaliereticino.ch/en/swiss-articles/natural-reserves-drought-summer-2024/)
+- [Naturalisation Canton Saint Gallen Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalisation-canton-saint-gallen-procedure/)
 - [Naturalization Appenzell Ausserrhoden Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-appenzell-ausserrhoden-requirements-procedure/)
 - [Naturalization Appenzell Innerrhoden Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-appenzell-innerrhoden-procedure/)
 - [Naturalization Basel Landschaft Requirements Procedure](https://frontaliereticino.ch/en/swiss-articles/naturalization-basel-landschaft-requirements-procedure/)
@@ -7155,6 +7158,7 @@
 - [Ristorazione](https://frontaliereticino.ch/en/ticino-job-market/sector/ristorazione/)
 - [Sanita](https://frontaliereticino.ch/en/ticino-job-market/sector/sanita/)
 - [Vendite](https://frontaliereticino.ch/en/ticino-job-market/sector/vendite/)
+- [Week 25 2026](https://frontaliereticino.ch/en/ticino-job-market/week-25-2026/)
 - [Week 26 2026](https://frontaliereticino.ch/en/ticino-job-market/week-26-2026/)
 - [Week 27 2026](https://frontaliereticino.ch/en/ticino-job-market/week-27-2026/)
 - [Week 28 2026](https://frontaliereticino.ch/en/ticino-job-market/week-28-2026/)
@@ -7166,7 +7170,6 @@
 - [Week 34 2026](https://frontaliereticino.ch/en/ticino-job-market/week-34-2026/)
 - [Week 35 2026](https://frontaliereticino.ch/en/ticino-job-market/week-35-2026/)
 - [Week 36 2026](https://frontaliereticino.ch/en/ticino-job-market/week-36-2026/)
-- [Week 37 2026](https://frontaliereticino.ch/en/ticino-job-market/week-37-2026/)
 - [Tool Of The Week](https://frontaliereticino.ch/en/tool-of-the-week/)
 - [Trade Unions Cross Border Workers](https://frontaliereticino.ch/en/trade-unions-cross-border-workers/)
 - [Transport](https://frontaliereticino.ch/en/transport/)
