@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7122 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7125 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -717,7 +717,7 @@
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
 - [Since Yesterday](https://frontaliereticino.ch/en/find-jobs-ticino/since-yesterday/)
 
-### Blog Articles (3995 pages)
+### Blog Articles (3996 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -3714,6 +3714,7 @@
 - [St Moritz Affordable Housing 2026](https://frontaliereticino.ch/en/cross-border-articles/st-moritz-affordable-housing-2026/)
 - [Stabio Ammonia Leak Factory Rapelli Emergency Procedure](https://frontaliereticino.ch/en/cross-border-articles/stabio-ammonia-leak-factory-rapelli-emergency-procedure/)
 - [Stabio Customs New Fiscal Agreement](https://frontaliereticino.ch/en/cross-border-articles/stabio-customs-new-fiscal-agreement/)
+- [Stabio Gaggiolo Customs Speed Bump Traffic Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/stabio-gaggiolo-customs-speed-bump-traffic-cross-border-workers/)
 - [Stabio Police Uncertain Future](https://frontaliereticino.ch/en/cross-border-articles/stabio-police-uncertain-future/)
 - [Stable Unemployment Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/stable-unemployment-switzerland-2026/)
 - [Stagflation Varese Businesses 2026](https://frontaliereticino.ch/en/cross-border-articles/stagflation-varese-businesses-2026/)
@@ -4760,7 +4761,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2415 pages)
+### Other Pages (2417 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4946,6 +4947,7 @@
 - [Salary Switzerland Higher Vocational](https://frontaliereticino.ch/en/salary-switzerland-higher-vocational/)
 - [Salary Switzerland University Degree](https://frontaliereticino.ch/en/salary-switzerland-university-degree/)
 - [Site Map](https://frontaliereticino.ch/en/site-map/)
+- [Stabio-Gaggiolo speed-bump petition: we ask for a safe solution](https://frontaliereticino.ch/en/stabio-speed-bump-petition/) — Reports of queues after the Gaggiolo crossing: we ask for data, a technical review and removal or lowering of the bump if safe.
 - [Staffing Agencies Lugano](https://frontaliereticino.ch/en/staffing-agencies-lugano/)
 - [Support](https://frontaliereticino.ch/en/support/)
 - [Swiss Articles](https://frontaliereticino.ch/en/swiss-articles/)
@@ -5558,6 +5560,7 @@
 - [Family Allowances In The Canton Of Lucerne Amounts And Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-in-the-canton-of-lucerne-amounts-and-application/)
 - [Family Allowances In The Canton Of Solothurn Amounts And Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-in-the-canton-of-solothurn-amounts-and-application/)
 - [Family Allowances In The Canton Of Svitto Monthly Amounts And Legal Conditions](https://frontaliereticino.ch/en/swiss-articles/family-allowances-in-the-canton-of-svitto-monthly-amounts-and-legal-conditions/)
+- [Family Allowances Jura Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-jura-application/)
 - [Family Allowances Lucerne Guide](https://frontaliereticino.ch/en/swiss-articles/family-allowances-lucerne-guide/)
 - [Family Allowances Lucerne How To Apply](https://frontaliereticino.ch/en/swiss-articles/family-allowances-lucerne-how-to-apply/)
 - [Family Allowances Schwyz Application](https://frontaliereticino.ch/en/swiss-articles/family-allowances-schwyz-application/)
