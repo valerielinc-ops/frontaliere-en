@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7181 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7196 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -710,13 +710,23 @@
 - [Ticino Jobs Salary Observatory](https://frontaliereticino.ch/en/statistics/ticino-jobs-salary-observatory/)
 - [Unemployment Switzerland](https://frontaliereticino.ch/en/statistics/unemployment-switzerland/)
 
-### Job Board (17 pages)
+### Job Board (28 pages)
 
+- [Page Index 1](https://frontaliereticino.ch/en/find-jobs-aargau/all/page-index-1/)
+- [Page Index 2](https://frontaliereticino.ch/en/find-jobs-aargau/all/page-index-2/)
+- [Page Index 3](https://frontaliereticino.ch/en/find-jobs-aargau/all/page-index-3/)
+- [Page Index 4](https://frontaliereticino.ch/en/find-jobs-aargau/all/page-index-4/)
+- [Page Index 5](https://frontaliereticino.ch/en/find-jobs-aargau/all/page-index-5/)
 - [Page Index 1](https://frontaliereticino.ch/en/find-jobs-bern/all/page-index-1/)
 - [Page Index 2](https://frontaliereticino.ch/en/find-jobs-bern/all/page-index-2/)
 - [Page Index 3](https://frontaliereticino.ch/en/find-jobs-bern/all/page-index-3/)
 - [Page Index 4](https://frontaliereticino.ch/en/find-jobs-bern/all/page-index-4/)
 - [Page Index 5](https://frontaliereticino.ch/en/find-jobs-bern/all/page-index-5/)
+- [Page Index 1](https://frontaliereticino.ch/en/find-jobs-lucerne/all/page-index-1/)
+- [Page Index 2](https://frontaliereticino.ch/en/find-jobs-lucerne/all/page-index-2/)
+- [Page Index 3](https://frontaliereticino.ch/en/find-jobs-lucerne/all/page-index-3/)
+- [Page Index 4](https://frontaliereticino.ch/en/find-jobs-lucerne/all/page-index-4/)
+- [Page Index 5](https://frontaliereticino.ch/en/find-jobs-lucerne/all/page-index-5/)
 - [All](https://frontaliereticino.ch/en/find-jobs-ticino/all/)
 - [Last 3 Days](https://frontaliereticino.ch/en/find-jobs-ticino/last-3-days/)
 - [Sectors](https://frontaliereticino.ch/en/find-jobs-ticino/sectors/)
@@ -729,8 +739,9 @@
 - [Page Index 6](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-6/)
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
+- [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4015 pages)
+### Blog Articles (4018 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1543,6 +1554,7 @@
 - [Cross Border Daily Brief 2026 09 11](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-11/)
 - [Cross Border Daily Brief 2026 09 12](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-12/)
 - [Cross Border Daily Brief 2026 09 13](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-13/)
+- [Cross Border Daily Brief 2026 09 14](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-14/)
 - [Cross Border Dental Assistant Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-dental-assistant-ticino/)
 - [Cross Border Documents Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/cross-border-documents-frontaliers/)
 - [Cross Border Driver Ticino Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-driver-ticino-requirements/)
@@ -4262,6 +4274,7 @@
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-11/)
 - [Page 12](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-12/)
+- [Page 13](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-13/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-4/)
@@ -4275,6 +4288,7 @@
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/energy-and-fuel/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/energy-and-fuel/page-4/)
 - [Family And School](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/)
+- [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-4/)
@@ -4793,7 +4807,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2441 pages)
+### Other Pages (2442 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5193,6 +5207,7 @@
 - [Bern Labour Market Salaries Training](https://frontaliereticino.ch/en/swiss-articles/bern-labour-market-salaries-training/)
 - [Bern Renews Swiss Film Festivals](https://frontaliereticino.ch/en/swiss-articles/bern-renews-swiss-film-festivals/)
 - [Bern Residence Permit B Request](https://frontaliereticino.ch/en/swiss-articles/bern-residence-permit-b-request/)
+- [Berne School Quality Vote 2026](https://frontaliereticino.ch/en/swiss-articles/berne-school-quality-vote-2026/)
 - [Bicycle Accident Rapperswil Jona](https://frontaliereticino.ch/en/swiss-articles/bicycle-accident-rapperswil-jona/)
 - [Bilateral Iii Cantonal Governments](https://frontaliereticino.ch/en/swiss-articles/bilateral-iii-cantonal-governments/)
 - [Bilaterali Iii Vacilla Accompanion Measure](https://frontaliereticino.ch/en/swiss-articles/bilaterali-iii-vacilla-accompanion-measure/)
