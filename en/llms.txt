@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7196 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7198 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4807,7 +4807,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2442 pages)
+### Other Pages (2444 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4998,6 +4998,7 @@
 - [Swiss Articles](https://frontaliereticino.ch/en/swiss-articles/)
 - [20 Minuten Ebit Increase](https://frontaliereticino.ch/en/swiss-articles/20-minuten-ebit-increase/)
 - [300 000 New Jobs In Switzerland In Five Years](https://frontaliereticino.ch/en/swiss-articles/300-000-new-jobs-in-switzerland-in-five-years/)
+- [48 Hour Detention Protests](https://frontaliereticino.ch/en/swiss-articles/48-hour-detention-protests/)
 - [730 Refunds Substitute Tax](https://frontaliereticino.ch/en/swiss-articles/730-refunds-substitute-tax/)
 - [A Block Of Restaurants A Comprehensible Reaction](https://frontaliereticino.ch/en/swiss-articles/a-block-of-restaurants-a-comprehensible-reaction/)
 - [A2 Still Blocked](https://frontaliereticino.ch/en/swiss-articles/a2-still-blocked/)
@@ -7054,6 +7055,7 @@
 - [Traffic Switzerland Increasing Costs Rise](https://frontaliereticino.ch/en/swiss-articles/traffic-switzerland-increasing-costs-rise/)
 - [Trains Halted Stabio Gallarate Regional Incompetence](https://frontaliereticino.ch/en/swiss-articles/trains-halted-stabio-gallarate-regional-incompetence/)
 - [Tram Train Awarded Contract](https://frontaliereticino.ch/en/swiss-articles/tram-train-awarded-contract/)
+- [Transpa Reg Quadri Postpone October](https://frontaliereticino.ch/en/swiss-articles/transpa-reg-quadri-postpone-october/)
 - [Transport Baselland Subscriptions Zones](https://frontaliereticino.ch/en/swiss-articles/transport-baselland-subscriptions-zones/)
 - [Transport Ordinances Public Consultation Video Surveillance](https://frontaliereticino.ch/en/swiss-articles/transport-ordinances-public-consultation-video-surveillance/)
 - [Transport Passes Uri Canton](https://frontaliereticino.ch/en/swiss-articles/transport-passes-uri-canton/)
