@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7198 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7207 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -741,7 +741,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4018 pages)
+### Blog Articles (4020 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2279,6 +2279,7 @@
 - [Health Insurance Initiatives Dado Split Dossier](https://frontaliereticino.ch/en/cross-border-articles/health-insurance-initiatives-dado-split-dossier/)
 - [Health Insurance Pilot Ticino](https://frontaliereticino.ch/en/cross-border-articles/health-insurance-pilot-ticino/)
 - [Health Insurance Premium Increase 2027](https://frontaliereticino.ch/en/cross-border-articles/health-insurance-premium-increase-2027/)
+- [Health Insurance Premiums 2027 Ticino](https://frontaliereticino.ch/en/cross-border-articles/health-insurance-premiums-2027-ticino/)
 - [Health Insurance Premiums Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/health-insurance-premiums-ticino-2026/)
 - [Health Insurance Ticino League Socialist](https://frontaliereticino.ch/en/cross-border-articles/health-insurance-ticino-league-socialist/)
 - [Health Insurance Unbundling Ticino](https://frontaliereticino.ch/en/cross-border-articles/health-insurance-unbundling-ticino/)
@@ -3585,6 +3586,7 @@
 - [S30 Technical Failure Cadenazzo Luino](https://frontaliereticino.ch/en/cross-border-articles/s30-technical-failure-cadenazzo-luino/)
 - [Safety Province Road Curiglia](https://frontaliereticino.ch/en/cross-border-articles/safety-province-road-curiglia/)
 - [Salarial Data Old Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/salarial-data-old-frontaliers/)
+- [Salaries Como Lombardy 2024](https://frontaliereticino.ch/en/cross-border-articles/salaries-como-lombardy-2024/)
 - [Salaries Difficult Discussions](https://frontaliereticino.ch/en/cross-border-articles/salaries-difficult-discussions/)
 - [Salaries For New Graduates Switzerland Austria Germany](https://frontaliereticino.ch/en/cross-border-articles/salaries-for-new-graduates-switzerland-austria-germany/)
 - [Salaries Specialists Switzerland 2024](https://frontaliereticino.ch/en/cross-border-articles/salaries-specialists-switzerland-2024/)
@@ -4807,7 +4809,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2444 pages)
+### Other Pages (2451 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5227,6 +5229,7 @@
 - [Bns Promotes Berne](https://frontaliereticino.ch/en/swiss-articles/bns-promotes-berne/)
 - [Bondo Process Defense Critique Prosecution](https://frontaliereticino.ch/en/swiss-articles/bondo-process-defense-critique-prosecution/)
 - [Border Controls G7 Entry Bans](https://frontaliereticino.ch/en/swiss-articles/border-controls-g7-entry-bans/)
+- [Border Pharmacies Como Varese Verbano](https://frontaliereticino.ch/en/swiss-articles/border-pharmacies-como-varese-verbano/)
 - [Border Police Cooperation](https://frontaliereticino.ch/en/swiss-articles/border-police-cooperation/)
 - [Border Worker Caregiver Ticino Salary Requirements](https://frontaliereticino.ch/en/swiss-articles/border-worker-caregiver-ticino-salary-requirements/)
 - [Borse Di Studio Canton Nidvaldo En](https://frontaliereticino.ch/en/swiss-articles/borse-di-studio-canton-nidvaldo-en/)
@@ -5876,6 +5879,7 @@
 - [Health Insurance Switzerland](https://frontaliereticino.ch/en/swiss-articles/health-insurance-switzerland/)
 - [Health Insurance Tax Frontaliers Suspension Of Returns](https://frontaliereticino.ch/en/swiss-articles/health-insurance-tax-frontaliers-suspension-of-returns/)
 - [Health Insurance Uri Reduction](https://frontaliereticino.ch/en/swiss-articles/health-insurance-uri-reduction/)
+- [Health Record Mercosur Parliament](https://frontaliereticino.ch/en/swiss-articles/health-record-mercosur-parliament/)
 - [Health Swiss Playgrounds Cigarette Butts](https://frontaliereticino.ch/en/swiss-articles/health-swiss-playgrounds-cigarette-butts/)
 - [Health Tax Cross Border Workers Delay Rome](https://frontaliereticino.ch/en/swiss-articles/health-tax-cross-border-workers-delay-rome/)
 - [Health Tax Crossborder Unions Criticism](https://frontaliereticino.ch/en/swiss-articles/health-tax-crossborder-unions-criticism/)
@@ -6118,6 +6122,7 @@
 - [Naspi Frontalier Requisites Calculation](https://frontaliereticino.ch/en/swiss-articles/naspi-frontalier-requisites-calculation/)
 - [Naspi Unemployment Benefit Italy](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefit-italy/)
 - [Naspi Unemployment Benefits Cross Border](https://frontaliereticino.ch/en/swiss-articles/naspi-unemployment-benefits-cross-border/)
+- [National Council Electronic Health Record](https://frontaliereticino.ch/en/swiss-articles/national-council-electronic-health-record/)
 - [National Exhibitions Message 2026](https://frontaliereticino.ch/en/swiss-articles/national-exhibitions-message-2026/)
 - [Natural Disasters 112 Billion Dollars](https://frontaliereticino.ch/en/swiss-articles/natural-disasters-112-billion-dollars/)
 - [Natural Disasters 2026 Damage Below Average](https://frontaliereticino.ch/en/swiss-articles/natural-disasters-2026-damage-below-average/)
@@ -6231,6 +6236,7 @@
 - [Open Business St Gallen Register Costs](https://frontaliereticino.ch/en/swiss-articles/open-business-st-gallen-register-costs/)
 - [Open Business Vaud Registry Costs](https://frontaliereticino.ch/en/swiss-articles/open-business-vaud-registry-costs/)
 - [Open Business Zug Commercial Register](https://frontaliereticino.ch/en/swiss-articles/open-business-zug-commercial-register/)
+- [Open Pharmacy Duty Directory Guide](https://frontaliereticino.ch/en/swiss-articles/open-pharmacy-duty-directory-guide/)
 - [Opening A Business In Canton Uri Register Of Commerce And Costs](https://frontaliereticino.ch/en/swiss-articles/opening-a-business-in-canton-uri-register-of-commerce-and-costs/)
 - [Opening A Business In Lucerne Choice Of Legal Form And Obligations](https://frontaliereticino.ch/en/swiss-articles/opening-a-business-in-lucerne-choice-of-legal-form-and-obligations/)
 - [Opening Business Basel City Canton](https://frontaliereticino.ch/en/swiss-articles/opening-business-basel-city-canton/)
@@ -6958,6 +6964,8 @@
 - [Ticino Neutrality Poll Vote](https://frontaliereticino.ch/en/swiss-articles/ticino-neutrality-poll-vote/)
 - [Ticino Neutrality Survey 2026](https://frontaliereticino.ch/en/swiss-articles/ticino-neutrality-survey-2026/)
 - [Ticino New Price Rises](https://frontaliereticino.ch/en/swiss-articles/ticino-new-price-rises/)
+- [Ticino On Duty Pharmacies Guide](https://frontaliereticino.ch/en/swiss-articles/ticino-on-duty-pharmacies-guide/)
+- [Ticino Pharmacy Directory Contacts](https://frontaliereticino.ch/en/swiss-articles/ticino-pharmacy-directory-contacts/)
 - [Ticino Political Program Public Consultation](https://frontaliereticino.ch/en/swiss-articles/ticino-political-program-public-consultation/)
 - [Ticino Salary Gap Frontalieri](https://frontaliereticino.ch/en/swiss-articles/ticino-salary-gap-frontalieri/)
 - [Ticino School Pisa 2025 Decline](https://frontaliereticino.ch/en/swiss-articles/ticino-school-pisa-2025-decline/)
@@ -7158,6 +7166,7 @@
 - [Welder Frontalier Ticino Salary Requirements](https://frontaliereticino.ch/en/swiss-articles/welder-frontalier-ticino-salary-requirements/)
 - [Where Lombard Frontaliers Live Trends](https://frontaliereticino.ch/en/swiss-articles/where-lombard-frontaliers-live-trends/)
 - [White Storks Sighting Castione](https://frontaliereticino.ch/en/swiss-articles/white-storks-sighting-castione/)
+- [Why Interest Rates In Switzerland Remain Low](https://frontaliereticino.ch/en/swiss-articles/why-interest-rates-in-switzerland-remain-low/)
 - [Why Swiss Ignores Tutor Italy](https://frontaliereticino.ch/en/swiss-articles/why-swiss-ignores-tutor-italy/)
 - [Withholding Tax Cross Border Ticino](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-cross-border-ticino/)
 - [Withholding Tax Frontalieri Ticino](https://frontaliereticino.ch/en/swiss-articles/withholding-tax-frontalieri-ticino/)
