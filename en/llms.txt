@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7210 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7213 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -741,7 +741,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4021 pages)
+### Blog Articles (4022 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1555,6 +1555,7 @@
 - [Cross Border Daily Brief 2026 09 12](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-12/)
 - [Cross Border Daily Brief 2026 09 13](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-13/)
 - [Cross Border Daily Brief 2026 09 14](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-14/)
+- [Cross Border Daily Brief 2026 09 15](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-15/)
 - [Cross Border Dental Assistant Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-dental-assistant-ticino/)
 - [Cross Border Documents Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/cross-border-documents-frontaliers/)
 - [Cross Border Driver Ticino Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-driver-ticino-requirements/)
@@ -4810,7 +4811,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2453 pages)
+### Other Pages (2455 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5016,6 +5017,7 @@
 - [Action 20th Store Schattdorf](https://frontaliereticino.ch/en/swiss-articles/action-20th-store-schattdorf/)
 - [Activity Zug Registration Contributions Obligations](https://frontaliereticino.ch/en/swiss-articles/activity-zug-registration-contributions-obligations/)
 - [Administered Prices Competition Purchasing Power](https://frontaliereticino.ch/en/swiss-articles/administered-prices-competition-purchasing-power/)
+- [Adult Education Income Switzerland](https://frontaliereticino.ch/en/swiss-articles/adult-education-income-switzerland/)
 - [Affitti Zug Cantonal Rents](https://frontaliereticino.ch/en/swiss-articles/affitti-zug-cantonal-rents/)
 - [Affitts In Canton Schwyz](https://frontaliereticino.ch/en/swiss-articles/affitts-in-canton-schwyz/)
 - [After 3 Years The Tesla Strike Ends In Sweden](https://frontaliereticino.ch/en/swiss-articles/after-3-years-the-tesla-strike-ends-in-sweden/)
@@ -7032,6 +7034,7 @@
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-5/)
+- [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-6/)
 - [Pensions Avs Lpp](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-3/)
