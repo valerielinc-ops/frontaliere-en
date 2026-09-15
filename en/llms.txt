@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7207 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7210 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -741,7 +741,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4020 pages)
+### Blog Articles (4021 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -3056,6 +3056,7 @@
 - [Mendrisio Cultural Capital 2026](https://frontaliereticino.ch/en/cross-border-articles/mendrisio-cultural-capital-2026/)
 - [Mendrisio Cultural Capital Opportunities](https://frontaliereticino.ch/en/cross-border-articles/mendrisio-cultural-capital-opportunities/)
 - [Mendrisio Delays Health Insurance Subsidies 2026](https://frontaliereticino.ch/en/cross-border-articles/mendrisio-delays-health-insurance-subsidies-2026/)
+- [Mendrisio Melano Meme Project Noise Reduction](https://frontaliereticino.ch/en/cross-border-articles/mendrisio-melano-meme-project-noise-reduction/)
 - [Mendrisio Positive Balance 2025](https://frontaliereticino.ch/en/cross-border-articles/mendrisio-positive-balance-2025/)
 - [Mendrisio Positive Balance 2025 Analysis](https://frontaliereticino.ch/en/cross-border-articles/mendrisio-positive-balance-2025-analysis/)
 - [Mendrisio Positive Results 2025](https://frontaliereticino.ch/en/cross-border-articles/mendrisio-positive-results-2025/)
@@ -4809,7 +4810,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2451 pages)
+### Other Pages (2453 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -6023,6 +6024,7 @@
 - [Lamal Premiums 2026 Bern](https://frontaliereticino.ch/en/swiss-articles/lamal-premiums-2026-bern/)
 - [Lamal Premiums 2026 Geneva Guide](https://frontaliereticino.ch/en/swiss-articles/lamal-premiums-2026-geneva-guide/)
 - [Lamal Premiums Appenzell Rhodes Reduction](https://frontaliereticino.ch/en/swiss-articles/lamal-premiums-appenzell-rhodes-reduction/)
+- [Lamal Premiums Politics Responsibility](https://frontaliereticino.ch/en/swiss-articles/lamal-premiums-politics-responsibility/)
 - [Laps Ticino Work Incentives](https://frontaliereticino.ch/en/swiss-articles/laps-ticino-work-incentives/)
 - [Laser Sees Listens And Corrects Itself](https://frontaliereticino.ch/en/swiss-articles/laser-sees-listens-and-corrects-itself/)
 - [Lastminute Com Loss Of Objectives Quarter](https://frontaliereticino.ch/en/swiss-articles/lastminute-com-loss-of-objectives-quarter/)
@@ -6643,6 +6645,7 @@
 - [Spanish Tomatoes Cheap Era Over](https://frontaliereticino.ch/en/swiss-articles/spanish-tomatoes-cheap-era-over/)
 - [Specialist Doctors Billing Switzerland](https://frontaliereticino.ch/en/swiss-articles/specialist-doctors-billing-switzerland/)
 - [Spoofing Calls In Decline](https://frontaliereticino.ch/en/swiss-articles/spoofing-calls-in-decline/)
+- [Ssr Savings 270 Million 2029](https://frontaliereticino.ch/en/swiss-articles/ssr-savings-270-million-2029/)
 - [Ssr Survey September 27 Votes](https://frontaliereticino.ch/en/swiss-articles/ssr-survey-september-27-votes/)
 - [St Gallen Public Transport Passes](https://frontaliereticino.ch/en/swiss-articles/st-gallen-public-transport-passes/)
 - [St Gallen Rental Market Rents Tenancy Law](https://frontaliereticino.ch/en/swiss-articles/st-gallen-rental-market-rents-tenancy-law/)
