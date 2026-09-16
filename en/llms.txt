@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7213 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7214 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4811,7 +4811,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2455 pages)
+### Other Pages (2456 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -6214,6 +6214,7 @@
 - [Ok Olympic Winter Games 2038 Funding](https://frontaliereticino.ch/en/swiss-articles/ok-olympic-winter-games-2038-funding/)
 - [Old Frontaliers Precompiled 2026](https://frontaliereticino.ch/en/swiss-articles/old-frontaliers-precompiled-2026/)
 - [Olympics 2038 Swiss No Referendum](https://frontaliereticino.ch/en/swiss-articles/olympics-2038-swiss-no-referendum/)
+- [On Duty Pharmacies Switzerland Italian Border](https://frontaliereticino.ch/en/swiss-articles/on-duty-pharmacies-switzerland-italian-border/)
 - [On Record Quarter](https://frontaliereticino.ch/en/swiss-articles/on-record-quarter/)
 - [One Year After Us Tariff Shock Swiss Exporters Uncertain](https://frontaliereticino.ch/en/swiss-articles/one-year-after-us-tariff-shock-swiss-exporters-uncertain/)
 - [Onu Sanctions Sesam 2026](https://frontaliereticino.ch/en/swiss-articles/onu-sanctions-sesam-2026/)
