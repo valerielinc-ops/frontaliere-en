@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7314 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7323 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4064 pages)
+### Blog Articles (4068 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1149,6 +1149,7 @@
 - [Byd Expansion Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/byd-expansion-switzerland-2026/)
 - [Cabinway Strong Wind Accident](https://frontaliereticino.ch/en/cross-border-articles/cabinway-strong-wind-accident/)
 - [Cadenazzo Sunset](https://frontaliereticino.ch/en/cross-border-articles/cadenazzo-sunset/)
+- [Cadenazzo Traffic Lights](https://frontaliereticino.ch/en/cross-border-articles/cadenazzo-traffic-lights/)
 - [Cadorago Frontalier Commute Guide](https://frontaliereticino.ch/en/cross-border-articles/cadorago-frontalier-commute-guide/)
 - [Cadro Parking Works Query](https://frontaliereticino.ch/en/cross-border-articles/cadro-parking-works-query/)
 - [Calanca Commune Merger](https://frontaliereticino.ch/en/cross-border-articles/calanca-commune-merger/)
@@ -1406,6 +1407,7 @@
 - [Como New Police Officers 2026](https://frontaliereticino.ch/en/cross-border-articles/como-new-police-officers-2026/)
 - [Como Parking Issues Residents Struggle](https://frontaliereticino.ch/en/cross-border-articles/como-parking-issues-residents-struggle/)
 - [Como Pedestrian Crossings Complaint 2026](https://frontaliereticino.ch/en/cross-border-articles/como-pedestrian-crossings-complaint-2026/)
+- [Como Pharmacy Course Switzerland](https://frontaliereticino.ch/en/cross-border-articles/como-pharmacy-course-switzerland/)
 - [Como School Closure Socco](https://frontaliereticino.ch/en/cross-border-articles/como-school-closure-socco/)
 - [Como Shoplifting Turns Robbery Double Arrest](https://frontaliereticino.ch/en/cross-border-articles/como-shoplifting-turns-robbery-double-arrest/)
 - [Como Students Police On Road 2026](https://frontaliereticino.ch/en/cross-border-articles/como-students-police-on-road-2026/)
@@ -2134,6 +2136,7 @@
 - [Fuel Price Increase Opportunism](https://frontaliereticino.ch/en/cross-border-articles/fuel-price-increase-opportunism/)
 - [Fuel Price Increase Ticino](https://frontaliereticino.ch/en/cross-border-articles/fuel-price-increase-ticino/)
 - [Fuel Price Increase Varese 2026](https://frontaliereticino.ch/en/cross-border-articles/fuel-price-increase-varese-2026/)
+- [Fuel Prices Taxes Ticino](https://frontaliereticino.ch/en/cross-border-articles/fuel-prices-taxes-ticino/)
 - [Fuel Prices Ticino Increase](https://frontaliereticino.ch/en/cross-border-articles/fuel-prices-ticino-increase/)
 - [Fuel Prices Tpl Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/fuel-prices-tpl-ticino-2026/)
 - [Fuel Shortage Lombard Commuters Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/fuel-shortage-lombard-commuters-ticino-2026/)
@@ -3820,6 +3823,7 @@
 - [Sunflower Oil Chemical Production](https://frontaliereticino.ch/en/cross-border-articles/sunflower-oil-chemical-production/)
 - [Sunrise Clauses Invalid 2026](https://frontaliereticino.ch/en/cross-border-articles/sunrise-clauses-invalid-2026/)
 - [Sunrise Integrates Hbb Ssr 2026](https://frontaliereticino.ch/en/cross-border-articles/sunrise-integrates-hbb-ssr-2026/)
+- [Sunrise Job Cuts Restructuring](https://frontaliereticino.ch/en/cross-border-articles/sunrise-job-cuts-restructuring/)
 - [Sunrise Tariff Increases 2026](https://frontaliereticino.ch/en/cross-border-articles/sunrise-tariff-increases-2026/)
 - [Supermarket Thefts Ponte Tresa](https://frontaliereticino.ch/en/cross-border-articles/supermarket-thefts-ponte-tresa/)
 - [Supsi 20 New Professors 2026](https://frontaliereticino.ch/en/cross-border-articles/supsi-20-new-professors-2026/)
@@ -4843,7 +4847,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2524 pages)
+### Other Pages (2529 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5540,6 +5544,7 @@
 - [Demographic Slowdown 2025 Switzerland](https://frontaliereticino.ch/en/swiss-articles/demographic-slowdown-2025-switzerland/)
 - [Deposit Guarantee Aargau](https://frontaliereticino.ch/en/swiss-articles/deposit-guarantee-aargau/)
 - [Deutsche Bahn Rail Traffic Halt Germany](https://frontaliereticino.ch/en/swiss-articles/deutsche-bahn-rail-traffic-halt-germany/)
+- [Dff Cold Progression Taxes 2027](https://frontaliereticino.ch/en/swiss-articles/dff-cold-progression-taxes-2027/)
 - [Diesel Price Increase Geopolitics Switzerland](https://frontaliereticino.ch/en/swiss-articles/diesel-price-increase-geopolitics-switzerland/)
 - [Digital Sovereignty Workstation](https://frontaliereticino.ch/en/swiss-articles/digital-sovereignty-workstation/)
 - [Digital Surveillance Healthcare Guide](https://frontaliereticino.ch/en/swiss-articles/digital-surveillance-healthcare-guide/)
@@ -6265,6 +6270,7 @@
 - [Nurses Shortage Switzerland 2034](https://frontaliereticino.ch/en/swiss-articles/nurses-shortage-switzerland-2034/)
 - [Nursing Specialist Cross Border Workers Basel](https://frontaliereticino.ch/en/swiss-articles/nursing-specialist-cross-border-workers-basel/)
 - [Oak Bv Commission Minimum Rate 2027](https://frontaliereticino.ch/en/swiss-articles/oak-bv-commission-minimum-rate-2027/)
+- [Oasi Iv Digital Data Access](https://frontaliereticino.ch/en/swiss-articles/oasi-iv-digital-data-access/)
 - [Obvaldo Health Insurance Deductibles Subsidies](https://frontaliereticino.ch/en/swiss-articles/obvaldo-health-insurance-deductibles-subsidies/)
 - [Obvaldo Transportation Passes](https://frontaliereticino.ch/en/swiss-articles/obvaldo-transportation-passes/)
 - [Ocse Recognizes Switzerland Responsible Business Conduct](https://frontaliereticino.ch/en/swiss-articles/ocse-recognizes-switzerland-responsible-business-conduct/)
@@ -6551,6 +6557,7 @@
 - [Retail Sales Increase July 2025](https://frontaliereticino.ch/en/swiss-articles/retail-sales-increase-july-2025/)
 - [Return To Switzerland Unemployed Guide](https://frontaliereticino.ch/en/swiss-articles/return-to-switzerland-unemployed-guide/)
 - [Returning To Switzerland Unemployed Guide](https://frontaliereticino.ch/en/swiss-articles/returning-to-switzerland-unemployed-guide/)
+- [Revision Epidemics Act Switzerland](https://frontaliereticino.ch/en/swiss-articles/revision-epidemics-act-switzerland/)
 - [Revolut Banking License Switzerland](https://frontaliereticino.ch/en/swiss-articles/revolut-banking-license-switzerland/)
 - [Revolut Hacker Switzerland Pec](https://frontaliereticino.ch/en/swiss-articles/revolut-hacker-switzerland-pec/)
 - [Rhine Drought Swiss Economy](https://frontaliereticino.ch/en/swiss-articles/rhine-drought-swiss-economy/)
@@ -7084,8 +7091,10 @@
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-9/)
 - [Border And Customs](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/page-2/)
+- [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/page-3/)
 - [Energy And Fuel](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/page-2/)
 - [Family And School](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/)
