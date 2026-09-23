@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7327 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7330 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4072 pages)
+### Blog Articles (4074 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4416,6 +4416,7 @@
 - [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-24/)
 - [Page 25](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-25/)
 - [Page 26](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-26/)
+- [Page 27](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-27/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
@@ -4680,6 +4681,7 @@
 - [Vedeggio Park Municipal Agreement](https://frontaliereticino.ch/en/cross-border-articles/vedeggio-park-municipal-agreement/)
 - [Vegetable Collection Morbio Inferiore 2026](https://frontaliereticino.ch/en/cross-border-articles/vegetable-collection-morbio-inferiore-2026/)
 - [Vehicle On Fire Vergiate Besnate](https://frontaliereticino.ch/en/cross-border-articles/vehicle-on-fire-vergiate-besnate/)
+- [Vehicle Registrations Ticino W38 2026](https://frontaliereticino.ch/en/cross-border-articles/vehicle-registrations-ticino-w38-2026/)
 - [Velafrica Used Bikes Lugano 2026](https://frontaliereticino.ch/en/cross-border-articles/velafrica-used-bikes-lugano-2026/)
 - [Venditti Estival Lugano 2026](https://frontaliereticino.ch/en/cross-border-articles/venditti-estival-lugano-2026/)
 - [Venice Hildegard Cross Border](https://frontaliereticino.ch/en/cross-border-articles/venice-hildegard-cross-border/)
@@ -4851,7 +4853,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2529 pages)
+### Other Pages (2530 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -7249,6 +7251,7 @@
 - [Vaud Rental Security Deposit Termination](https://frontaliereticino.ch/en/swiss-articles/vaud-rental-security-deposit-termination/)
 - [Vaud Rentals Deposit Rights](https://frontaliereticino.ch/en/swiss-articles/vaud-rentals-deposit-rights/)
 - [Vaud School System Enrollment Cycles](https://frontaliereticino.ch/en/swiss-articles/vaud-school-system-enrollment-cycles/)
+- [Vehicle Fleet Switzerland 2026](https://frontaliereticino.ch/en/swiss-articles/vehicle-fleet-switzerland-2026/)
 - [Venditti Lugano National Context](https://frontaliereticino.ch/en/swiss-articles/venditti-lugano-national-context/)
 - [Viareggio Train Disaster Convictions](https://frontaliereticino.ch/en/swiss-articles/viareggio-train-disaster-convictions/)
 - [Vignette Highway Not Immediately](https://frontaliereticino.ch/en/swiss-articles/vignette-highway-not-immediately/)
