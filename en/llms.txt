@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7323 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7324 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4068 pages)
+### Blog Articles (4069 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -2739,6 +2739,7 @@
 - [Living Berzo Demo Working Grisons](https://frontaliereticino.ch/en/cross-border-articles/living-berzo-demo-working-grisons/)
 - [Living Bosisio Parini Working In Ticino As Frontalier](https://frontaliereticino.ch/en/cross-border-articles/living-bosisio-parini-working-in-ticino-as-frontalier/)
 - [Living Bregnano Working Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-bregnano-working-ticino-cross-border/)
+- [Living Brenna Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/living-brenna-working-ticino/)
 - [Living Caglio Working Ticino Frontier Worker](https://frontaliereticino.ch/en/cross-border-articles/living-caglio-working-ticino-frontier-worker/)
 - [Living Caiolo Working Grisons Cross Border](https://frontaliereticino.ch/en/cross-border-articles/living-caiolo-working-grisons-cross-border/)
 - [Living Campodolcino Working Grigioni As Frontalier](https://frontaliereticino.ch/en/cross-border-articles/living-campodolcino-working-grigioni-as-frontalier/)
