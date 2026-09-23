@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7324 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7327 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4069 pages)
+### Blog Articles (4072 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1560,6 +1560,7 @@
 - [Cross Border Daily Brief 2026 09 20](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-20/)
 - [Cross Border Daily Brief 2026 09 21](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-21/)
 - [Cross Border Daily Brief 2026 09 22](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-22/)
+- [Cross Border Daily Brief 2026 09 23](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-23/)
 - [Cross Border Dental Assistant Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-dental-assistant-ticino/)
 - [Cross Border Documents Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/cross-border-documents-frontaliers/)
 - [Cross Border Driver Ticino Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-driver-ticino-requirements/)
@@ -2934,6 +2935,7 @@
 - [Lpp Minimum Second Pillar 2026](https://frontaliereticino.ch/en/cross-border-articles/lpp-minimum-second-pillar-2026/)
 - [Lpp Nigri Country Manager Italy](https://frontaliereticino.ch/en/cross-border-articles/lpp-nigri-country-manager-italy/)
 - [Lpp Pension Taxation Without Intermediary](https://frontaliereticino.ch/en/cross-border-articles/lpp-pension-taxation-without-intermediary/)
+- [Lpp Tax Refund 2024](https://frontaliereticino.ch/en/cross-border-articles/lpp-tax-refund-2024/)
 - [Lpp Withdrawal Cross Border Taxation Strategy](https://frontaliereticino.ch/en/cross-border-articles/lpp-withdrawal-cross-border-taxation-strategy/)
 - [Lucerne New Swiss Tax Haven](https://frontaliereticino.ch/en/cross-border-articles/lucerne-new-swiss-tax-haven/)
 - [Lucibello Disti Funds Verification](https://frontaliereticino.ch/en/cross-border-articles/lucibello-disti-funds-verification/)
@@ -4265,6 +4267,7 @@
 - [Ticino Unions May 1 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-unions-may-1-2026/)
 - [Ticino University Cuts 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-university-cuts-2026/)
 - [Ticino University Number Closed 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-university-number-closed-2026/)
+- [Ticino Vehicle Fleet September 2026](https://frontaliereticino.ch/en/cross-border-articles/ticino-vehicle-fleet-september-2026/)
 - [Ticino Votes June 14 2024](https://frontaliereticino.ch/en/cross-border-articles/ticino-votes-june-14-2024/)
 - [Ticino Votes Yes Population Cap](https://frontaliereticino.ch/en/cross-border-articles/ticino-votes-yes-population-cap/)
 - [Ticino Wines Collaboration](https://frontaliereticino.ch/en/cross-border-articles/ticino-wines-collaboration/)
@@ -5004,7 +5007,6 @@
 - [Jobs Ticino Midwife](https://frontaliereticino.ch/en/jobs-ticino-midwife/)
 - [Jobs Ticino Nurse](https://frontaliereticino.ch/en/jobs-ticino-nurse/)
 - [Jobs Ticino Physiotherapist](https://frontaliereticino.ch/en/jobs-ticino-physiotherapist/)
-- [Jobs Ticino Psychologist](https://frontaliereticino.ch/en/jobs-ticino-psychologist/)
 - [Jobs Ticino Waiter](https://frontaliereticino.ch/en/jobs-ticino-waiter/)
 - [Jobs Ticino Welder](https://frontaliereticino.ch/en/jobs-ticino-welder/)
 - [Jobs Ticino Worker](https://frontaliereticino.ch/en/jobs-ticino-worker/)
@@ -5607,6 +5609,7 @@
 - [Education System Canton Schwyz Enrolment And Phases](https://frontaliereticino.ch/en/swiss-articles/education-system-canton-schwyz-enrolment-and-phases/)
 - [Egg Recall Salmonella Migros](https://frontaliereticino.ch/en/swiss-articles/egg-recall-salmonella-migros/)
 - [Electric Vans Federal Alignment](https://frontaliereticino.ch/en/swiss-articles/electric-vans-federal-alignment/)
+- [Electric Vs Petrol Car Costs Switzerland](https://frontaliereticino.ch/en/swiss-articles/electric-vs-petrol-car-costs-switzerland/)
 - [Electricity Bills 26 Cents 2027](https://frontaliereticino.ch/en/swiss-articles/electricity-bills-26-cents-2027/)
 - [Electricity Gas Lower Costs 2027](https://frontaliereticino.ch/en/swiss-articles/electricity-gas-lower-costs-2027/)
 - [Electricity Tariffs 2027 Decline](https://frontaliereticino.ch/en/swiss-articles/electricity-tariffs-2027-decline/)
