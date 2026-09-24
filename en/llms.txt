@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7332 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7336 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4075 pages)
+### Blog Articles (4077 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1252,6 +1252,7 @@
 - [Centromedico Castello Outpatient Surgery](https://frontaliereticino.ch/en/cross-border-articles/centromedico-castello-outpatient-surgery/)
 - [Cerano Intelvi Commuter Ticino](https://frontaliereticino.ch/en/cross-border-articles/cerano-intelvi-commuter-ticino/)
 - [Cervelat Swiss National Sausage](https://frontaliereticino.ch/en/cross-border-articles/cervelat-swiss-national-sausage/)
+- [Cgil Regio Insubrica Meeting November](https://frontaliereticino.ch/en/cross-border-articles/cgil-regio-insubrica-meeting-november/)
 - [Change Canton Tax Cross Border Worker](https://frontaliereticino.ch/en/cross-border-articles/change-canton-tax-cross-border-worker/)
 - [Change Employer Frontalier 2024 Single](https://frontaliereticino.ch/en/cross-border-articles/change-employer-frontalier-2024-single/)
 - [Change Italian Ambassador Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/change-italian-ambassador-switzerland-2026/)
@@ -3953,6 +3954,7 @@
 - [Swiss Police Pursuit Italy](https://frontaliereticino.ch/en/cross-border-articles/swiss-police-pursuit-italy/)
 - [Swiss Pork Compensation For Farmers](https://frontaliereticino.ch/en/cross-border-articles/swiss-pork-compensation-for-farmers/)
 - [Swiss Private Life Insurance For Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/swiss-private-life-insurance-for-frontaliers/)
+- [Swiss Public Pension No Taxation In Italy](https://frontaliereticino.ch/en/cross-border-articles/swiss-public-pension-no-taxation-in-italy/)
 - [Swiss Public Transport Revenue Growth Impact On Commuters](https://frontaliereticino.ch/en/cross-border-articles/swiss-public-transport-revenue-growth-impact-on-commuters/)
 - [Swiss Q1 Results Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/swiss-q1-results-cross-border-workers/)
 - [Swiss Railway 300 Projects 2026](https://frontaliereticino.ch/en/cross-border-articles/swiss-railway-300-projects-2026/)
@@ -4854,7 +4856,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2531 pages)
+### Other Pages (2533 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -4998,6 +5000,7 @@
 - [Healthcare Jobs Ticino](https://frontaliereticino.ch/en/healthcare-jobs-ticino/)
 - [Internships Lugano](https://frontaliereticino.ch/en/internships-lugano/)
 - [Jobs Ticino Accountant](https://frontaliereticino.ch/en/jobs-ticino-accountant/)
+- [Jobs Ticino Architect](https://frontaliereticino.ch/en/jobs-ticino-architect/)
 - [Jobs Ticino Butcher](https://frontaliereticino.ch/en/jobs-ticino-butcher/)
 - [Jobs Ticino Clerk](https://frontaliereticino.ch/en/jobs-ticino-clerk/)
 - [Jobs Ticino Cook](https://frontaliereticino.ch/en/jobs-ticino-cook/)
@@ -7194,6 +7197,7 @@
 - [Trip Future Mobility Italy Switzerland](https://frontaliereticino.ch/en/swiss-articles/trip-future-mobility-italy-switzerland/)
 - [Trump Tariffs 2026](https://frontaliereticino.ch/en/swiss-articles/trump-tariffs-2026/)
 - [Trump Us Senate Daylight Saving Time](https://frontaliereticino.ch/en/swiss-articles/trump-us-senate-daylight-saving-time/)
+- [Tuberculosis Switzerland Increase 2025](https://frontaliereticino.ch/en/swiss-articles/tuberculosis-switzerland-increase-2025/)
 - [Twint Commission Small Retailers Dispute](https://frontaliereticino.ch/en/swiss-articles/twint-commission-small-retailers-dispute/)
 - [Twint Direct Debit](https://frontaliereticino.ch/en/swiss-articles/twint-direct-debit/)
 - [Twint Direct Debit 2027](https://frontaliereticino.ch/en/swiss-articles/twint-direct-debit-2027/)
