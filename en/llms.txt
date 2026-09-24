@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7330 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7332 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4074 pages)
+### Blog Articles (4075 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1561,6 +1561,7 @@
 - [Cross Border Daily Brief 2026 09 21](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-21/)
 - [Cross Border Daily Brief 2026 09 22](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-22/)
 - [Cross Border Daily Brief 2026 09 23](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-23/)
+- [Cross Border Daily Brief 2026 09 24](https://frontaliereticino.ch/en/cross-border-articles/cross-border-daily-brief-2026-09-24/)
 - [Cross Border Dental Assistant Ticino](https://frontaliereticino.ch/en/cross-border-articles/cross-border-dental-assistant-ticino/)
 - [Cross Border Documents Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/cross-border-documents-frontaliers/)
 - [Cross Border Driver Ticino Requirements](https://frontaliereticino.ch/en/cross-border-articles/cross-border-driver-ticino-requirements/)
@@ -3752,6 +3753,7 @@
 - [Smartphones In Schools And New Directives](https://frontaliereticino.ch/en/cross-border-articles/smartphones-in-schools-and-new-directives/)
 - [Smartworking Extended 2023](https://frontaliereticino.ch/en/cross-border-articles/smartworking-extended-2023/)
 - [Smood Ceases Operations Ticino Impact Jobs Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/smood-ceases-operations-ticino-impact-jobs-cross-border-workers/)
+- [Snb Decision Swiss Franc Euro Exchange](https://frontaliereticino.ch/en/cross-border-articles/snb-decision-swiss-franc-euro-exchange/)
 - [Snb Profit Drop 2025 Ticino Impact](https://frontaliereticino.ch/en/cross-border-articles/snb-profit-drop-2025-ticino-impact/)
 - [Snl Season Green Concession 2026](https://frontaliereticino.ch/en/cross-border-articles/snl-season-green-concession-2026/)
 - [Snow Mountains Reopening Passo Novena](https://frontaliereticino.ch/en/cross-border-articles/snow-mountains-reopening-passo-novena/)
@@ -4416,7 +4418,6 @@
 - [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-24/)
 - [Page 25](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-25/)
 - [Page 26](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-26/)
-- [Page 27](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-27/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
@@ -4853,7 +4854,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2530 pages)
+### Other Pages (2531 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -6347,6 +6348,7 @@
 - [Parental Rights Cross Border Workers](https://frontaliereticino.ch/en/swiss-articles/parental-rights-cross-border-workers/)
 - [Parking Damage Costs 2025](https://frontaliereticino.ch/en/swiss-articles/parking-damage-costs-2025/)
 - [Parliament Avs Adoption Protection](https://frontaliereticino.ch/en/swiss-articles/parliament-avs-adoption-protection/)
+- [Parliament Rejects Naturalization After 5 Years](https://frontaliereticino.ch/en/swiss-articles/parliament-rejects-naturalization-after-5-years/)
 - [Parmelin Agriculture Drought](https://frontaliereticino.ch/en/swiss-articles/parmelin-agriculture-drought/)
 - [Parmelin Drought Farm Loans 2025](https://frontaliereticino.ch/en/swiss-articles/parmelin-drought-farm-loans-2025/)
 - [Parmelin Economic Mission North America](https://frontaliereticino.ch/en/swiss-articles/parmelin-economic-mission-north-america/)
