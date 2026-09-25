@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7351 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7352 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -4862,7 +4862,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2542 pages)
+### Other Pages (2543 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -7005,6 +7005,7 @@
 - [Switzerland Gasoline Prices Today](https://frontaliereticino.ch/en/swiss-articles/switzerland-gasoline-prices-today/)
 - [Switzerland Guide Start Business Costs](https://frontaliereticino.ch/en/swiss-articles/switzerland-guide-start-business-costs/)
 - [Switzerland Healthcare Lamal Vaud](https://frontaliereticino.ch/en/swiss-articles/switzerland-healthcare-lamal-vaud/)
+- [Switzerland Heatwave Economic Damage 2026](https://frontaliereticino.ch/en/swiss-articles/switzerland-heatwave-economic-damage-2026/)
 - [Switzerland Immigration Emigration Decline 2026](https://frontaliereticino.ch/en/swiss-articles/switzerland-immigration-emigration-decline-2026/)
 - [Switzerland Inflation Bns Rates](https://frontaliereticino.ch/en/swiss-articles/switzerland-inflation-bns-rates/)
 - [Switzerland Italy Fiscal Meeting Rome](https://frontaliereticino.ch/en/swiss-articles/switzerland-italy-fiscal-meeting-rome/)
