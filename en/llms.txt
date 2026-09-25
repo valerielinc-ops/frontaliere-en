@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7336 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7346 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4077 pages)
+### Blog Articles (4080 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -3525,6 +3525,7 @@
 - [Raiffeisen Zhaw Barometer Record](https://frontaliereticino.ch/en/cross-border-articles/raiffeisen-zhaw-barometer-record/)
 - [Rail Strike Italy Ticino](https://frontaliereticino.ch/en/cross-border-articles/rail-strike-italy-ticino/)
 - [Rail Traffic Disruption Ticino](https://frontaliereticino.ch/en/cross-border-articles/rail-traffic-disruption-ticino/)
+- [Railway Mobilization Luino Switzerland](https://frontaliereticino.ch/en/cross-border-articles/railway-mobilization-luino-switzerland/)
 - [Raising Bilingual Children Frontalier Italian German French](https://frontaliereticino.ch/en/cross-border-articles/raising-bilingual-children-frontalier-italian-german-french/)
 - [Raising Retirement Age Ticino](https://frontaliereticino.ch/en/cross-border-articles/raising-retirement-age-ticino/)
 - [Rallentamenti Autostrada A8 Milano Varese](https://frontaliereticino.ch/en/cross-border-articles/rallentamenti-autostrada-a8-milano-varese/)
@@ -3755,6 +3756,7 @@
 - [Smartworking Extended 2023](https://frontaliereticino.ch/en/cross-border-articles/smartworking-extended-2023/)
 - [Smood Ceases Operations Ticino Impact Jobs Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/smood-ceases-operations-ticino-impact-jobs-cross-border-workers/)
 - [Snb Decision Swiss Franc Euro Exchange](https://frontaliereticino.ch/en/cross-border-articles/snb-decision-swiss-franc-euro-exchange/)
+- [Snb Franc Euro Exchange](https://frontaliereticino.ch/en/cross-border-articles/snb-franc-euro-exchange/)
 - [Snb Profit Drop 2025 Ticino Impact](https://frontaliereticino.ch/en/cross-border-articles/snb-profit-drop-2025-ticino-impact/)
 - [Snl Season Green Concession 2026](https://frontaliereticino.ch/en/cross-border-articles/snl-season-green-concession-2026/)
 - [Snow Mountains Reopening Passo Novena](https://frontaliereticino.ch/en/cross-border-articles/snow-mountains-reopening-passo-novena/)
@@ -4350,6 +4352,7 @@
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-9/)
 - [G Permit](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
@@ -4856,7 +4859,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2533 pages)
+### Other Pages (2540 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5844,6 +5847,7 @@
 - [Frontier Workers Compensation Blocked Alfieri Pd](https://frontaliereticino.ch/en/swiss-articles/frontier-workers-compensation-blocked-alfieri-pd/)
 - [Frontier Workers Unemployment](https://frontaliereticino.ch/en/swiss-articles/frontier-workers-unemployment/)
 - [Fruit Ve 25 Percent More Costs 3 Discount Migros](https://frontaliereticino.ch/en/swiss-articles/fruit-ve-25-percent-more-costs-3-discount-migros/)
+- [Fuel Price Surge Switzerland](https://frontaliereticino.ch/en/swiss-articles/fuel-price-surge-switzerland/)
 - [Fuel Prices Reach Year High 2026](https://frontaliereticino.ch/en/swiss-articles/fuel-prices-reach-year-high-2026/)
 - [Fuel Prices Two Francs August 2026](https://frontaliereticino.ch/en/swiss-articles/fuel-prices-two-francs-august-2026/)
 - [Fuel Shortage Strategic Reserves](https://frontaliereticino.ch/en/swiss-articles/fuel-shortage-strategic-reserves/)
@@ -6139,6 +6143,7 @@
 - [Luna Wedler Golden Eye Award Zurich](https://frontaliereticino.ch/en/swiss-articles/luna-wedler-golden-eye-award-zurich/)
 - [Maccabi Lugano Protest](https://frontaliereticino.ch/en/swiss-articles/maccabi-lugano-protest/)
 - [Machine Operators Drivers Locarno](https://frontaliereticino.ch/en/swiss-articles/machine-operators-drivers-locarno/)
+- [Made In Europe Switzerland](https://frontaliereticino.ch/en/swiss-articles/made-in-europe-switzerland/)
 - [Mammut Acquired Chinese Investor](https://frontaliereticino.ch/en/swiss-articles/mammut-acquired-chinese-investor/)
 - [Mandatory Information Day Military Women](https://frontaliereticino.ch/en/swiss-articles/mandatory-information-day-military-women/)
 - [Mandatory Lamal Choosing Health Insurance Zurich](https://frontaliereticino.ch/en/swiss-articles/mandatory-lamal-choosing-health-insurance-zurich/)
@@ -6190,6 +6195,7 @@
 - [Mortgage Italy Cross Border Guide](https://frontaliereticino.ch/en/swiss-articles/mortgage-italy-cross-border-guide/)
 - [Mortgage Reference Rate Remains At 1 25](https://frontaliereticino.ch/en/swiss-articles/mortgage-reference-rate-remains-at-1-25/)
 - [Mortgage Reference Rate Stable](https://frontaliereticino.ch/en/swiss-articles/mortgage-reference-rate-stable/)
+- [Motion States Organizers Pay Safety Costs](https://frontaliereticino.ch/en/swiss-articles/motion-states-organizers-pay-safety-costs/)
 - [Motorcycle Accident Amlikon Bissegg 18 Years](https://frontaliereticino.ch/en/swiss-articles/motorcycle-accident-amlikon-bissegg-18-years/)
 - [Mountain Hotel Impulse Program](https://frontaliereticino.ch/en/swiss-articles/mountain-hotel-impulse-program/)
 - [Mountain Hotel Modernization Program](https://frontaliereticino.ch/en/swiss-articles/mountain-hotel-modernization-program/)
@@ -6722,6 +6728,7 @@
 - [Smi Galderma And Sandoz Enter Kuhne Nagel And Swisscom Exit](https://frontaliereticino.ch/en/swiss-articles/smi-galderma-and-sandoz-enter-kuhne-nagel-and-swisscom-exit/)
 - [Snb Foreign Reserves Rise August](https://frontaliereticino.ch/en/swiss-articles/snb-foreign-reserves-rise-august/)
 - [Snb Interest Rates Ubs](https://frontaliereticino.ch/en/swiss-articles/snb-interest-rates-ubs/)
+- [Snb Leaves Guide Rate At 0 And Raises Gdp Estimates 2026](https://frontaliereticino.ch/en/swiss-articles/snb-leaves-guide-rate-at-0-and-raises-gdp-estimates-2026/)
 - [Snb Profit First Half 2026 Results](https://frontaliereticino.ch/en/swiss-articles/snb-profit-first-half-2026-results/)
 - [Snb Rates September Exam](https://frontaliereticino.ch/en/swiss-articles/snb-rates-september-exam/)
 - [Snl Ricorso Lago Maggiore](https://frontaliereticino.ch/en/swiss-articles/snl-ricorso-lago-maggiore/)
@@ -6960,6 +6967,7 @@
 - [Swiss Students Read Less Pisa 2025](https://frontaliereticino.ch/en/swiss-articles/swiss-students-read-less-pisa-2025/)
 - [Swiss Summer 2026 Heatwave](https://frontaliereticino.ch/en/swiss-articles/swiss-summer-2026-heatwave/)
 - [Swiss Tenancy Law Rental Procedures](https://frontaliereticino.ch/en/swiss-articles/swiss-tenancy-law-rental-procedures/)
+- [Swiss Tourism August Foreign Guests](https://frontaliereticino.ch/en/swiss-articles/swiss-tourism-august-foreign-guests/)
 - [Swiss Transport Policy Ticino Marginalized](https://frontaliereticino.ch/en/swiss-articles/swiss-transport-policy-ticino-marginalized/)
 - [Swiss Transport Record 2026](https://frontaliereticino.ch/en/swiss-articles/swiss-transport-record-2026/)
 - [Swiss Unemployment Benefits For Frontaliers](https://frontaliereticino.ch/en/swiss-articles/swiss-unemployment-benefits-for-frontaliers/)
@@ -7041,6 +7049,7 @@
 - [Telecommuting For Frontaliers Practical Implications](https://frontaliereticino.ch/en/swiss-articles/telecommuting-for-frontaliers-practical-implications/)
 - [Telework Frontier Worker Days 2026](https://frontaliereticino.ch/en/swiss-articles/telework-frontier-worker-days-2026/)
 - [Temporary Work Switzerland](https://frontaliereticino.ch/en/swiss-articles/temporary-work-switzerland/)
+- [Temporary Workers Weather Allowance](https://frontaliereticino.ch/en/swiss-articles/temporary-workers-weather-allowance/)
 - [Temu Skv Collaboration](https://frontaliereticino.ch/en/swiss-articles/temu-skv-collaboration/)
 - [Tenancy Law Conciliation Ticino](https://frontaliereticino.ch/en/swiss-articles/tenancy-law-conciliation-ticino/)
 - [Tenancy Law Rules Switzerland](https://frontaliereticino.ch/en/swiss-articles/tenancy-law-rules-switzerland/)
@@ -7205,6 +7214,7 @@
 - [Two No Initiatives September](https://frontaliereticino.ch/en/swiss-articles/two-no-initiatives-september/)
 - [Tx Group Penalized By Devaluations](https://frontaliereticino.ch/en/swiss-articles/tx-group-penalized-by-devaluations/)
 - [Ubs Banking Regulation Compromise](https://frontaliereticino.ch/en/swiss-articles/ubs-banking-regulation-compromise/)
+- [Ubs Capital 90 Snb](https://frontaliereticino.ch/en/swiss-articles/ubs-capital-90-snb/)
 - [Ubs Capital Requirements](https://frontaliereticino.ch/en/swiss-articles/ubs-capital-requirements/)
 - [Ubs Gdp Growth 2026 Upward Revision](https://frontaliereticino.ch/en/swiss-articles/ubs-gdp-growth-2026-upward-revision/)
 - [Ubs New Old Age Pension Model](https://frontaliereticino.ch/en/swiss-articles/ubs-new-old-age-pension-model/)
