@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7346 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7351 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4080 pages)
+### Blog Articles (4083 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1090,6 +1090,7 @@
 - [Blocks Of Restitutions Berne Italy](https://frontaliereticino.ch/en/cross-border-articles/blocks-of-restitutions-berne-italy/)
 - [Blue Parking Como Residents](https://frontaliereticino.ch/en/cross-border-articles/blue-parking-como-residents/)
 - [Blues To Bop Lugano How To Visit](https://frontaliereticino.ch/en/cross-border-articles/blues-to-bop-lugano-how-to-visit/)
+- [Bns Decision Rate Unchanged 2026](https://frontaliereticino.ch/en/cross-border-articles/bns-decision-rate-unchanged-2026/)
 - [Bns Profit 2025 Ticino](https://frontaliereticino.ch/en/cross-border-articles/bns-profit-2025-ticino/)
 - [Bns Says No To Digital Franc](https://frontaliereticino.ch/en/cross-border-articles/bns-says-no-to-digital-franc/)
 - [Boiler Replacement Ticino 2026 Regulations Savings](https://frontaliereticino.ch/en/cross-border-articles/boiler-replacement-ticino-2026-regulations-savings/)
@@ -2227,6 +2228,7 @@
 - [Goodbye All Inclusive Ai Costs](https://frontaliereticino.ch/en/cross-border-articles/goodbye-all-inclusive-ai-costs/)
 - [Goods Traffic Alps Rail Truck](https://frontaliereticino.ch/en/cross-border-articles/goods-traffic-alps-rail-truck/)
 - [Gordola Santa Maria Appeal 2026](https://frontaliereticino.ch/en/cross-border-articles/gordola-santa-maria-appeal-2026/)
+- [Gornate Olona Tax Guide](https://frontaliereticino.ch/en/cross-border-articles/gornate-olona-tax-guide/)
 - [Gottardo Earthquake Frontalieri](https://frontaliereticino.ch/en/cross-border-articles/gottardo-earthquake-frontalieri/)
 - [Gottardo Reopens May 8 2026](https://frontaliereticino.ch/en/cross-border-articles/gottardo-reopens-may-8-2026/)
 - [Gottardo Tunnel Workers 2026](https://frontaliereticino.ch/en/cross-border-articles/gottardo-tunnel-workers-2026/)
@@ -4352,7 +4354,6 @@
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-8/)
-- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-9/)
 - [G Permit](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
@@ -4379,12 +4380,14 @@
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-7/)
+- [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-8/)
 - [Pensions Avs Lpp](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-6/)
+- [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-7/)
 - [Safety And Crime](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-3/)
@@ -4859,7 +4862,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2540 pages)
+### Other Pages (2542 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5448,6 +5451,7 @@
 - [Cicor Efficiency Plan Job Cuts](https://frontaliereticino.ch/en/swiss-articles/cicor-efficiency-plan-job-cuts/)
 - [Cities Climate 30 Kmh Roads](https://frontaliereticino.ch/en/swiss-articles/cities-climate-30-kmh-roads/)
 - [Citizenship Income Swiss Investigation](https://frontaliereticino.ch/en/swiss-articles/citizenship-income-swiss-investigation/)
+- [Civil Protection Conference Bern](https://frontaliereticino.ch/en/swiss-articles/civil-protection-conference-bern/)
 - [Clariant Victory One Billion](https://frontaliereticino.ch/en/swiss-articles/clariant-victory-one-billion/)
 - [Cleaning Work Undeclared 2026](https://frontaliereticino.ch/en/swiss-articles/cleaning-work-undeclared-2026/)
 - [Climate Commerce Agreement Consultation](https://frontaliereticino.ch/en/swiss-articles/climate-commerce-agreement-consultation/)
@@ -6140,6 +6144,7 @@
 - [Lugano Job Market Overview](https://frontaliereticino.ch/en/swiss-articles/lugano-job-market-overview/)
 - [Lugano Temporary Agencies](https://frontaliereticino.ch/en/swiss-articles/lugano-temporary-agencies/)
 - [Luglio 2026 Assegno Inclusione](https://frontaliereticino.ch/en/swiss-articles/luglio-2026-assegno-inclusione/)
+- [Lumpy Skin Disease Vaccination End](https://frontaliereticino.ch/en/swiss-articles/lumpy-skin-disease-vaccination-end/)
 - [Luna Wedler Golden Eye Award Zurich](https://frontaliereticino.ch/en/swiss-articles/luna-wedler-golden-eye-award-zurich/)
 - [Maccabi Lugano Protest](https://frontaliereticino.ch/en/swiss-articles/maccabi-lugano-protest/)
 - [Machine Operators Drivers Locarno](https://frontaliereticino.ch/en/swiss-articles/machine-operators-drivers-locarno/)
@@ -6973,6 +6978,7 @@
 - [Swiss Unemployment Benefits For Frontaliers](https://frontaliereticino.ch/en/swiss-articles/swiss-unemployment-benefits-for-frontaliers/)
 - [Swiss Unemployment Insurance How It Works](https://frontaliereticino.ch/en/swiss-articles/swiss-unemployment-insurance-how-it-works/)
 - [Swiss Vintage 2026 Quality Drought](https://frontaliereticino.ch/en/swiss-articles/swiss-vintage-2026-quality-drought/)
+- [Swiss Vote Two Initiatives 2026](https://frontaliereticino.ch/en/swiss-articles/swiss-vote-two-initiatives-2026/)
 - [Swiss Watch Export August 2026](https://frontaliereticino.ch/en/swiss-articles/swiss-watch-export-august-2026/)
 - [Swiss Watch Export In Net Growth But Not Enough](https://frontaliereticino.ch/en/swiss-articles/swiss-watch-export-in-net-growth-but-not-enough/)
 - [Swisscom Loses Contract Over 534 Hours Of Experience](https://frontaliereticino.ch/en/swiss-articles/swisscom-loses-contract-over-534-hours-of-experience/)
@@ -7171,7 +7177,6 @@
 - [Salaries](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/)
 - [Page 10](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/page-11/)
-- [Page 12](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/page-12/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/page-4/)
