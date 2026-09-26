@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7410 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7415 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4115 pages)
+### Blog Articles (4119 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1034,6 +1034,7 @@
 - [Benefits For Ocst Members Cross Border](https://frontaliereticino.ch/en/cross-border-articles/benefits-for-ocst-members-cross-border/)
 - [Benefits Remote Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/benefits-remote-work-ticino/)
 - [Bennet Hiring Varese Bordertown](https://frontaliereticino.ch/en/cross-border-articles/bennet-hiring-varese-bordertown/)
+- [Bennet Tavernola Arrest Two Suspects](https://frontaliereticino.ch/en/cross-border-articles/bennet-tavernola-arrest-two-suspects/)
 - [Bereavement Family Sick Leave Cross Border Workers Switzerland](https://frontaliereticino.ch/en/cross-border-articles/bereavement-family-sick-leave-cross-border-workers-switzerland/)
 - [Bern Discusses Economic Provision And 13th Avs](https://frontaliereticino.ch/en/cross-border-articles/bern-discusses-economic-provision-and-13th-avs/)
 - [Bern Restricts Foreign Property Purchases 2026](https://frontaliereticino.ch/en/cross-border-articles/bern-restricts-foreign-property-purchases-2026/)
@@ -3115,6 +3116,7 @@
 - [Meraviglia Festival Laveno Luino 2026](https://frontaliereticino.ch/en/cross-border-articles/meraviglia-festival-laveno-luino-2026/)
 - [Merger Municipalities Vedeggio 2026](https://frontaliereticino.ch/en/cross-border-articles/merger-municipalities-vedeggio-2026/)
 - [Merger Risk Lower Mendrisio](https://frontaliereticino.ch/en/cross-border-articles/merger-risk-lower-mendrisio/)
+- [Merone Commuter Ticino](https://frontaliereticino.ch/en/cross-border-articles/merone-commuter-ticino/)
 - [Mesenzana Working Ticino](https://frontaliereticino.ch/en/cross-border-articles/mesenzana-working-ticino/)
 - [Mesolcina Sports Festival 2026](https://frontaliereticino.ch/en/cross-border-articles/mesolcina-sports-festival-2026/)
 - [Michelin Guide Ticino](https://frontaliereticino.ch/en/cross-border-articles/michelin-guide-ticino/)
@@ -3524,6 +3526,7 @@
 - [Proposte Cernobbio 2026 Textile](https://frontaliereticino.ch/en/cross-border-articles/proposte-cernobbio-2026-textile/)
 - [Protecting Health Data Sovereignty](https://frontaliereticino.ch/en/cross-border-articles/protecting-health-data-sovereignty/)
 - [Protest Against Home Care Costs](https://frontaliereticino.ch/en/cross-border-articles/protest-against-home-care-costs/)
+- [Protest Concrete Plant Intelvi](https://frontaliereticino.ch/en/cross-border-articles/protest-concrete-plant-intelvi/)
 - [Province Of Varese Invests In Road And Green Maintenance With Cross Border Worke](https://frontaliereticino.ch/en/cross-border-articles/province-of-varese-invests-in-road-and-green-maintenance-with-cross-border-worke/)
 - [Psychologist Cross Border Ticino Work](https://frontaliereticino.ch/en/cross-border-articles/psychologist-cross-border-ticino-work/)
 - [Public Contracts Essential Services 2026](https://frontaliereticino.ch/en/cross-border-articles/public-contracts-essential-services-2026/)
@@ -4565,6 +4568,7 @@
 - [Trump Usa Tariffs Impact Ticino Export Jobs](https://frontaliereticino.ch/en/cross-border-articles/trump-usa-tariffs-impact-ticino-export-jobs/)
 - [Tuberculosis Case Saint Maurice](https://frontaliereticino.ch/en/cross-border-articles/tuberculosis-case-saint-maurice/)
 - [Tunisians Algerians Car Thieves Wuerenlos](https://frontaliereticino.ch/en/cross-border-articles/tunisians-algerians-car-thieves-wuerenlos/)
+- [Turate Agricultural Fire](https://frontaliereticino.ch/en/cross-border-articles/turate-agricultural-fire/)
 - [Turismo Ticino](https://frontaliereticino.ch/en/cross-border-articles/turismo-ticino/)
 - [Tutor Sapiens Third Level Apprenticeship](https://frontaliereticino.ch/en/cross-border-articles/tutor-sapiens-third-level-apprenticeship/)
 - [Twint Account Fraud Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/twint-account-fraud-cross-border-workers/)
@@ -4894,7 +4898,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2569 pages)
+### Other Pages (2570 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5039,7 +5043,6 @@
 - [Internships Lugano](https://frontaliereticino.ch/en/internships-lugano/)
 - [Jobs Ticino Accountant](https://frontaliereticino.ch/en/jobs-ticino-accountant/)
 - [Jobs Ticino Architect](https://frontaliereticino.ch/en/jobs-ticino-architect/)
-- [Jobs Ticino Butcher](https://frontaliereticino.ch/en/jobs-ticino-butcher/)
 - [Jobs Ticino Clerk](https://frontaliereticino.ch/en/jobs-ticino-clerk/)
 - [Jobs Ticino Cook](https://frontaliereticino.ch/en/jobs-ticino-cook/)
 - [Jobs Ticino Driver](https://frontaliereticino.ch/en/jobs-ticino-driver/)
@@ -5047,7 +5050,6 @@
 - [Jobs Ticino Electrician](https://frontaliereticino.ch/en/jobs-ticino-electrician/)
 - [Jobs Ticino Engineer](https://frontaliereticino.ch/en/jobs-ticino-engineer/)
 - [Jobs Ticino Healthcare Assistant](https://frontaliereticino.ch/en/jobs-ticino-healthcare-assistant/)
-- [Jobs Ticino Mason](https://frontaliereticino.ch/en/jobs-ticino-mason/)
 - [Jobs Ticino Midwife](https://frontaliereticino.ch/en/jobs-ticino-midwife/)
 - [Jobs Ticino Nurse](https://frontaliereticino.ch/en/jobs-ticino-nurse/)
 - [Jobs Ticino Physiotherapist](https://frontaliereticino.ch/en/jobs-ticino-physiotherapist/)
@@ -5594,6 +5596,7 @@
 - [Defense Fund Compromise](https://frontaliereticino.ch/en/swiss-articles/defense-fund-compromise/)
 - [Demographic Slowdown 2025 Switzerland](https://frontaliereticino.ch/en/swiss-articles/demographic-slowdown-2025-switzerland/)
 - [Deposit Guarantee Aargau](https://frontaliereticino.ch/en/swiss-articles/deposit-guarantee-aargau/)
+- [Dertour Suisse Aims To Surpass One Billion In Revenue](https://frontaliereticino.ch/en/swiss-articles/dertour-suisse-aims-to-surpass-one-billion-in-revenue/)
 - [Deutsche Bahn Rail Traffic Halt Germany](https://frontaliereticino.ch/en/swiss-articles/deutsche-bahn-rail-traffic-halt-germany/)
 - [Dff Cold Progression Taxes 2027](https://frontaliereticino.ch/en/swiss-articles/dff-cold-progression-taxes-2027/)
 - [Diesel Price Increase Geopolitics Switzerland](https://frontaliereticino.ch/en/swiss-articles/diesel-price-increase-geopolitics-switzerland/)
@@ -6898,6 +6901,7 @@
 - [Swiss Army Drones 2026 Strategy](https://frontaliereticino.ch/en/swiss-articles/swiss-army-drones-2026-strategy/)
 - [Swiss Army Evaluates Bunkers](https://frontaliereticino.ch/en/swiss-articles/swiss-army-evaluates-bunkers/)
 - [Swiss Army Measures Discrimination](https://frontaliereticino.ch/en/swiss-articles/swiss-army-measures-discrimination/)
+- [Swiss Army Rapid Mobilization](https://frontaliereticino.ch/en/swiss-articles/swiss-army-rapid-mobilization/)
 - [Swiss Army Violence Prevention Interim Report](https://frontaliereticino.ch/en/swiss-articles/swiss-army-violence-prevention-interim-report/)
 - [Swiss Balance Of Payments Decline](https://frontaliereticino.ch/en/swiss-articles/swiss-balance-of-payments-decline/)
 - [Swiss Bank Secrecy](https://frontaliereticino.ch/en/swiss-articles/swiss-bank-secrecy/)
@@ -7048,6 +7052,7 @@
 - [Switzerland Diesel Prices](https://frontaliereticino.ch/en/swiss-articles/switzerland-diesel-prices/)
 - [Switzerland Drought Groundwater Risk](https://frontaliereticino.ch/en/swiss-articles/switzerland-drought-groundwater-risk/)
 - [Switzerland Drought Water Theft Concerns](https://frontaliereticino.ch/en/swiss-articles/switzerland-drought-water-theft-concerns/)
+- [Switzerland Electric Cars Ranking](https://frontaliereticino.ch/en/swiss-articles/switzerland-electric-cars-ranking/)
 - [Switzerland Electricity Cost](https://frontaliereticino.ch/en/swiss-articles/switzerland-electricity-cost/)
 - [Switzerland Electricity Investments](https://frontaliereticino.ch/en/swiss-articles/switzerland-electricity-investments/)
 - [Switzerland Employment Unemployment Q2 2026](https://frontaliereticino.ch/en/swiss-articles/switzerland-employment-unemployment-q2-2026/)
