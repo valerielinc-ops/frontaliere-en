@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7391 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7400 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4105 pages)
+### Blog Articles (4110 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -843,6 +843,7 @@
 - [Agency Work Lombardy Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/agency-work-lombardy-cross-border-workers/)
 - [Agesp Waste May First 2026](https://frontaliereticino.ch/en/cross-border-articles/agesp-waste-may-first-2026/)
 - [Aggregation Basso Mendrisiotto Rizza Chiasso Needs Self Criticism](https://frontaliereticino.ch/en/cross-border-articles/aggregation-basso-mendrisiotto-rizza-chiasso-needs-self-criticism/)
+- [Aggression Night Lugano](https://frontaliereticino.ch/en/cross-border-articles/aggression-night-lugano/)
 - [Agreement Editors Unions German Switzerland](https://frontaliereticino.ch/en/cross-border-articles/agreement-editors-unions-german-switzerland/)
 - [Agreement Lake Maggiore Italy Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/agreement-lake-maggiore-italy-switzerland-2026/)
 - [Agricultural Market Besozzo Superiore](https://frontaliereticino.ch/en/cross-border-articles/agricultural-market-besozzo-superiore/)
@@ -1246,6 +1247,7 @@
 - [Castelveccana Living Work Ticino Border Worker](https://frontaliereticino.ch/en/cross-border-articles/castelveccana-living-work-ticino-border-worker/)
 - [Castiglione Olona Cross Border Worker Ticino](https://frontaliereticino.ch/en/cross-border-articles/castiglione-olona-cross-border-worker-ticino/)
 - [Castiglione Olona Post Office Reopened](https://frontaliereticino.ch/en/cross-border-articles/castiglione-olona-post-office-reopened/)
+- [Castronno Night Closures October 2026](https://frontaliereticino.ch/en/cross-border-articles/castronno-night-closures-october-2026/)
 - [Cazzago Brabbia Walking Eating 2026](https://frontaliereticino.ch/en/cross-border-articles/cazzago-brabbia-walking-eating-2026/)
 - [Cbt Italia Cyclists Market](https://frontaliereticino.ch/en/cross-border-articles/cbt-italia-cyclists-market/)
 - [Cedrasco Grisons Cross Border Guide](https://frontaliereticino.ch/en/cross-border-articles/cedrasco-grisons-cross-border-guide/)
@@ -3687,6 +3689,7 @@
 - [Sargans Teenage Robbery Catch](https://frontaliereticino.ch/en/cross-border-articles/sargans-teenage-robbery-catch/)
 - [Saronno Bar License Suspended After Brawl](https://frontaliereticino.ch/en/cross-border-articles/saronno-bar-license-suspended-after-brawl/)
 - [Saronno Supermarket Evacuated](https://frontaliereticino.ch/en/cross-border-articles/saronno-supermarket-evacuated/)
+- [Saronno Via Volonterio Roadworks](https://frontaliereticino.ch/en/cross-border-articles/saronno-via-volonterio-roadworks/)
 - [Savoy Candidate With Avanti Ticino E Lavoro](https://frontaliereticino.ch/en/cross-border-articles/savoy-candidate-with-avanti-ticino-e-lavoro/)
 - [Sbb Controllers Bonuses Fines Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/sbb-controllers-bonuses-fines-ticino-2026/)
 - [Scende Limite Nevicate Ticino](https://frontaliereticino.ch/en/cross-border-articles/scende-limite-nevicate-ticino/)
@@ -3772,6 +3775,7 @@
 - [Smart Glasses Ticino Innovation](https://frontaliereticino.ch/en/cross-border-articles/smart-glasses-ticino-innovation/)
 - [Smart Valley Campus Daverio Inauguration](https://frontaliereticino.ch/en/cross-border-articles/smart-valley-campus-daverio-inauguration/)
 - [Smart Working Cross Border Rules](https://frontaliereticino.ch/en/cross-border-articles/smart-working-cross-border-rules/)
+- [Smart Working For Cross Border Workers 25 Limit On Days](https://frontaliereticino.ch/en/cross-border-articles/smart-working-for-cross-border-workers-25-limit-on-days/)
 - [Smarter Customs 2026](https://frontaliereticino.ch/en/cross-border-articles/smarter-customs-2026/)
 - [Smartphone Ban School Ticino](https://frontaliereticino.ch/en/cross-border-articles/smartphone-ban-school-ticino/)
 - [Smartphones In Schools And New Directives](https://frontaliereticino.ch/en/cross-border-articles/smartphones-in-schools-and-new-directives/)
@@ -3800,6 +3804,7 @@
 - [Sommer Failed Inter Frontalieri](https://frontaliereticino.ch/en/cross-border-articles/sommer-failed-inter-frontalieri/)
 - [Sospenda Riversamento Allitalia Della Quota Dellimposta Alla Fonte Prelevata Ai ](https://frontaliereticino.ch/en/cross-border-articles/sospenda-riversamento-allitalia-della-quota-dellimposta-alla-fonte-prelevata-ai-/)
 - [Sought Technical Skills Ticino Cross Border](https://frontaliereticino.ch/en/cross-border-articles/sought-technical-skills-ticino-cross-border/)
+- [Sound Barriers Varese](https://frontaliereticino.ch/en/cross-border-articles/sound-barriers-varese/)
 - [Space Agriculture Switzerland Research](https://frontaliereticino.ch/en/cross-border-articles/space-agriculture-switzerland-research/)
 - [Speed Controls Ticino April May](https://frontaliereticino.ch/en/cross-border-articles/speed-controls-ticino-april-may/)
 - [Speed Controls Ticino May 2024](https://frontaliereticino.ch/en/cross-border-articles/speed-controls-ticino-may-2024/)
@@ -4884,7 +4889,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2560 pages)
+### Other Pages (2564 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5312,6 +5317,7 @@
 - [Border Police Cooperation](https://frontaliereticino.ch/en/swiss-articles/border-police-cooperation/)
 - [Border Worker Caregiver Ticino Salary Requirements](https://frontaliereticino.ch/en/swiss-articles/border-worker-caregiver-ticino-salary-requirements/)
 - [Borse Di Studio Canton Nidvaldo En](https://frontaliereticino.ch/en/swiss-articles/borse-di-studio-canton-nidvaldo-en/)
+- [Bregaglia Nurse Indemnities](https://frontaliereticino.ch/en/swiss-articles/bregaglia-nurse-indemnities/)
 - [Brexit Impacts Switzerland Eu](https://frontaliereticino.ch/en/swiss-articles/brexit-impacts-switzerland-eu/)
 - [Brienz Relocation Safety](https://frontaliereticino.ch/en/swiss-articles/brienz-relocation-safety/)
 - [Broadband Expansion 2030 2037](https://frontaliereticino.ch/en/swiss-articles/broadband-expansion-2030-2037/)
@@ -6076,6 +6082,7 @@
 - [Insurance Job Cuts Occupational 2028](https://frontaliereticino.ch/en/swiss-articles/insurance-job-cuts-occupational-2028/)
 - [Insurance Rc Car Switzerland Differences Italy Frontaliers](https://frontaliereticino.ch/en/swiss-articles/insurance-rc-car-switzerland-differences-italy-frontaliers/)
 - [Insurance Switzerland Results 2025](https://frontaliereticino.ch/en/swiss-articles/insurance-switzerland-results-2025/)
+- [Integration Pic4 Funds 2028 2032](https://frontaliereticino.ch/en/swiss-articles/integration-pic4-funds-2028-2032/)
 - [Intelligence Dogs Cats Research](https://frontaliereticino.ch/en/swiss-articles/intelligence-dogs-cats-research/)
 - [Interchange Nodes Labor Projects Settembre](https://frontaliereticino.ch/en/swiss-articles/interchange-nodes-labor-projects-settembre/)
 - [Interest Rates Snb 2027](https://frontaliereticino.ch/en/swiss-articles/interest-rates-snb-2027/)
@@ -6706,6 +6713,7 @@
 - [Seco Job Opportunities](https://frontaliereticino.ch/en/swiss-articles/seco-job-opportunities/)
 - [Seco Labour Market July 2026](https://frontaliereticino.ch/en/swiss-articles/seco-labour-market-july-2026/)
 - [Seco Swiss Labor Market Solid](https://frontaliereticino.ch/en/swiss-articles/seco-swiss-labor-market-solid/)
+- [Seco Trade Measures 2026](https://frontaliereticino.ch/en/swiss-articles/seco-trade-measures-2026/)
 - [Seco Unemployment June 2024](https://frontaliereticino.ch/en/swiss-articles/seco-unemployment-june-2024/)
 - [Seco Us Duties 2026](https://frontaliereticino.ch/en/swiss-articles/seco-us-duties-2026/)
 - [Second Pilaster Lpp Switzerland Guide 2026 Canton St Gallen](https://frontaliereticino.ch/en/swiss-articles/second-pilaster-lpp-switzerland-guide-2026-canton-st-gallen/)
@@ -6725,6 +6733,7 @@
 - [Sem Cuts 108 Jobs 2027](https://frontaliereticino.ch/en/swiss-articles/sem-cuts-108-jobs-2027/)
 - [September Environment Month Collina Doro](https://frontaliereticino.ch/en/swiss-articles/september-environment-month-collina-doro/)
 - [September Vote 2026](https://frontaliereticino.ch/en/swiss-articles/september-vote-2026/)
+- [September Vote Integration 2026](https://frontaliereticino.ch/en/swiss-articles/september-vote-integration-2026/)
 - [September Votes 8 Million Francs](https://frontaliereticino.ch/en/swiss-articles/september-votes-8-million-francs/)
 - [Serfontana Photovoltaic Parking](https://frontaliereticino.ch/en/swiss-articles/serfontana-photovoltaic-parking/)
 - [Serious Injuries Return To Work](https://frontaliereticino.ch/en/swiss-articles/serious-injuries-return-to-work/)
