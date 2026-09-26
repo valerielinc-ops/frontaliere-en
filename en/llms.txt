@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 7374 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 7378 pages.
 
 ### Tax & Salary Calculators (459 pages)
 
@@ -731,7 +731,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4097 pages)
+### Blog Articles (4099 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1014,6 +1014,7 @@
 - [Bellinzona Dormitory Town](https://frontaliereticino.ch/en/cross-border-articles/bellinzona-dormitory-town/)
 - [Bellinzona Employer Work Life Balance](https://frontaliereticino.ch/en/cross-border-articles/bellinzona-employer-work-life-balance/)
 - [Bellinzona Football License Denied Finances](https://frontaliereticino.ch/en/cross-border-articles/bellinzona-football-license-denied-finances/)
+- [Bellinzona Fortress Plr Investment](https://frontaliereticino.ch/en/cross-border-articles/bellinzona-fortress-plr-investment/)
 - [Bellinzona Growth Quality Life](https://frontaliereticino.ch/en/cross-border-articles/bellinzona-growth-quality-life/)
 - [Bellinzona Kindergartens Extended Hours Pilot 2027](https://frontaliereticino.ch/en/cross-border-articles/bellinzona-kindergartens-extended-hours-pilot-2027/)
 - [Bellinzona Medical Center Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/bellinzona-medical-center-cross-border-workers/)
@@ -3907,6 +3908,7 @@
 - [Swiss French Border Controls 2024](https://frontaliereticino.ch/en/cross-border-articles/swiss-french-border-controls-2024/)
 - [Swiss Fuel Reserves 2026](https://frontaliereticino.ch/en/cross-border-articles/swiss-fuel-reserves-2026/)
 - [Swiss Gasoline Record 2026](https://frontaliereticino.ch/en/cross-border-articles/swiss-gasoline-record-2026/)
+- [Swiss Gdp 2026 Revised Upwards 1 7 According To The Kof](https://frontaliereticino.ch/en/cross-border-articles/swiss-gdp-2026-revised-upwards-1-7-according-to-the-kof/)
 - [Swiss Gdp Growth Second Quarter](https://frontaliereticino.ch/en/cross-border-articles/swiss-gdp-growth-second-quarter/)
 - [Swiss Glaciers Frontalieri](https://frontaliereticino.ch/en/cross-border-articles/swiss-glaciers-frontalieri/)
 - [Swiss Government Restricts Foreign Property Purchases 2026](https://frontaliereticino.ch/en/cross-border-articles/swiss-government-restricts-foreign-property-purchases-2026/)
@@ -4876,7 +4878,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (2551 pages)
+### Other Pages (2553 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5423,6 +5425,7 @@
 - [Cdf Campaign Budgets September Vote](https://frontaliereticino.ch/en/swiss-articles/cdf-campaign-budgets-september-vote/)
 - [Cdt Epaper Ios](https://frontaliereticino.ch/en/swiss-articles/cdt-epaper-ios/)
 - [Cell Broadcast Alert Switzerland](https://frontaliereticino.ch/en/swiss-articles/cell-broadcast-alert-switzerland/)
+- [Cembra Vontobel Relocation Baden Baar](https://frontaliereticino.ch/en/swiss-articles/cembra-vontobel-relocation-baden-baar/)
 - [Cern 19 Billion Project](https://frontaliereticino.ch/en/swiss-articles/cern-19-billion-project/)
 - [Cern Future Collider Ticino](https://frontaliereticino.ch/en/swiss-articles/cern-future-collider-ticino/)
 - [Cessione Del Quinto Della Pensione 2026 Frontalier](https://frontaliereticino.ch/en/swiss-articles/cessione-del-quinto-della-pensione-2026-frontalier/)
@@ -7123,6 +7126,7 @@
 - [Ticino On Duty Pharmacies Guide](https://frontaliereticino.ch/en/swiss-articles/ticino-on-duty-pharmacies-guide/)
 - [Ticino Pharmacy Directory Contacts](https://frontaliereticino.ch/en/swiss-articles/ticino-pharmacy-directory-contacts/)
 - [Ticino Political Program Public Consultation](https://frontaliereticino.ch/en/swiss-articles/ticino-political-program-public-consultation/)
+- [Ticino S Healthcare System Needs New Incentives](https://frontaliereticino.ch/en/swiss-articles/ticino-s-healthcare-system-needs-new-incentives/)
 - [Ticino Salary Gap Frontalieri](https://frontaliereticino.ch/en/swiss-articles/ticino-salary-gap-frontalieri/)
 - [Ticino School Pisa 2025 Decline](https://frontaliereticino.ch/en/swiss-articles/ticino-school-pisa-2025-decline/)
 - [Ticino School Vpod Teachers Conditions](https://frontaliereticino.ch/en/swiss-articles/ticino-school-vpod-teachers-conditions/)
@@ -7411,7 +7415,6 @@
 - [Ristorazione](https://frontaliereticino.ch/en/ticino-job-market/sector/ristorazione/)
 - [Sanita](https://frontaliereticino.ch/en/ticino-job-market/sector/sanita/)
 - [Vendite](https://frontaliereticino.ch/en/ticino-job-market/sector/vendite/)
-- [Week 27 2026](https://frontaliereticino.ch/en/ticino-job-market/week-27-2026/)
 - [Week 28 2026](https://frontaliereticino.ch/en/ticino-job-market/week-28-2026/)
 - [Week 29 2026](https://frontaliereticino.ch/en/ticino-job-market/week-29-2026/)
 - [Week 30 2026](https://frontaliereticino.ch/en/ticino-job-market/week-30-2026/)
@@ -7423,6 +7426,7 @@
 - [Week 36 2026](https://frontaliereticino.ch/en/ticino-job-market/week-36-2026/)
 - [Week 37 2026](https://frontaliereticino.ch/en/ticino-job-market/week-37-2026/)
 - [Week 38 2026](https://frontaliereticino.ch/en/ticino-job-market/week-38-2026/)
+- [Week 39 2026](https://frontaliereticino.ch/en/ticino-job-market/week-39-2026/)
 - [Tool Of The Week](https://frontaliereticino.ch/en/tool-of-the-week/)
 - [Trade Unions Cross Border Workers](https://frontaliereticino.ch/en/trade-unions-cross-border-workers/)
 - [Transport](https://frontaliereticino.ch/en/transport/)
