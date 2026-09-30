@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 19045 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 19044 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -5345,7 +5345,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (13753 pages)
+### Other Pages (13752 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5577,7 +5577,6 @@
 - [Ipersonal Ag](https://frontaliereticino.ch/en/aziende/ipersonal-ag/)
 - [Iwc](https://frontaliereticino.ch/en/aziende/iwc/)
 - [J Safra Sarasin](https://frontaliereticino.ch/en/aziende/j-safra-sarasin/)
-- [Jaeger Lecoultre](https://frontaliereticino.ch/en/aziende/jaeger-lecoultre/)
 - [Julius Baer](https://frontaliereticino.ch/en/aziende/julius-baer/)
 - [Jumbo](https://frontaliereticino.ch/en/aziende/jumbo/)
 - [Jysk](https://frontaliereticino.ch/en/aziende/jysk/)
