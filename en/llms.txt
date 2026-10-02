@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 20579 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 20582 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -1103,7 +1103,7 @@
 - [Page Index 7](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-7/)
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 
-### Blog Articles (4217 pages)
+### Blog Articles (4218 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1142,6 +1142,7 @@
 - [A13 Lumino San Vittore Environmental Compensation](https://frontaliereticino.ch/en/cross-border-articles/a13-lumino-san-vittore-environmental-compensation/)
 - [A13 Nighttime Closures Mappo Minusio 2026](https://frontaliereticino.ch/en/cross-border-articles/a13-nighttime-closures-mappo-minusio-2026/)
 - [A2 Accident Lodrino Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/a2-accident-lodrino-cross-border-workers/)
+- [A2 Accident Mendrisio Cross Border Workers](https://frontaliereticino.ch/en/cross-border-articles/a2-accident-mendrisio-cross-border-workers/)
 - [A2 Accident Traffic Debate Ticino](https://frontaliereticino.ch/en/cross-border-articles/a2-accident-traffic-debate-ticino/)
 - [A2 Biasca Junction Cross Border Risks](https://frontaliereticino.ch/en/cross-border-articles/a2-biasca-junction-cross-border-risks/)
 - [A2 Giornico Construction Delays Crossborder](https://frontaliereticino.ch/en/cross-border-articles/a2-giornico-construction-delays-crossborder/)
@@ -4882,7 +4883,6 @@
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-7/)
-- [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-8/)
 - [Safety And Crime](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-3/)
@@ -4919,6 +4919,7 @@
 - [Page 22](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-22/)
 - [Page 23](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-23/)
 - [Page 24](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-24/)
+- [Page 25](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-25/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
@@ -5368,7 +5369,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (15264 pages)
+### Other Pages (15266 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -18917,6 +18918,7 @@
 - [Grisons Ahv Supplementary Benefits](https://frontaliereticino.ch/en/swiss-articles/grisons-ahv-supplementary-benefits/)
 - [Grisons Apprenticeship Guide](https://frontaliereticino.ch/en/swiss-articles/grisons-apprenticeship-guide/)
 - [Grisons Basel Model Traffic](https://frontaliereticino.ch/en/swiss-articles/grisons-basel-model-traffic/)
+- [Grisons Business Registration Costs](https://frontaliereticino.ch/en/swiss-articles/grisons-business-registration-costs/)
 - [Grisons Deposit Guarantee Rental](https://frontaliereticino.ch/en/swiss-articles/grisons-deposit-guarantee-rental/)
 - [Grisons Diversion Traffic Udc](https://frontaliereticino.ch/en/swiss-articles/grisons-diversion-traffic-udc/)
 - [Grisons Hospital Expansion 2026](https://frontaliereticino.ch/en/swiss-articles/grisons-hospital-expansion-2026/)
@@ -18936,6 +18938,7 @@
 - [Guide Job Search Switzerland 2026](https://frontaliereticino.ch/en/swiss-articles/guide-job-search-switzerland-2026/)
 - [Guide Opening Business Basel Countryside](https://frontaliereticino.ch/en/swiss-articles/guide-opening-business-basel-countryside/)
 - [Guide Opening Business St Gallen Taxes Procedures](https://frontaliereticino.ch/en/swiss-articles/guide-opening-business-st-gallen-taxes-procedures/)
+- [Guy Parmelin Resignation 2026](https://frontaliereticino.ch/en/swiss-articles/guy-parmelin-resignation-2026/)
 - [Hacker Attack Liechtenstein Switzerland](https://frontaliereticino.ch/en/swiss-articles/hacker-attack-liechtenstein-switzerland/)
 - [Hail Insurance 2026](https://frontaliereticino.ch/en/swiss-articles/hail-insurance-2026/)
 - [Hairdressers Frontaliers Ticino](https://frontaliereticino.ch/en/swiss-articles/hairdressers-frontaliers-ticino/)
@@ -20122,6 +20125,7 @@
 - [Swiss Salaries 2026 Inflation](https://frontaliereticino.ch/en/swiss-articles/swiss-salaries-2026-inflation/)
 - [Swiss Salaries Geneva 2026](https://frontaliereticino.ch/en/swiss-articles/swiss-salaries-geneva-2026/)
 - [Swiss Salary Gross Net 2026](https://frontaliereticino.ch/en/swiss-articles/swiss-salary-gross-net-2026/)
+- [Swiss Salary Sectors Bern](https://frontaliereticino.ch/en/swiss-articles/swiss-salary-sectors-bern/)
 - [Swiss Saudi Investment Agreement 2026](https://frontaliereticino.ch/en/swiss-articles/swiss-saudi-investment-agreement-2026/)
 - [Swiss Save More Than Ever](https://frontaliereticino.ch/en/swiss-articles/swiss-save-more-than-ever/)
 - [Swiss Smes Absences Work Costs](https://frontaliereticino.ch/en/swiss-articles/swiss-smes-absences-work-costs/)
@@ -20310,6 +20314,7 @@
 - [Page 14](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-14/)
 - [Page 15](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-15/)
 - [Page 16](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-16/)
+- [Page 17](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-17/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-4/)
@@ -20367,7 +20372,6 @@
 - [Page 5](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-7/)
-- [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-8/)
 - [Pensions Avs Lpp](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-3/)
@@ -20376,7 +20380,6 @@
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-8/)
-- [Page 9](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-9/)
 - [Safety And Crime](https://frontaliereticino.ch/en/swiss-articles/topics/safety-and-crime/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/safety-and-crime/page-2/)
 - [Salaries](https://frontaliereticino.ch/en/swiss-articles/topics/salaries/)
