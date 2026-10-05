@@ -305,215 +305,7 @@
     </script>
     <!-- Error recovery script deferred to just before module script (see below) -->
     <!-- Critical CSS: font-face + loading shell (non-critical CSS moved to index.css) -->
-    <style data-clarity-unmask="true">
-      @font-face {
-        font-family: 'Inter';
-        font-style: normal;
-        font-weight: 400 700;
-        font-display: swap;
-        src: url('/fonts/inter-latin.woff2') format('woff2');
-        size-adjust: 100%;
-        ascent-override: 90%;
-        descent-override: 22%;
-        line-gap-override: 0%;
-        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-      }
-      @font-face {
-        font-family: 'Space Grotesk';
-        font-style: normal;
-        font-weight: 300 700;
-        /* optional (issue #2659): the font is <link rel=preload>-ed, so on most
-           cold-loads it is ready within the ~100ms optional window and headings
-           paint in Space Grotesk with NO swap; on a slow load the fallback is
-           kept for the page lifetime — either way the heading swap reflow that
-           dominated article cold-load CLS (~0.32 live) is eliminated. */
-        font-display: optional;
-        src: url('/fonts/space-grotesk-latin.woff2') format('woff2');
-        size-adjust: 100%;
-        ascent-override: 90%;
-        descent-override: 22%;
-        line-gap-override: 0%;
-        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-      }
-      body { font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, sans-serif; }
-      h1, h2, h3 { font-family: 'Space Grotesk', ui-sans-serif, system-ui, -apple-system, sans-serif; }
-
-      /* CLS prevention — applied synchronously before async Tailwind CSS arrives.
-         Without these, the UA default body margin (8px) + Tailwind preflight
-         eventual margin:0 transition causes a ~20px y-axis shift of the entire
-         body (full-viewport CLS score of 1.0 on mobile). See cls-live audit. */
-      html { margin: 0; padding: 0; scrollbar-gutter: stable; }
-      body { margin: 0; padding: 0; }
-      /* The initial H1 margin otherwise collapses through main/root/body before
-         async preflight arrives, shifting the whole viewport by ~21px. */
-      #homepage-static-h1 { margin: 0; }
-      /* Reserve mobile widget area so deferred React widgets don't cause CLS when
-         they mount. 160px matches min-h-[160px] on the .md:hidden mobile container
-         in CalcolatoreTabContent.tsx; the inline value applies before Tailwind
-         loads. */
-      .home-mobile-widget-reserve { min-height: 160px; }
-
-      /* PERFORMANCE: Skip layout/render for off-screen content */
-      /* ===== Loading Shell responsive styles — must match React's Tailwind breakpoints ===== */
-      /* sm: 640px, md: 768px, lg: 1024px, xl: 1280px */
-      #loading-shell .sh-logo-text { display: none; }
-      #loading-shell .sh-nav-links { display: none; }
-      #loading-shell .sh-actions { display: none; }
-      #loading-shell .sh-mobile-nav { display: grid; grid-template-columns: repeat(6,1fr); }
-      #loading-shell .sh-subtabs { grid-template-columns: repeat(4,1fr); }
-      #loading-shell .sh-grid { grid-template-columns: 1fr; }
-      #loading-shell .sh-main { padding-left: 8px; padding-right: 8px; }
-      #loading-shell .sh-subtab-wrap { padding-left: 16px; padding-right: 16px; }
-      @media(min-width:640px) {
-        #loading-shell .sh-logo-text { display: block; }
-        #loading-shell .sh-main { padding-left: 16px; padding-right: 16px; }
-        #loading-shell .sh-subtab-wrap { padding-left: 24px; padding-right: 24px; }
-      }
-      @media(min-width:768px) {
-        #loading-shell .sh-nav-links { display: flex; }
-        #loading-shell .sh-actions { display: flex; }
-        #loading-shell .sh-mobile-nav { display: none; }
-        #loading-shell .sh-mobile-calc { display: none !important; }
-        #loading-shell .sh-input-card { display: block !important; }
-        #loading-shell .sh-subtabs { grid-template-columns: repeat(8,1fr); }
-        #loading-shell .sh-grid { grid-template-columns: repeat(12,1fr); }
-        #loading-shell .sh-input-card { grid-column: span 4; }
-      }
-      @media(min-width:1024px) {
-        #loading-shell .sh-subtab-wrap { padding-left: 32px; padding-right: 32px; }
-        #loading-shell .sh-input-card { grid-column: span 4; }
-      }
-      @media(min-width:1280px) {
-        #loading-shell .sh-input-card { grid-column: span 3; }
-      }
-      /* Pulse animation for skeleton elements */
-      @keyframes shellPulse { 0%,100%{opacity:1} 50%{opacity:.5} }
-      #loading-shell .sh-pulse { animation: shellPulse 2s cubic-bezier(.4,0,.6,1) infinite; }
-      /* Dark mode support for shell */
-      .dark #loading-shell { background: linear-gradient(to bottom right,#020617,#0f172a,#020617); }
-      .dark #loading-shell .sh-nav { background: rgba(15,23,42,0.7); border-color: rgba(30,41,59,0.5); }
-      .dark #loading-shell .sh-subtab-bar { background: #0f172a; border-color: #1e293b; }
-      .dark #loading-shell .sh-skel { background: #1e293b; }
-      .dark #loading-shell .sh-card { background: #1e293b; border-color: #334155; }
-
-      /* CLS — desktop side-rail reservation, mirrored from the async entry sheet
-         (index.css) into this synchronous block. The rail grid wrapping <main><aside class="s-S4XJXX" data-ae7-link><p class="s-ckSIMG">Stai valutando se lavorare oltreconfine? Cinque tabelle dense con dati 2026 su stipendi, tasse, LAMal, contributi e costo della vita. <a class="s-t_pXue" href="/confronti-frontalieri/">Apri i confronti Svizzera vs Italia per frontalieri</a>.</p></aside>
-         on SPA content pages (App.tsx) and static SEO landings is styled only by
-         the async Tailwind sheet, which swaps in ~500ms after first paint →
-         <main> repaints full-width block → centred grid column and everything
-         below jumps (live-measured dominant desktop shift 0.47; CF Web Analytics
-         desktop CLS p75 0.22→0.65 on 2026-06-22 after the rails shipped).
-         Reserving the IDENTICAL grid here pins the final layout at first paint.
-         Keep in sync with RAIL_RESERVE_CSS in build-plugins/shared/criticalCss.ts
-         (the static-page twin). Pure space reservation. */
-      .ft-rail-aside, .ft-rail-aside-x { display: none; }
-      .ft-rail-grid-spa { display: contents; }
-      @media (min-width: 1200px) {
-        .xlc\:max-w-none { max-width: none; }
-      }
-      @media (min-width: 1200px) and (max-width: 1279.98px) {
-        .ft-blog-rail-grid-x { display: grid; grid-template-columns: var(--ft-rail-w-c-l,160px) minmax(0,1fr) var(--ft-rail-w-c-r,160px); gap: 1rem; }
-        .ft-blog-rail-aside-x { display: flex; flex-direction: column; min-height: 600px; }
-      }
-      @media (min-width: 1280px) and (max-width: 1399.98px) {
-        .ft-rail-grid-x { display: grid; grid-template-columns: var(--ft-rail-w-m-l,180px) minmax(0,1fr) var(--ft-rail-w-m-r,180px); gap: 1rem; }
-        .ft-rail-aside-x { display: block; }
-        .ft-blog-rail-aside-x { display: flex; flex-direction: column; min-height: 600px; }
-      }
-      @media (min-width: 1400px) {
-        main:not(.seo-static-content):not(.cluster-seo-prose) { max-width: calc(100vw - 360px); }
-        #main-content.plate-auctions-main { max-width: none !important; }
-        .ft-rail-grid { display: grid; grid-template-columns: 300px minmax(0,1fr) 300px; gap: 1rem; margin-inline: auto; max-width: 1768px; }
-        .ft-rail-grid-spa { display: grid; grid-template-columns: 160px minmax(0,1fr) 160px; gap: 1rem; }
-        .ft-rail-grid-x { display: grid; grid-template-columns: var(--ft-rail-w-l,300px) minmax(0,1fr) var(--ft-rail-w-r,300px); gap: 1rem; }
-        .ft-rail-aside, .ft-rail-aside-x { display: flex; flex-direction: column; min-height: 600px; }
-      }
-      @media (min-width: 1800px) {
-        main:not(.seo-static-content):not(.cluster-seo-prose) { max-width: calc(100vw - 420px); }
-      }
-
-      /* Static SEO body grid — first-paint reservation mirrored from the async
-         seo-static.css `main.seo-static-content{display:grid;…;gap:12px}`. Until
-         that sheet swaps in (~400ms), the static <main> stacks as default block
-         with collapsing margins; promotion to grid+gap reflows the whole column
-         — live desktop CLS 0.70 on /cerca-lavoro-* landings. Reserving the final
-         geometry here makes first paint == final → no shift. Grid/gap mirror
-         seo-static.css's main.seo-static-content rule; max-width min(100%,1120px)
-         + padding-inline clamp mirror index.css:254 byte-for-byte; padding-block
-         32/56 mirrors the .s-Ziv1Xn scoped class also on this <main> — dropping
-         any reintroduces a shift. Pure space reservation (in-flow ad slots are
-         grid children before AND after).
-         Keep in sync with SEO_STATIC_GRID_RESERVE_CSS in
-         build-plugins/shared/criticalCss.ts (the static-page twin). */
-      main.seo-static-content { max-width: min(100%,1120px); margin: 0 auto; padding: 32px clamp(16px,4vw,32px) 56px; display: grid; grid-template-columns: minmax(0,1fr); gap: 12px; }
-      main.seo-static-content > * { min-width: 0; width: 100%; }
-
-      /* Static SEO hero — first-paint reservation mirrored from the async
-         seo-static.css hero rules (stable hard-coded classes). Until the sheet
-         swaps in, the stat-tile container .s-XENO3U stacks as block (tall) then
-         collapses to a grid row — live desktop shift 0.39 (the top residual
-         after the page-grid fix #2740). The TI city/canton hubs
-         /cerca-lavoro-{canton}/{city}/ (dominant page type on that surface)
-         emit a PARALLEL grid system (.s-S6PRaY + .s-CGuDZg/.s-3kP_AL/.s-0kclVO
-         tiles, .s-9UotdJ values, .s-JFi4vt/.s-z4q8yI/.s-AnMfGC labels, .s-S_0cal
-         header) that does NOT reuse .s-XENO3U, so it collapsed the same way —
-         reserved below too. The official-competitions hub variant adds a third
-         tile shape in the same grid (.s-Fy0wEh box == .s-0kclVO, .s-aoTYtA label
-         == .s-AnMfGC, .s-ahW6q9 link-value with its own 15px metric; #2770 item
-         2). Makes first paint == final → no shift. Pure space
-         reservation. Keep in sync with SEO_STATIC_HERO_RESERVE_CSS in
-         build-plugins/shared/criticalCss.ts. */
-      .s-XENO3U { display: grid; grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); gap: 14px; margin: 0 0 24px; }
-      .s-S6PRaY { display: grid; grid-template-columns: repeat(auto-fit,minmax(220px,1fr)); gap: 14px; margin: 0 0 18px; }
-      .s-tbase, .s-tacc, .s-tok, .s-twrn, .s-tdng, .s-CGuDZg, .s-3kP_AL { padding: 18px; border: 1px solid transparent; border-radius: 14px; }
-      .s-0kclVO, .s-Fy0wEh { padding: 18px; border: 1px solid transparent; border-radius: 22px; }
-      .s-tlbl, .s-JFi4vt, .s-z4q8yI { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; }
-      .s-AnMfGC, .s-aoTYtA { font-size: 12px; font-weight: 700; text-transform: uppercase; }
-      .s-tval, .s-9UotdJ { margin-top: 8px; font-size: 28px; font-weight: 800; line-height: 1.1; }
-      .s-ahW6q9 { margin-top: 8px; font-size: 15px; font-weight: 800; }
-      .s-bcr { margin: 0 0 14px; font-size: 13px; }
-      .s-cta { display: inline-flex; align-items: center; gap: 6px; padding: 12px 20px; font-weight: 700; }
-      /* hero <header> async padding+margin (.sx-hero, incl. city-hub .s-S_0cal sx-hero):
-         padding 0 at first paint → expands ~48px on swap. Reserve it; the async
-         .sx-hero margin wins the cascade over .s-S_0cal (28px) so reserve 20px here. */
-      .sx-hero { padding: 20px 16px; margin: 0 0 20px; }
-      @media (min-width: 640px) { .sx-hero { padding: 24px 22px; } }
-      .s-sy52lX { margin-bottom: 24px; }
-      /* city-hub hero typography (async-only classes); landing hero H1 is inline-styled (stable). */
-      .s-P0Hs0W { margin: 0 0 14px; font-size: clamp(2rem,5vw,3.2rem); line-height: 1.15; }
-      .sx-kick { display: inline-flex; align-items: center; gap: 6px; border: 1px solid transparent; border-radius: 999px; padding: 4px 12px; font-weight: 600; margin: 0 0 8px; }
-      .s-zNiFzy { margin: 0 0 8px; font-size: 13px; font-weight: 700; }
-      .s-wU5Nrr { margin: 0 0 14px; font-size: 18px; line-height: 1.6; max-width: 860px; }
-      .s-rDKEKn { margin: 0; line-height: 1.7; max-width: 860px; }
-      @media (max-width: 639px) { .s-cta { display: flex; width: 100%; justify-content: center; } }
-      /* First-paint reservation for the sticky-nav header height inside an empty
-         #root (staticOverlay pages). The .ft-hdr-reserve spacer (sole child of
-         #root, emitted by buildSimplePage) holds h-14/md:h-20 = 56/80px so the
-         body-sibling SEO content doesn't jump when React fills #root with the
-         header. Kept off #root itself (criticalCssRootHeight gate forbids
-         #root{min-height}). Keep in sync with ROOT_HEADER_RESERVE_CSS in
-         build-plugins/shared/criticalCss.ts. */
-      .ft-hdr-reserve { height: 56px; }
-      @media (min-width: 768px) { .ft-hdr-reserve { height: 80px; } }
-      /* Search-index hub (relatedSearchClustersPlugin) — first-paint reservation
-         mirrored from the async seo-static.css (stable hard-coded classes). The
-         /cerca-lavoro-ticino/ricerca/ hub (path #1 by volume) renders an
-         <article class="s-haN35X"> whose padding, header/section margins and
-         H1/lede/H2 typography are async-only → cold-load the column reflows
-         downward ~0.886 when the sheet swaps in (~1.4s). After #2776 (staticOverlay,
-         kills the footer-bounce) + #2740 (page-grid), this inner subtree is the
-         residual. Reserving the resolved geometry → first paint == final → no shift.
-         Pure space reservation (in-flow ad slots unchanged). Keep in sync with
-         SEO_SEARCH_HUB_RESERVE_CSS in build-plugins/shared/criticalCss.ts. */
-      .s-haN35X { max-width: 1100px; margin: 0 auto; padding: 24px 16px 56px; }
-      .s-S1RSUf { margin-bottom: 18px; }
-      .s-JvjD5- { margin: 0 0 10px; font-size: clamp(1.6rem,4vw,2.4rem); line-height: 1.18; }
-      .s-zd3YWl { margin: 0; font-size: 16px; line-height: 1.55; max-width: 820px; }
-      .s-Znu67P { margin: 6px 0 0; font-size: 13px; }
-      .s-sOn5-B { margin: 0 0 12px; font-size: 22px; }
-      .s-h0CoDf { margin: 0 0 12px; }
-      .s-USY9TF { margin: 0 0 22px; }
-    </style>
+    <style data-clarity-unmask="true">@font-face{font-family:Inter;font-style:normal;font-weight:400 700;font-display:swap;src:url('/fonts/inter-latin.woff2') format('woff2');size-adjust:100%;ascent-override:90%;descent-override:22%;line-gap-override:0%;unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Space Grotesk';font-style:normal;font-weight:300 700;font-display:optional;src:url('/fonts/space-grotesk-latin.woff2') format('woff2');size-adjust:100%;ascent-override:90%;descent-override:22%;line-gap-override:0%;unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}body{font-family:Inter,ui-sans-serif,system-ui,-apple-system,sans-serif}h1,h2,h3{font-family:'Space Grotesk',ui-sans-serif,system-ui,-apple-system,sans-serif}html{margin:0;padding:0;scrollbar-gutter:stable}body{margin:0;padding:0}#homepage-static-h1{margin:0}.home-mobile-widget-reserve{min-height:160px}#loading-shell .sh-logo-text{display:none}#loading-shell .sh-nav-links{display:none}#loading-shell .sh-actions{display:none}#loading-shell .sh-mobile-nav{display:grid;grid-template-columns:repeat(6,1fr)}#loading-shell .sh-subtabs{grid-template-columns:repeat(4,1fr)}#loading-shell .sh-grid{grid-template-columns:1fr}#loading-shell .sh-main{padding-left:8px;padding-right:8px}#loading-shell .sh-subtab-wrap{padding-left:16px;padding-right:16px}@media(min-width:640px){#loading-shell .sh-logo-text{display:block}#loading-shell .sh-main{padding-left:16px;padding-right:16px}#loading-shell .sh-subtab-wrap{padding-left:24px;padding-right:24px}}@media(min-width:768px){#loading-shell .sh-nav-links{display:flex}#loading-shell .sh-actions{display:flex}#loading-shell .sh-mobile-nav{display:none}#loading-shell .sh-mobile-calc{display:none!important}#loading-shell .sh-input-card{display:block!important}#loading-shell .sh-subtabs{grid-template-columns:repeat(8,1fr)}#loading-shell .sh-grid{grid-template-columns:repeat(12,1fr)}#loading-shell .sh-input-card{grid-column:span 4}}@media(min-width:1024px){#loading-shell .sh-subtab-wrap{padding-left:32px;padding-right:32px}#loading-shell .sh-input-card{grid-column:span 4}}@media(min-width:1280px){#loading-shell .sh-input-card{grid-column:span 3}}@keyframes shellPulse{0%,100%{opacity:1}50%{opacity:.5}}#loading-shell .sh-pulse{animation:shellPulse 2s cubic-bezier(.4,0,.6,1) infinite}.dark #loading-shell{background:linear-gradient(to bottom right,#020617,#0f172a,#020617)}.dark #loading-shell .sh-nav{background:rgba(15,23,42,.7);border-color:rgba(30,41,59,.5)}.dark #loading-shell .sh-subtab-bar{background:#0f172a;border-color:#1e293b}.dark #loading-shell .sh-skel{background:#1e293b}.dark #loading-shell .sh-card{background:#1e293b;border-color:#334155}.ft-rail-aside,.ft-rail-aside-x{display:none}.ft-rail-grid-spa{display:contents}@media (min-width:1200px){.xlc\:max-w-none{max-width:none}}@media (min-width:1200px) and (max-width:1279.98px){.ft-blog-rail-grid-x{display:grid;grid-template-columns:var(--ft-rail-w-c-l,160px) minmax(0,1fr) var(--ft-rail-w-c-r,160px);gap:1rem}.ft-blog-rail-aside-x{display:flex;flex-direction:column;min-height:600px}}@media (min-width:1280px) and (max-width:1399.98px){.ft-rail-grid-x{display:grid;grid-template-columns:var(--ft-rail-w-m-l,180px) minmax(0,1fr) var(--ft-rail-w-m-r,180px);gap:1rem}.ft-rail-aside-x{display:block}.ft-blog-rail-aside-x{display:flex;flex-direction:column;min-height:600px}}@media (min-width:1400px){main:not(.seo-static-content):not(.cluster-seo-prose){max-width:calc(100vw - 360px)}#main-content.plate-auctions-main{max-width:none!important}.ft-rail-grid{display:grid;grid-template-columns:300px minmax(0,1fr) 300px;gap:1rem;margin-inline:auto;max-width:1768px}.ft-rail-grid-spa{display:grid;grid-template-columns:160px minmax(0,1fr) 160px;gap:1rem}.ft-rail-grid-x{display:grid;grid-template-columns:var(--ft-rail-w-l,300px) minmax(0,1fr) var(--ft-rail-w-r,300px);gap:1rem}.ft-rail-aside,.ft-rail-aside-x{display:flex;flex-direction:column;min-height:600px}}@media (min-width:1800px){main:not(.seo-static-content):not(.cluster-seo-prose){max-width:calc(100vw - 420px)}}main.seo-static-content{max-width:min(100%,1120px);margin:0 auto;padding:32px clamp(16px,4vw,32px) 56px;display:grid;grid-template-columns:minmax(0,1fr);gap:12px}main.seo-static-content>*{min-width:0;width:100%}.s-XENO3U{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:0 0 24px}.s-S6PRaY{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:0 0 18px}.s-3kP_AL,.s-CGuDZg,.s-tacc,.s-tbase,.s-tdng,.s-tok,.s-twrn{padding:18px;border:1px solid transparent;border-radius:14px}.s-0kclVO,.s-Fy0wEh{padding:18px;border:1px solid transparent;border-radius:22px}.s-JFi4vt,.s-tlbl,.s-z4q8yI{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em}.s-AnMfGC,.s-aoTYtA{font-size:12px;font-weight:700;text-transform:uppercase}.s-9UotdJ,.s-tval{margin-top:8px;font-size:28px;font-weight:800;line-height:1.1}.s-ahW6q9{margin-top:8px;font-size:15px;font-weight:800}.s-bcr{margin:0 0 14px;font-size:13px}.s-cta{display:inline-flex;align-items:center;gap:6px;padding:12px 20px;font-weight:700}.sx-hero{padding:20px 16px;margin:0 0 20px}@media (min-width:640px){.sx-hero{padding:24px 22px}}.s-sy52lX{margin-bottom:24px}.s-P0Hs0W{margin:0 0 14px;font-size:clamp(2rem,5vw,3.2rem);line-height:1.15}.sx-kick{display:inline-flex;align-items:center;gap:6px;border:1px solid transparent;border-radius:999px;padding:4px 12px;font-weight:600;margin:0 0 8px}.s-zNiFzy{margin:0 0 8px;font-size:13px;font-weight:700}.s-wU5Nrr{margin:0 0 14px;font-size:18px;line-height:1.6;max-width:860px}.s-rDKEKn{margin:0;line-height:1.7;max-width:860px}@media (max-width:639px){.s-cta{display:flex;width:100%;justify-content:center}}.ft-hdr-reserve{height:56px}@media (min-width:768px){.ft-hdr-reserve{height:80px}}.s-haN35X{max-width:1100px;margin:0 auto;padding:24px 16px 56px}.s-S1RSUf{margin-bottom:18px}.s-JvjD5-{margin:0 0 10px;font-size:clamp(1.6rem,4vw,2.4rem);line-height:1.18}.s-zd3YWl{margin:0;font-size:16px;line-height:1.55;max-width:820px}.s-Znu67P{margin:6px 0 0;font-size:13px}.s-sOn5-B{margin:0 0 12px;font-size:22px}.s-h0CoDf{margin:0 0 12px}.s-USY9TF{margin:0 0 22px}</style>
 
     <!-- Google AdSense: deferred until after page is interactive to avoid
          blocking critical resources and deprecated-API warnings (Fledge) -->
@@ -829,7 +621,7 @@
   <link rel="modulepreload" crossorigin href="https://cdn.frontaliereticino.ch/assets/vendor-react.js">
   <link rel="modulepreload" crossorigin href="https://cdn.frontaliereticino.ch/assets/i18n.js">
   <link rel="preload" as="style" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" data-clarity-unmask="true"><link rel="stylesheet" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" media="print" onload="this.media='all'" data-clarity-unmask="true"><noscript><link rel="stylesheet" crossorigin href="https://cdn.frontaliereticino.ch/assets/index.css" data-clarity-unmask="true"></noscript>
- <meta name="ft-build-id" content="1791208590152">
+ <meta name="ft-build-id" content="1791222958809">
  <link rel="modulepreload" href="https://cdn.frontaliereticino.ch/assets/it-core.js">
   <link rel="modulepreload" href="https://cdn.frontaliereticino.ch/assets/it-calculator.js">
   <link rel="modulepreload" href="https://cdn.frontaliereticino.ch/assets/App.js">
@@ -1165,7 +957,7 @@
          viewport makes the SEO siblings start below the fold, so the mount reflow
          is off-screen (impact fraction ≈ 0). 100vh (not dvh) so the reservation is
          scroll-stable and never itself shifts. -->
-    <div id="root" style="min-height:100vh"><main id="main-content"><h1 id="homepage-static-h1">Ticino Cross-Border Workers 2026 — Switzerland-Italy Net Salary Calculator</h1></main></div>
+    <div id="root" style="min-height:100vh"><main id="main-content"><aside class="s-S4XJXX" data-ae7-link><p class="s-ckSIMG">Stai valutando se lavorare oltreconfine? Cinque tabelle dense con dati 2026 su stipendi, tasse, LAMal, contributi e costo della vita. <a class="s-t_pXue" href="/confronti-frontalieri/">Apri i confronti Svizzera vs Italia per frontalieri</a>.</p></aside><h1 id="homepage-static-h1">Ticino Cross-Border Workers 2026 — Switzerland-Italy Net Salary Calculator</h1></main></div>
     <div id="modal-root"></div>
     <!-- Chunk-load error recovery: detect stale SW cache serving old HTML
          that references JS chunks no longer on the server (404). Force-reload
