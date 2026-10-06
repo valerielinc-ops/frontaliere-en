@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 21812 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 21810 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -5322,7 +5322,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (16543 pages)
+### Other Pages (16541 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5480,7 +5480,6 @@
 - [Fincons Group](https://frontaliereticino.ch/en/aziende/fincons-group/)
 - [Fitnesspark](https://frontaliereticino.ch/en/aziende/fitnesspark/)
 - [Flury Stiftung](https://frontaliereticino.ch/en/aziende/flury-stiftung/)
-- [Fondation De Nant](https://frontaliereticino.ch/en/aziende/fondation-de-nant/)
 - [Fondation Soins Lausanne](https://frontaliereticino.ch/en/aziende/fondation-soins-lausanne/)
 - [Fresh Food Beverage Group](https://frontaliereticino.ch/en/aziende/fresh-food-beverage-group/)
 - [Fusalp](https://frontaliereticino.ch/en/aziende/fusalp/)
@@ -5674,7 +5673,6 @@
 - [Omega Sa](https://frontaliereticino.ch/en/aziende/omega-sa/)
 - [On Running](https://frontaliereticino.ch/en/aziende/on-running/)
 - [Orell Fussli Thalia](https://frontaliereticino.ch/en/aziende/orell-fussli-thalia/)
-- [Organizzazione Sociopsichiatrica Cantonale Osc Cantone Ticino](https://frontaliereticino.ch/en/aziende/organizzazione-sociopsichiatrica-cantonale-osc-cantone-ticino/)
 - [Ostschweizer Kinderspital](https://frontaliereticino.ch/en/aziende/ostschweizer-kinderspital/)
 - [Otis Sa](https://frontaliereticino.ch/en/aziende/otis-sa/)
 - [Otto S Ag](https://frontaliereticino.ch/en/aziende/otto-s-ag/)
