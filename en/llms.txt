@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: English (this file) — also available in Italian (primary), German, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-05
+- **Index Generated**: 2026-10-06
 - **Audience**: English-speaking cross-border workers commuting between Italy and Switzerland (Ticino, Graubünden, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
