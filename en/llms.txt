@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 21810 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 21807 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -5322,7 +5322,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (16541 pages)
+### Other Pages (16538 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -14321,7 +14321,6 @@
 - [Classicascona Nr 81 By Fondazione Settimane 2026 09 18](https://frontaliereticino.ch/en/events/ticino/ascona/classicascona-nr-81-by-fondazione-settimane-2026-09-18/)
 - [Corsa Da Natal 2026 12 20](https://frontaliereticino.ch/en/events/ticino/ascona/corsa-da-natal-2026-12-20/)
 - [Costellazione Giovani Next Generation Ix 2026 09 29](https://frontaliereticino.ch/en/events/ticino/ascona/costellazione-giovani-next-generation-ix-2026-09-29/)
-- [Costellazione Giovani Next Generation Ix Luka 2026 09 29](https://frontaliereticino.ch/en/events/ticino/ascona/costellazione-giovani-next-generation-ix-luka-2026-09-29/)
 - [Dalloscurita Alle Luce 2026 09 30](https://frontaliereticino.ch/en/events/ticino/ascona/dalloscurita-alle-luce-2026-09-30/)
 - [Dalloscurita Alle Luce Dalloscurita Alla Luce Sol 2026 09 30](https://frontaliereticino.ch/en/events/ticino/ascona/dalloscurita-alle-luce-dalloscurita-alla-luce-sol-2026-09-30/)
 - [Degustazione Di Vini Ticinesi 2026 10 01](https://frontaliereticino.ch/en/events/ticino/ascona/degustazione-di-vini-ticinesi-2026-10-01/)
@@ -14520,7 +14519,6 @@
 - [Carlo Agostino Meletta Pittore 2026 10 07](https://frontaliereticino.ch/en/events/ticino/locarno/carlo-agostino-meletta-pittore-2026-10-07/)
 - [Castagnata 2026 10 11](https://frontaliereticino.ch/en/events/ticino/locarno/castagnata-2026-10-11/)
 - [Castello Visconteo Musica E Letteratura 2026 09 27](https://frontaliereticino.ch/en/events/ticino/locarno/castello-visconteo-musica-e-letteratura-2026-09-27/)
-- [Castello Visconteo Musica E Letteratura San 2026 09 27](https://frontaliereticino.ch/en/events/ticino/locarno/castello-visconteo-musica-e-letteratura-san-2026-09-27/)
 - [Concerti Delle Camelie 2027 03 12](https://frontaliereticino.ch/en/events/ticino/locarno/concerti-delle-camelie-2027-03-12/)
 - [Concerto 2026 10 09](https://frontaliereticino.ch/en/events/ticino/locarno/concerto-2026-10-09/)
 - [Concerto Inaugurale Julia Lezhneva I Per 2026 09 18](https://frontaliereticino.ch/en/events/ticino/locarno/concerto-inaugurale-julia-lezhneva-i-per-2026-09-18/)
@@ -14531,7 +14529,6 @@
 - [Costellazione Giovani Next Generation Ii Ilya 2026 09 20](https://frontaliereticino.ch/en/events/ticino/locarno/costellazione-giovani-next-generation-ii-ilya-2026-09-20/)
 - [Costellazione Giovani Next Generation Iv Sarang 2026 09 25](https://frontaliereticino.ch/en/events/ticino/locarno/costellazione-giovani-next-generation-iv-sarang-2026-09-25/)
 - [Costellazione Giovani Next Generation Xii 2026 10 02](https://frontaliereticino.ch/en/events/ticino/locarno/costellazione-giovani-next-generation-xii-2026-10-02/)
-- [Costellazione Giovani Next Generation Xii Elias 2026 10 02](https://frontaliereticino.ch/en/events/ticino/locarno/costellazione-giovani-next-generation-xii-elias-2026-10-02/)
 - [Costellazione Giovani Next Generation Xxi 2026 10 10](https://frontaliereticino.ch/en/events/ticino/locarno/costellazione-giovani-next-generation-xxi-2026-10-10/)
 - [Crampi Al Cuore Festival 2026 09 27](https://frontaliereticino.ch/en/events/ticino/locarno/crampi-al-cuore-festival-2026-09-27/)
 - [Creiamo Hotel Per Insetti Con Materiale Naturale 2026 10 10](https://frontaliereticino.ch/en/events/ticino/locarno/creiamo-hotel-per-insetti-con-materiale-naturale-2026-10-10/)
