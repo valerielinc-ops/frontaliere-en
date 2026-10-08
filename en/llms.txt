@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: English (this file) — also available in Italian (primary), German, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-07
+- **Index Generated**: 2026-10-08
 - **Audience**: English-speaking cross-border workers commuting between Italy and Switzerland (Ticino, Graubünden, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22008 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22007 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4346 pages)
+### Blog Articles (4345 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4781,8 +4781,6 @@
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-11/)
 - [Page 12](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-12/)
-- [Page 13](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-13/)
-- [Page 14](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-14/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-4/)
@@ -4817,12 +4815,10 @@
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-4/)
-- [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-5/)
 - [Health Insurance](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-11/)
 - [Page 12](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-12/)
-- [Page 13](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-13/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-4/)
@@ -4850,6 +4846,7 @@
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-7/)
 - [Safety And Crime](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/)
+- [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-4/)
@@ -4895,6 +4892,8 @@
 - [Page 30](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-30/)
 - [Page 31](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-31/)
 - [Page 32](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-32/)
+- [Page 33](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-33/)
+- [Page 34](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-34/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-6/)
@@ -5666,7 +5665,6 @@
 - [Lindt Sprungli](https://frontaliereticino.ch/en/aziende/lindt-sprungli/)
 - [Lis Lugano Istituti Sociali](https://frontaliereticino.ch/en/aziende/lis-lugano-istituti-sociali/)
 - [Livit Ag](https://frontaliereticino.ch/en/aziende/livit-ag/)
-- [Localsearch](https://frontaliereticino.ch/en/aziende/localsearch/)
 - [Logitech](https://frontaliereticino.ch/en/aziende/logitech/)
 - [Lombard Odier](https://frontaliereticino.ch/en/aziende/lombard-odier/)
 - [Lombardi Group](https://frontaliereticino.ch/en/aziende/lombardi-group/)
@@ -21731,6 +21729,7 @@
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/page-2/)
 - [Energy And Fuel](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/page-2/)
+- [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/page-3/)
 - [Family And School](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-3/)

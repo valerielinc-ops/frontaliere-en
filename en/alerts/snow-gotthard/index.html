@@ -21,6 +21,6 @@
 <script>window.addEventListener('DOMContentLoaded',function(){var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){fetch((function(u){return u.charAt(0)==='/'?(window.__CDN_DATA_BASE__||'')+u:u})("https://cdn.frontaliereticino.ch/data/weather-snapshot.json")).then(function(r){return r.json()}).then(function(d){if(!d||!d.generatedAt)return;var t=document.querySelector('time[datetime]');if(t&&new Date(d.generatedAt)>new Date(t.dateTime)){t.dateTime=d.generatedAt}}).catch(function(){});io.disconnect()}})});var hero=document.querySelector('.alert-state');if(hero)io.observe(hero);});</script>
 </main><aside id=rail-right-root class="ft-rail-aside hidden xlw:flex xlw:flex-col" aria-hidden=true></aside>
 </div><div id=footer-root></div>
-<script type="module" crossorigin src="https://cdn.frontaliereticino.ch/assets/index-entry.js" integrity="sha384-Ujc37PdNiQQWfz65IQYrAwC7YsNIT5PRTm8PmdAq23GAMWWO5W6U3XLB2Zp7Szaw"></script>
+<script type="module" crossorigin src="https://cdn.frontaliereticino.ch/assets/index-entry.js" integrity="sha384-QVF2Et73pNi5cI61glzK8lKpio/vUHrPxvNhP/FCG+poJNkDoaHqRgfWPIa4JuZm"></script>
 </body>
 </html>
