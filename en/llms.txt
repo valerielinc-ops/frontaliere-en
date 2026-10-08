@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22007 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22006 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4345 pages)
+### Blog Articles (4346 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4830,6 +4830,7 @@
 - [Housing And Rent](https://frontaliereticino.ch/en/cross-border-articles/topics/housing-and-rent/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/housing-and-rent/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/housing-and-rent/page-3/)
+- [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/housing-and-rent/page-4/)
 - [Jobs And Employment](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-3/)
@@ -5363,7 +5364,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (16697 pages)
+### Other Pages (16695 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -6350,7 +6351,6 @@
 - [Heimweh 2027 02 28](https://frontaliereticino.ch/en/events/aargau/berikon/heimweh-2027-02-28/)
 - [Bettwil](https://frontaliereticino.ch/en/events/aargau/bettwil/)
 - [Les Papillons 2026 11 28](https://frontaliereticino.ch/en/events/aargau/bettwil/les-papillons-2026-11-28/)
-- [Biberstein](https://frontaliereticino.ch/en/events/aargau/biberstein/)
 - [Wandern In Der Unesco Biosphare Entlebuch 2026 10 04](https://frontaliereticino.ch/en/events/aargau/biberstein/wandern-in-der-unesco-biosphare-entlebuch-2026-10-04/)
 - [Birrwil](https://frontaliereticino.ch/en/events/aargau/birrwil/)
 - [Turnerabende Birrwil 2026 11 13](https://frontaliereticino.ch/en/events/aargau/birrwil/turnerabende-birrwil-2026-11-13/)
@@ -21715,8 +21715,6 @@
 - [Page 10](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-11/)
 - [Page 12](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-12/)
-- [Page 13](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-13/)
-- [Page 14](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-14/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-4/)
@@ -21780,6 +21778,7 @@
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-9/)
 - [Pensions Avs Lpp](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-3/)
