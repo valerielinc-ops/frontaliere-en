@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22345 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22346 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4357 pages)
+### Blog Articles (4358 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4792,7 +4792,6 @@
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-11/)
 - [Page 12](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-12/)
-- [Page 13](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-13/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-4/)
@@ -4860,7 +4859,6 @@
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-7/)
 - [Safety And Crime](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-10/)
-- [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-11/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-4/)
@@ -4907,6 +4905,8 @@
 - [Page 31](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-31/)
 - [Page 32](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-32/)
 - [Page 33](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-33/)
+- [Page 34](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-34/)
+- [Page 35](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-35/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-6/)
@@ -4921,6 +4921,7 @@
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-9/)
 - [Torchlight Procession Sacconago Hope Friendship](https://frontaliereticino.ch/en/cross-border-articles/torchlight-procession-sacconago-hope-friendship/)
 - [Torre Santa Maria Work Grisons Cross Border](https://frontaliereticino.ch/en/cross-border-articles/torre-santa-maria-work-grisons-cross-border/)
 - [Totalization Contributions Avs Inps Frontaliers Ticino](https://frontaliereticino.ch/en/cross-border-articles/totalization-contributions-avs-inps-frontaliers-ticino/)
@@ -16222,7 +16223,6 @@
 - [Der Twannberg Meteorit 3 Oktober 2026 10 03](https://frontaliereticino.ch/en/events/vaud/corsier-sur-vevey/der-twannberg-meteorit-3-oktober-2026-10-03/)
 - [Movie Night The Grinch 2026 12 05](https://frontaliereticino.ch/en/events/vaud/corsier-sur-vevey/movie-night-the-grinch-2026-12-05/)
 - [Movie Night The Wizard Of Oz 2026 11 07](https://frontaliereticino.ch/en/events/vaud/corsier-sur-vevey/movie-night-the-wizard-of-oz-2026-11-07/)
-- [Crissier](https://frontaliereticino.ch/en/events/vaud/crissier/)
 - [Projection De Concert Zucchero 2026 10 08](https://frontaliereticino.ch/en/events/vaud/crissier/projection-de-concert-zucchero-2026-10-08/)
 - [Paintings And Sculptures Light Etched Into The 2026 09 17](https://frontaliereticino.ch/en/events/vaud/dully/paintings-and-sculptures-light-etched-into-the-2026-09-17/)
 - [Etagnieres](https://frontaliereticino.ch/en/events/vaud/etagnieres/)
@@ -22053,6 +22053,7 @@
 - [Page 10](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-11/)
 - [Page 12](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-12/)
+- [Page 13](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-13/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-4/)
