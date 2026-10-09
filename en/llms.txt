@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22346 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22345 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -5376,7 +5376,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (17023 pages)
+### Other Pages (17022 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5593,7 +5593,6 @@
 - [Honegger Ag](https://frontaliereticino.ch/en/aziende/honegger-ag/)
 - [Hopital Daler](https://frontaliereticino.ch/en/aziende/hopital-daler/)
 - [Hopital De La Tour](https://frontaliereticino.ch/en/aziende/hopital-de-la-tour/)
-- [Hopital De Lavaux](https://frontaliereticino.ch/en/aziende/hopital-de-lavaux/)
 - [Hopital De Moutier](https://frontaliereticino.ch/en/aziende/hopital-de-moutier/)
 - [Hopital Du Jura H Ju](https://frontaliereticino.ch/en/aziende/hopital-du-jura-h-ju/)
 - [Hopital Du Valais](https://frontaliereticino.ch/en/aziende/hopital-du-valais/)
