@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22050 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22051 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -4792,6 +4792,7 @@
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-11/)
 - [Page 12](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-12/)
+- [Page 13](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-13/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-4/)
@@ -4859,6 +4860,7 @@
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-7/)
 - [Safety And Crime](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-10/)
+- [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-11/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-4/)
@@ -4905,7 +4907,6 @@
 - [Page 31](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-31/)
 - [Page 32](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-32/)
 - [Page 33](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-33/)
-- [Page 34](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-34/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-6/)
@@ -4920,7 +4921,6 @@
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-8/)
-- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/transport-and-traffic/page-9/)
 - [Torchlight Procession Sacconago Hope Friendship](https://frontaliereticino.ch/en/cross-border-articles/torchlight-procession-sacconago-hope-friendship/)
 - [Torre Santa Maria Work Grisons Cross Border](https://frontaliereticino.ch/en/cross-border-articles/torre-santa-maria-work-grisons-cross-border/)
 - [Totalization Contributions Avs Inps Frontaliers Ticino](https://frontaliereticino.ch/en/cross-border-articles/totalization-contributions-avs-inps-frontaliers-ticino/)
@@ -5375,7 +5375,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (16728 pages)
+### Other Pages (16729 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -21783,6 +21783,7 @@
 - [Page 9](https://frontaliereticino.ch/en/swiss-articles/topics/family-and-school/page-9/)
 - [Franc And Prices](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/)
 - [Page 10](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-10/)
+- [Page 11](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-11/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-4/)
