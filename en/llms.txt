@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22566 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22564 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -5419,7 +5419,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (17200 pages)
+### Other Pages (17198 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -8305,7 +8305,6 @@
 - [Rafael Scholten Wunderbare Kuriositaten 2026 10 22](https://frontaliereticino.ch/en/events/bern/oberhofen-am-thunersee/rafael-scholten-wunderbare-kuriositaten-2026-10-22/)
 - [Ride With Us Mavericks Tribute Band 2026 10 31](https://frontaliereticino.ch/en/events/bern/oberhofen-am-thunersee/ride-with-us-mavericks-tribute-band-2026-10-31/)
 - [Sanja Shane Band 2026 10 24](https://frontaliereticino.ch/en/events/bern/oberhofen-am-thunersee/sanja-shane-band-2026-10-24/)
-- [Oberlangenegg](https://frontaliereticino.ch/en/events/bern/oberlangenegg/)
 - [Victorinox Outdoor Sports Camp 2026 10 05](https://frontaliereticino.ch/en/events/bern/oberlangenegg/victorinox-outdoor-sports-camp-2026-10-05/)
 - [Orpund](https://frontaliereticino.ch/en/events/bern/orpund/)
 - [Rocknroll Tanzparty 2026 11 21](https://frontaliereticino.ch/en/events/bern/orpund/rocknroll-tanzparty-2026-11-21/)
@@ -10130,7 +10129,6 @@
 - [Hallomania Chasse Aux Bonbons En Char Viticole 2026 10 24](https://frontaliereticino.ch/en/events/geneva/gy/hallomania-chasse-aux-bonbons-en-char-viticole-2026-10-24/)
 - [Jussy](https://frontaliereticino.ch/en/events/geneva/jussy/)
 - [Hallomania Chasse Aux Bonbons En Train Terroir 2026 10 31](https://frontaliereticino.ch/en/events/geneva/jussy/hallomania-chasse-aux-bonbons-en-train-terroir-2026-10-31/)
-- [Lancy](https://frontaliereticino.ch/en/events/geneva/lancy/)
 - [Le Temps Dun Trajet Se Rapprocher De Lexperience 2026 09 27](https://frontaliereticino.ch/en/events/geneva/lancy/le-temps-dun-trajet-se-rapprocher-de-lexperience-2026-09-27/)
 - [Promenade Botanique A Lancy 2026 10 04](https://frontaliereticino.ch/en/events/geneva/lancy/promenade-botanique-a-lancy-2026-10-04/)
 - [Rencontre Avec Des Figures Politiques Lanceennes 2026 10 09](https://frontaliereticino.ch/en/events/geneva/lancy/rencontre-avec-des-figures-politiques-lanceennes-2026-10-09/)
@@ -10348,7 +10346,6 @@
 - [Happy Dance Gala 2026 11 21](https://frontaliereticino.ch/en/events/geneva/satigny/happy-dance-gala-2026-11-21/)
 - [This Week](https://frontaliereticino.ch/en/events/geneva/this-week/)
 - [This Weekend](https://frontaliereticino.ch/en/events/geneva/this-weekend/)
-- [Troinex](https://frontaliereticino.ch/en/events/geneva/troinex/)
 - [Demo Crazy Night Rencontres Et Engagement Citoyen 2026 10 09](https://frontaliereticino.ch/en/events/geneva/troinex/demo-crazy-night-rencontres-et-engagement-citoyen-2026-10-09/)
 - [Vernier](https://frontaliereticino.ch/en/events/geneva/vernier/)
 - [Action Lumieres Vernier 2026 10 27](https://frontaliereticino.ch/en/events/geneva/vernier/action-lumieres-vernier-2026-10-27/)
@@ -21489,6 +21486,7 @@
 - [Reduce Traffic Public Transport](https://frontaliereticino.ch/en/swiss-articles/reduce-traffic-public-transport/)
 - [Reference Mortgage Rate 1 25 2026](https://frontaliereticino.ch/en/swiss-articles/reference-mortgage-rate-1-25-2026/)
 - [Reference Rate Rents 2026](https://frontaliereticino.ch/en/swiss-articles/reference-rate-rents-2026/)
+- [Referendum Nuclear Switzerland 2027](https://frontaliereticino.ch/en/swiss-articles/referendum-nuclear-switzerland-2027/)
 - [Region Of Lombardy Faithful](https://frontaliereticino.ch/en/swiss-articles/region-of-lombardy-faithful/)
 - [Register Company Appenzell Ausserrhoden](https://frontaliereticino.ch/en/swiss-articles/register-company-appenzell-ausserrhoden/)
 - [Rejection Unemployed Center Coldrerio](https://frontaliereticino.ch/en/swiss-articles/rejection-unemployed-center-coldrerio/)
