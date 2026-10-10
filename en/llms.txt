@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22564 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22576 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4401 pages)
+### Blog Articles (4405 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -3289,6 +3289,7 @@
 - [Locarno Residents 2026](https://frontaliereticino.ch/en/cross-border-articles/locarno-residents-2026/)
 - [Locarno Stops New Secondary Homes 20 Percent Quota](https://frontaliereticino.ch/en/cross-border-articles/locarno-stops-new-secondary-homes-20-percent-quota/)
 - [Locarno Stops Second Home Licenses](https://frontaliereticino.ch/en/cross-border-articles/locarno-stops-second-home-licenses/)
+- [Locarno Theatre Public Funding](https://frontaliereticino.ch/en/cross-border-articles/locarno-theatre-public-funding/)
 - [Locarno Worker Fatal Accident Border](https://frontaliereticino.ch/en/cross-border-articles/locarno-worker-fatal-accident-border/)
 - [Locate Varesino Ladder Fall](https://frontaliereticino.ch/en/cross-border-articles/locate-varesino-ladder-fall/)
 - [Logistics Varese Malpensa Transformation](https://frontaliereticino.ch/en/cross-border-articles/logistics-varese-malpensa-transformation/)
@@ -4177,6 +4178,7 @@
 - [Self Managed Spaces Lugano Ghisletta](https://frontaliereticino.ch/en/cross-border-articles/self-managed-spaces-lugano-ghisletta/)
 - [Self Service Thefts Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/self-service-thefts-ticino-2026/)
 - [Sem Meeting With Canton And Municipalities Cancelled](https://frontaliereticino.ch/en/cross-border-articles/sem-meeting-with-canton-and-municipalities-cancelled/)
+- [Sementina Gudo H13 Landslide](https://frontaliereticino.ch/en/cross-border-articles/sementina-gudo-h13-landslide/)
 - [Sentier Management Ticino](https://frontaliereticino.ch/en/cross-border-articles/sentier-management-ticino/)
 - [Separations Ticino Single Parent Families](https://frontaliereticino.ch/en/cross-border-articles/separations-ticino-single-parent-families/)
 - [Sequestrati 7200 Euro](https://frontaliereticino.ch/en/cross-border-articles/sequestrati-7200-euro/)
@@ -4978,6 +4980,7 @@
 - [Traffic Monitors Lake Como 2026](https://frontaliereticino.ch/en/cross-border-articles/traffic-monitors-lake-como-2026/)
 - [Traffic Observers Lake Como 2026](https://frontaliereticino.ch/en/cross-border-articles/traffic-observers-lake-como-2026/)
 - [Traffic Return Ascension Ticino](https://frontaliereticino.ch/en/cross-border-articles/traffic-return-ascension-ticino/)
+- [Traffic Sacro Monte Varese](https://frontaliereticino.ch/en/cross-border-articles/traffic-sacro-monte-varese/)
 - [Tragedia Stazione Bellinzona Frontalieri](https://frontaliereticino.ch/en/cross-border-articles/tragedia-stazione-bellinzona-frontalieri/)
 - [Tragedy Bellinzona Electrocution 2026](https://frontaliereticino.ch/en/cross-border-articles/tragedy-bellinzona-electrocution-2026/)
 - [Tragedy Braunwald Missing Hiker](https://frontaliereticino.ch/en/cross-border-articles/tragedy-braunwald-missing-hiker/)
@@ -5233,6 +5236,7 @@
 - [Varesini Spirit Valico Pizzelle Tax](https://frontaliereticino.ch/en/cross-border-articles/varesini-spirit-valico-pizzelle-tax/)
 - [Varesino Saved By Domodossola Border Police](https://frontaliereticino.ch/en/cross-border-articles/varesino-saved-by-domodossola-border-police/)
 - [Varesotto Millionaires Lake Maggiore 2026](https://frontaliereticino.ch/en/cross-border-articles/varesotto-millionaires-lake-maggiore-2026/)
+- [Varesotto Road Incidents](https://frontaliereticino.ch/en/cross-border-articles/varesotto-road-incidents/)
 - [Vat Increase Cost Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/vat-increase-cost-ticino-2026/)
 - [Vat Thirteenth Avs No](https://frontaliereticino.ch/en/cross-border-articles/vat-thirteenth-avs-no/)
 - [Vaud Parliament Demands Resignation Dittli](https://frontaliereticino.ch/en/cross-border-articles/vaud-parliament-demands-resignation-dittli/)
@@ -5419,7 +5423,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (17198 pages)
+### Other Pages (17206 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -20009,6 +20013,7 @@
 - [Axa Eu Switzerland Position](https://frontaliereticino.ch/en/swiss-articles/axa-eu-switzerland-position/)
 - [Axa Manno Cross Border Jobs](https://frontaliereticino.ch/en/swiss-articles/axa-manno-cross-border-jobs/)
 - [Axa Study Staff Absences Mental Health Smes](https://frontaliereticino.ch/en/swiss-articles/axa-study-staff-absences-mental-health-smes/)
+- [Axpo Solar Aargau](https://frontaliereticino.ch/en/swiss-articles/axpo-solar-aargau/)
 - [Bachmann Kravats Zurich](https://frontaliereticino.ch/en/swiss-articles/bachmann-kravats-zurich/)
 - [Back To School The Heat Keeps You Warm](https://frontaliereticino.ch/en/swiss-articles/back-to-school-the-heat-keeps-you-warm/)
 - [Bak Economics Swiss Gdp 2026 Forecast](https://frontaliereticino.ch/en/swiss-articles/bak-economics-swiss-gdp-2026-forecast/)
@@ -20278,6 +20283,7 @@
 - [Comcom Blocks New Operators Telecom](https://frontaliereticino.ch/en/swiss-articles/comcom-blocks-new-operators-telecom/)
 - [Commissione Propone 500 Milioni Munizioni](https://frontaliereticino.ch/en/swiss-articles/commissione-propone-500-milioni-munizioni/)
 - [Common Mistakes Pet Food](https://frontaliereticino.ch/en/swiss-articles/common-mistakes-pet-food/)
+- [Como Fines Foreign Plates](https://frontaliereticino.ch/en/swiss-articles/como-fines-foreign-plates/)
 - [Companies Remain Cautious](https://frontaliereticino.ch/en/swiss-articles/companies-remain-cautious/)
 - [Company Training Priority](https://frontaliereticino.ch/en/swiss-articles/company-training-priority/)
 - [Compass Initiative Government Rejection](https://frontaliereticino.ch/en/swiss-articles/compass-initiative-government-rejection/)
@@ -20289,6 +20295,7 @@
 - [Consumer Prices Increased August 2026](https://frontaliereticino.ch/en/swiss-articles/consumer-prices-increased-august-2026/)
 - [Consumer Prices September](https://frontaliereticino.ch/en/swiss-articles/consumer-prices-september/)
 - [Consumer Protection Streaming Switzerland](https://frontaliereticino.ch/en/swiss-articles/consumer-protection-streaming-switzerland/)
+- [Continuing Education Lucerne](https://frontaliereticino.ch/en/swiss-articles/continuing-education-lucerne/)
 - [Contribution Gaps Avs Zurich](https://frontaliereticino.ch/en/swiss-articles/contribution-gaps-avs-zurich/)
 - [Conversion Driving License Valais](https://frontaliereticino.ch/en/swiss-articles/conversion-driving-license-valais/)
 - [Coop Reaches 1000 Supermarkets](https://frontaliereticino.ch/en/swiss-articles/coop-reaches-1000-supermarkets/)
@@ -20485,6 +20492,7 @@
 - [Estate Tax Donation Valais Canton Rates](https://frontaliereticino.ch/en/swiss-articles/estate-tax-donation-valais-canton-rates/)
 - [Estate Tax Inheritance Appenzell Interno](https://frontaliereticino.ch/en/swiss-articles/estate-tax-inheritance-appenzell-interno/)
 - [Estetista Frontaliere Ticino Stipendio Requisiti](https://frontaliereticino.ch/en/swiss-articles/estetista-frontaliere-ticino-stipendio-requisiti/)
+- [Esther Friedli No Federal Council Bid](https://frontaliereticino.ch/en/swiss-articles/esther-friedli-no-federal-council-bid/)
 - [Eth Study Swiss Tax Burden](https://frontaliereticino.ch/en/swiss-articles/eth-study-swiss-tax-burden/)
 - [Ethos Ceo Pay Sustainability](https://frontaliereticino.ch/en/swiss-articles/ethos-ceo-pay-sustainability/)
 - [Eu Committee Approves Swiss Agreements](https://frontaliereticino.ch/en/swiss-articles/eu-committee-approves-swiss-agreements/)
@@ -21043,6 +21051,7 @@
 - [Looking For Job In Switzerland From Abroad](https://frontaliereticino.ch/en/swiss-articles/looking-for-job-in-switzerland-from-abroad/)
 - [Lpp Vested Benefits Treasury](https://frontaliereticino.ch/en/swiss-articles/lpp-vested-benefits-treasury/)
 - [Lucas Engelberger 2027 Health Insurance Premiums](https://frontaliereticino.ch/en/swiss-articles/lucas-engelberger-2027-health-insurance-premiums/)
+- [Lucerne Building Insurance Rules](https://frontaliereticino.ch/en/swiss-articles/lucerne-building-insurance-rules/)
 - [Lucerne Building Permit Guide](https://frontaliereticino.ch/en/swiss-articles/lucerne-building-permit-guide/)
 - [Lucerne C Permit Requirements](https://frontaliereticino.ch/en/swiss-articles/lucerne-c-permit-requirements/)
 - [Lucerne Cantonal Elections Calendar Vote](https://frontaliereticino.ch/en/swiss-articles/lucerne-cantonal-elections-calendar-vote/)
@@ -21678,6 +21687,7 @@
 - [Seco Fmi Partnership Economy](https://frontaliereticino.ch/en/swiss-articles/seco-fmi-partnership-economy/)
 - [Seco Gdp Growth Exports](https://frontaliereticino.ch/en/swiss-articles/seco-gdp-growth-exports/)
 - [Seco Growth Forecasts 2026](https://frontaliereticino.ch/en/swiss-articles/seco-growth-forecasts-2026/)
+- [Seco Institutional Changes 2026](https://frontaliereticino.ch/en/swiss-articles/seco-institutional-changes-2026/)
 - [Seco Job Opportunities](https://frontaliereticino.ch/en/swiss-articles/seco-job-opportunities/)
 - [Seco Labour Market July 2026](https://frontaliereticino.ch/en/swiss-articles/seco-labour-market-july-2026/)
 - [Seco Swiss Labor Market Solid](https://frontaliereticino.ch/en/swiss-articles/seco-swiss-labor-market-solid/)
@@ -21711,6 +21721,7 @@
 - [Ses Bills 2027 Reduction](https://frontaliereticino.ch/en/swiss-articles/ses-bills-2027-reduction/)
 - [Settlement Permit C Fribourg Requirements Application](https://frontaliereticino.ch/en/swiss-articles/settlement-permit-c-fribourg-requirements-application/)
 - [Sexual Health Ticino](https://frontaliereticino.ch/en/swiss-articles/sexual-health-ticino/)
+- [Sgkb Physical Branches](https://frontaliereticino.ch/en/swiss-articles/sgkb-physical-branches/)
 - [Shaffhausen Inheritance Donation Tax Rates](https://frontaliereticino.ch/en/swiss-articles/shaffhausen-inheritance-donation-tax-rates/)
 - [Shaffhausen Rental Deposit Dispute](https://frontaliereticino.ch/en/swiss-articles/shaffhausen-rental-deposit-dispute/)
 - [Shein Hong Kong Ipo French Tax Fast Fashion](https://frontaliereticino.ch/en/swiss-articles/shein-hong-kong-ipo-french-tax-fast-fashion/)
@@ -22425,6 +22436,7 @@
 - [Uri Cantonal Taxes](https://frontaliereticino.ch/en/swiss-articles/uri-cantonal-taxes/)
 - [Uri Franchises Models Subsidy](https://frontaliereticino.ch/en/swiss-articles/uri-franchises-models-subsidy/)
 - [Uri Lease Fees And Rights](https://frontaliereticino.ch/en/swiss-articles/uri-lease-fees-and-rights/)
+- [Uri Minimum Wage Rules](https://frontaliereticino.ch/en/swiss-articles/uri-minimum-wage-rules/)
 - [Uri Public Transport Zone Fares](https://frontaliereticino.ch/en/swiss-articles/uri-public-transport-zone-fares/)
 - [Uri Rental Guide Tenancy Rights](https://frontaliereticino.ch/en/swiss-articles/uri-rental-guide-tenancy-rights/)
 - [Uri Rental Law Tenants Rights](https://frontaliereticino.ch/en/swiss-articles/uri-rental-law-tenants-rights/)
