@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: English (this file) — also available in Italian (primary), German, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-09
+- **Index Generated**: 2026-10-10
 - **Audience**: English-speaking cross-border workers commuting between Italy and Switzerland (Ticino, Graubünden, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 22552 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 22566 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4395 pages)
+### Blog Articles (4401 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1516,6 +1516,7 @@
 - [Cash Seizure Como Brogeda](https://frontaliereticino.ch/en/cross-border-articles/cash-seizure-como-brogeda/)
 - [Cash Seizures Brogeda](https://frontaliereticino.ch/en/cross-border-articles/cash-seizures-brogeda/)
 - [Caslano Budget 2025 Surplus](https://frontaliereticino.ch/en/cross-border-articles/caslano-budget-2025-surplus/)
+- [Caslano Colombera Motorcycle Incident](https://frontaliereticino.ch/en/cross-border-articles/caslano-colombera-motorcycle-incident/)
 - [Casnate Bernate Transfer](https://frontaliereticino.ch/en/cross-border-articles/casnate-bernate-transfer/)
 - [Casorate Sempione Pine Cones San Tito](https://frontaliereticino.ch/en/cross-border-articles/casorate-sempione-pine-cones-san-tito/)
 - [Caspoggio Graubunden Frontier Worker](https://frontaliereticino.ch/en/cross-border-articles/caspoggio-graubunden-frontier-worker/)
@@ -2171,6 +2172,7 @@
 - [Elmec Innovation Summit Brunello 2026](https://frontaliereticino.ch/en/cross-border-articles/elmec-innovation-summit-brunello-2026/)
 - [Emergency Contraception Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/emergency-contraception-switzerland-2026/)
 - [Emergency Earth Transformation](https://frontaliereticino.ch/en/cross-border-articles/emergency-earth-transformation/)
+- [Emergency Management Ticino Lombardy](https://frontaliereticino.ch/en/cross-border-articles/emergency-management-ticino-lombardy/)
 - [Emergency Pill Without Consultation National Says Yes](https://frontaliereticino.ch/en/cross-border-articles/emergency-pill-without-consultation-national-says-yes/)
 - [Emigration Pension Fund Tax Savings](https://frontaliereticino.ch/en/cross-border-articles/emigration-pension-fund-tax-savings/)
 - [Empathy In Real Estate Work Ticino](https://frontaliereticino.ch/en/cross-border-articles/empathy-in-real-estate-work-ticino/)
@@ -2962,6 +2964,7 @@
 - [Lamal Vs Ssn Decision Guide Cross Border](https://frontaliereticino.ch/en/cross-border-articles/lamal-vs-ssn-decision-guide-cross-border/)
 - [Lamanotesa Ch Turning Pain Into Shared Good](https://frontaliereticino.ch/en/cross-border-articles/lamanotesa-ch-turning-pain-into-shared-good/)
 - [Lamone Ninth Mcdonalds Ticino](https://frontaliereticino.ch/en/cross-border-articles/lamone-ninth-mcdonalds-ticino/)
+- [Landslide Sementina Traffic](https://frontaliereticino.ch/en/cross-border-articles/landslide-sementina-traffic/)
 - [Lanzada Graubunden Border Worker Guide](https://frontaliereticino.ch/en/cross-border-articles/lanzada-graubunden-border-worker-guide/)
 - [Lapo Elkann Lucerne 2024](https://frontaliereticino.ch/en/cross-border-articles/lapo-elkann-lucerne-2024/)
 - [Lardi Dotlife Hotel Closure Lugano](https://frontaliereticino.ch/en/cross-border-articles/lardi-dotlife-hotel-closure-lugano/)
@@ -3468,6 +3471,7 @@
 - [Mcdonalds Cleanup Malnate 2026](https://frontaliereticino.ch/en/cross-border-articles/mcdonalds-cleanup-malnate-2026/)
 - [Mcdonalds Lamone Opening 2026](https://frontaliereticino.ch/en/cross-border-articles/mcdonalds-lamone-opening-2026/)
 - [Me Te Center Cunardo Marchirolo 2026](https://frontaliereticino.ch/en/cross-border-articles/me-te-center-cunardo-marchirolo-2026/)
+- [Meat Wine Customs Mendrisiotto](https://frontaliereticino.ch/en/cross-border-articles/meat-wine-customs-mendrisiotto/)
 - [Mechanic Auto Ticino Salary Permits](https://frontaliereticino.ch/en/cross-border-articles/mechanic-auto-ticino-salary-permits/)
 - [Mechanics Maintenance Workers Hard To Find Ticino](https://frontaliereticino.ch/en/cross-border-articles/mechanics-maintenance-workers-hard-to-find-ticino/)
 - [Medical Candidate Eoc Bellinzona](https://frontaliereticino.ch/en/cross-border-articles/medical-candidate-eoc-bellinzona/)
@@ -3578,6 +3582,7 @@
 - [Monte Lema Cable Car Season 2026](https://frontaliereticino.ch/en/cross-border-articles/monte-lema-cable-car-season-2026/)
 - [Monte Olimpino Tilo Chiasso Como](https://frontaliereticino.ch/en/cross-border-articles/monte-olimpino-tilo-chiasso-como/)
 - [Monte Olimpino Weekend Trains](https://frontaliereticino.ch/en/cross-border-articles/monte-olimpino-weekend-trains/)
+- [Montegrino Valtravaglia Assault Conviction](https://frontaliereticino.ch/en/cross-border-articles/montegrino-valtravaglia-assault-conviction/)
 - [Montegrino Valtravaglia Frontaliers Ticino](https://frontaliereticino.ch/en/cross-border-articles/montegrino-valtravaglia-frontaliers-ticino/)
 - [Montescheno Cross Border Ticino Guide](https://frontaliereticino.ch/en/cross-border-articles/montescheno-cross-border-ticino-guide/)
 - [Montessori Green Food Week 2026](https://frontaliereticino.ch/en/cross-border-articles/montessori-green-food-week-2026/)
@@ -3788,6 +3793,7 @@
 - [Operatingroomtechnicianfrontalieretarincome](https://frontaliereticino.ch/en/cross-border-articles/operatingroomtechnicianfrontalieretarincome/)
 - [Operation Hermes Vat Fraud 450 Mln Seizures 11 Mln](https://frontaliereticino.ch/en/cross-border-articles/operation-hermes-vat-fraud-450-mln-seizures-11-mln/)
 - [Operation Trotta 35 Fines For Modified E Bikes And Illegal Scooters](https://frontaliereticino.ch/en/cross-border-articles/operation-trotta-35-fines-for-modified-e-bikes-and-illegal-scooters/)
+- [Operation Upriver Arrests Varese 2026](https://frontaliereticino.ch/en/cross-border-articles/operation-upriver-arrests-varese-2026/)
 - [Orchestra Le Nove Lugano Bellinzona Concerts](https://frontaliereticino.ch/en/cross-border-articles/orchestra-le-nove-lugano-bellinzona-concerts/)
 - [Organized Crime Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/organized-crime-switzerland-2026/)
 - [Orientation Days Aslam Busto Arsizio](https://frontaliereticino.ch/en/cross-border-articles/orientation-days-aslam-busto-arsizio/)
@@ -5413,7 +5419,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (17192 pages)
+### Other Pages (17200 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -19807,6 +19813,7 @@
 - [Support](https://frontaliereticino.ch/en/support/)
 - [Swiss Articles](https://frontaliereticino.ch/en/swiss-articles/)
 - [20 Minuten Ebit Increase](https://frontaliereticino.ch/en/swiss-articles/20-minuten-ebit-increase/)
+- [2026 Vat Referendum Increase For The Thirteenth Pension Payment](https://frontaliereticino.ch/en/swiss-articles/2026-vat-referendum-increase-for-the-thirteenth-pension-payment/)
 - [300 000 New Jobs In Switzerland In Five Years](https://frontaliereticino.ch/en/swiss-articles/300-000-new-jobs-in-switzerland-in-five-years/)
 - [48 Hour Detention Protests](https://frontaliereticino.ch/en/swiss-articles/48-hour-detention-protests/)
 - [730 Refunds Substitute Tax](https://frontaliereticino.ch/en/swiss-articles/730-refunds-substitute-tax/)
@@ -20355,6 +20362,7 @@
 - [Cyber Insurance Growth 2025](https://frontaliereticino.ch/en/swiss-articles/cyber-insurance-growth-2025/)
 - [Cyber Security Day Ated Lugano](https://frontaliereticino.ch/en/swiss-articles/cyber-security-day-ated-lugano/)
 - [Cybersecurity Home Data Center](https://frontaliereticino.ch/en/swiss-articles/cybersecurity-home-data-center/)
+- [Cybersecurity Switzerland Record Reports](https://frontaliereticino.ch/en/swiss-articles/cybersecurity-switzerland-record-reports/)
 - [Dark Side Swiss Eldorado French Commuters](https://frontaliereticino.ch/en/swiss-articles/dark-side-swiss-eldorado-french-commuters/)
 - [Data Center Heat Underutilized](https://frontaliereticino.ch/en/swiss-articles/data-center-heat-underutilized/)
 - [Data Tax Frontalieri Italy](https://frontaliereticino.ch/en/swiss-articles/data-tax-frontalieri-italy/)
@@ -21078,6 +21086,7 @@
 - [Marriage Tax Equity Forty Years](https://frontaliereticino.ch/en/swiss-articles/marriage-tax-equity-forty-years/)
 - [Massimo Balena Swiss Farmer Calendar](https://frontaliereticino.ch/en/swiss-articles/massimo-balena-swiss-farmer-calendar/)
 - [Massimo Boldi Hospitalized](https://frontaliereticino.ch/en/swiss-articles/massimo-boldi-hospitalized/)
+- [Mastercard Payments Without Internet](https://frontaliereticino.ch/en/swiss-articles/mastercard-payments-without-internet/)
 - [Mazzone Climate Federal Council](https://frontaliereticino.ch/en/swiss-articles/mazzone-climate-federal-council/)
 - [Mc 27 Lugano Exhibition 2026](https://frontaliereticino.ch/en/swiss-articles/mc-27-lugano-exhibition-2026/)
 - [Meat Prices Switzerland](https://frontaliereticino.ch/en/swiss-articles/meat-prices-switzerland/)
@@ -21093,6 +21102,7 @@
 - [Mercato Affitti Canton Bern](https://frontaliereticino.ch/en/swiss-articles/mercato-affitti-canton-bern/)
 - [Micasa Four Stores 2027](https://frontaliereticino.ch/en/swiss-articles/micasa-four-stores-2027/)
 - [Micasa Swiss Investors Close Branches](https://frontaliereticino.ch/en/swiss-articles/micasa-swiss-investors-close-branches/)
+- [Midterm Usa Vote Switzerland](https://frontaliereticino.ch/en/swiss-articles/midterm-usa-vote-switzerland/)
 - [Migrant Rights Demonstration Bern](https://frontaliereticino.ch/en/swiss-articles/migrant-rights-demonstration-bern/)
 - [Migros 24 Hour Supermarket Herisau](https://frontaliereticino.ch/en/swiss-articles/migros-24-hour-supermarket-herisau/)
 - [Migros Caissiere Ticino](https://frontaliereticino.ch/en/swiss-articles/migros-caissiere-ticino/)
@@ -21573,6 +21583,7 @@
 - [Rhine Drought Swiss Economy](https://frontaliereticino.ch/en/swiss-articles/rhine-drought-swiss-economy/)
 - [Rhine Drought Swiss Logistics](https://frontaliereticino.ch/en/swiss-articles/rhine-drought-swiss-logistics/)
 - [Rhine Navigability Future Alarm](https://frontaliereticino.ch/en/swiss-articles/rhine-navigability-future-alarm/)
+- [Ricardo Exposed Accounts](https://frontaliereticino.ch/en/swiss-articles/ricardo-exposed-accounts/)
 - [Richemont Montblanc Cuts](https://frontaliereticino.ch/en/swiss-articles/richemont-montblanc-cuts/)
 - [Rickli Takes Time Federal Candidacy](https://frontaliereticino.ch/en/swiss-articles/rickli-takes-time-federal-candidacy/)
 - [Rita Fuhrer Federal Council](https://frontaliereticino.ch/en/swiss-articles/rita-fuhrer-federal-council/)
@@ -21754,6 +21765,7 @@
 - [Solar Eclipse Eye Damage](https://frontaliereticino.ch/en/swiss-articles/solar-eclipse-eye-damage/)
 - [Solar Eclipse Hospital](https://frontaliereticino.ch/en/swiss-articles/solar-eclipse-hospital/)
 - [Solar Eclipse Switzerland Ended](https://frontaliereticino.ch/en/swiss-articles/solar-eclipse-switzerland-ended/)
+- [Solar Permit Initiative Fails](https://frontaliereticino.ch/en/swiss-articles/solar-permit-initiative-fails/)
 - [Solar Plants Security Grid](https://frontaliereticino.ch/en/swiss-articles/solar-plants-security-grid/)
 - [Solothurn Apprenticeship Vocational Training](https://frontaliereticino.ch/en/swiss-articles/solothurn-apprenticeship-vocational-training/)
 - [Solothurn Business Startup Costs](https://frontaliereticino.ch/en/swiss-articles/solothurn-business-startup-costs/)
@@ -21919,6 +21931,7 @@
 - [Swiss Economic Outlook September Analysts](https://frontaliereticino.ch/en/swiss-articles/swiss-economic-outlook-september-analysts/)
 - [Swiss Economy Acceleration Frontalieri](https://frontaliereticino.ch/en/swiss-articles/swiss-economy-acceleration-frontalieri/)
 - [Swiss Economy Analysts September](https://frontaliereticino.ch/en/swiss-articles/swiss-economy-analysts-september/)
+- [Swiss Economy Declining Confidence](https://frontaliereticino.ch/en/swiss-articles/swiss-economy-declining-confidence/)
 - [Swiss Economy Growth Q2 2026](https://frontaliereticino.ch/en/swiss-articles/swiss-economy-growth-q2-2026/)
 - [Swiss Economy Growth Trimester](https://frontaliereticino.ch/en/swiss-articles/swiss-economy-growth-trimester/)
 - [Swiss Economy National](https://frontaliereticino.ch/en/swiss-articles/swiss-economy-national/)
@@ -22050,6 +22063,7 @@
 - [Swiss Smes Absences Work Costs](https://frontaliereticino.ch/en/swiss-articles/swiss-smes-absences-work-costs/)
 - [Swiss Soldiers War Video](https://frontaliereticino.ch/en/swiss-articles/swiss-soldiers-war-video/)
 - [Swiss Spending Growth Slows](https://frontaliereticino.ch/en/swiss-articles/swiss-spending-growth-slows/)
+- [Swiss Spending September](https://frontaliereticino.ch/en/swiss-articles/swiss-spending-september/)
 - [Swiss Stability Bilaterals Neutrality](https://frontaliereticino.ch/en/swiss-articles/swiss-stability-bilaterals-neutrality/)
 - [Swiss Starlink Airplane Internet](https://frontaliereticino.ch/en/swiss-articles/swiss-starlink-airplane-internet/)
 - [Swiss Starlink Fleet 2029](https://frontaliereticino.ch/en/swiss-articles/swiss-starlink-fleet-2029/)
@@ -22159,6 +22173,7 @@
 - [Switzerland Usam Swiss Cross Controversy](https://frontaliereticino.ch/en/swiss-articles/switzerland-usam-swiss-cross-controversy/)
 - [Switzerland Vacillas Myt Disoccupazione Frontalieri](https://frontaliereticino.ch/en/swiss-articles/switzerland-vacillas-myt-disoccupazione-frontalieri/)
 - [Switzerland Vote Political Results](https://frontaliereticino.ch/en/swiss-articles/switzerland-vote-political-results/)
+- [Switzerland Vote War Material Export 2026](https://frontaliereticino.ch/en/swiss-articles/switzerland-vote-war-material-export-2026/)
 - [Switzerland Weapons Exports Law Revision](https://frontaliereticino.ch/en/swiss-articles/switzerland-weapons-exports-law-revision/)
 - [Syngenta Profits Revenue Semester](https://frontaliereticino.ch/en/swiss-articles/syngenta-profits-revenue-semester/)
 - [Synthetic Kerosene Aviation](https://frontaliereticino.ch/en/swiss-articles/synthetic-kerosene-aviation/)
@@ -22314,7 +22329,6 @@
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-8/)
-- [Page 9](https://frontaliereticino.ch/en/swiss-articles/topics/housing-and-rent/page-9/)
 - [Jobs And Employment](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-3/)
@@ -22589,7 +22603,6 @@
 - [Sanita](https://frontaliereticino.ch/en/ticino-job-market/sector/sanita/)
 - [Vendite](https://frontaliereticino.ch/en/ticino-job-market/sector/vendite/)
 - [September 2026](https://frontaliereticino.ch/en/ticino-job-market/september-2026/)
-- [Week 29 2026](https://frontaliereticino.ch/en/ticino-job-market/week-29-2026/)
 - [Week 30 2026](https://frontaliereticino.ch/en/ticino-job-market/week-30-2026/)
 - [Week 31 2026](https://frontaliereticino.ch/en/ticino-job-market/week-31-2026/)
 - [Week 32 2026](https://frontaliereticino.ch/en/ticino-job-market/week-32-2026/)
@@ -22601,6 +22614,7 @@
 - [Week 38 2026](https://frontaliereticino.ch/en/ticino-job-market/week-38-2026/)
 - [Week 39 2026](https://frontaliereticino.ch/en/ticino-job-market/week-39-2026/)
 - [Week 40 2026](https://frontaliereticino.ch/en/ticino-job-market/week-40-2026/)
+- [Week 41 2026](https://frontaliereticino.ch/en/ticino-job-market/week-41-2026/)
 - [Tool Of The Week](https://frontaliereticino.ch/en/tool-of-the-week/)
 - [Trade Unions Cross Border Workers](https://frontaliereticino.ch/en/trade-unions-cross-border-workers/)
 - [Transport](https://frontaliereticino.ch/en/transport/)
