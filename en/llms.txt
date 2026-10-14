@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 23157 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 23158 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -5427,7 +5427,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (17783 pages)
+### Other Pages (17784 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5436,6 +5436,7 @@
 - [Marco Ferrari](https://frontaliereticino.ch/en/authors/marco-ferrari/)
 - [Redazione](https://frontaliereticino.ch/en/authors/redazione/)
 - [Samuele Valente](https://frontaliereticino.ch/en/authors/samuele-valente/)
+- [Automate Your Job Search in Switzerland](https://frontaliereticino.ch/en/automate-job-search-switzerland/) — Automate your job search in Switzerland: we find suitable roles and prepare tailored applications. This can improve your chances of reaching an interview.
 - [Average Salary Switzerland Age 20](https://frontaliereticino.ch/en/average-salary-switzerland-age-20/)
 - [Average Salary Switzerland Age 30](https://frontaliereticino.ch/en/average-salary-switzerland-age-30/)
 - [Average Salary Switzerland Age 40](https://frontaliereticino.ch/en/average-salary-switzerland-age-40/)
