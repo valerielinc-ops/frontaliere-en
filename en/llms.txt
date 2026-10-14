@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: English (this file) — also available in Italian (primary), German, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-13
+- **Index Generated**: 2026-10-14
 - **Audience**: English-speaking cross-border workers commuting between Italy and Switzerland (Ticino, Graubünden, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4408 pages)
+### Blog Articles (4409 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4862,6 +4862,7 @@
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/franc-and-prices/page-9/)
 - [G Permit](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
@@ -5426,7 +5427,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (17784 pages)
+### Other Pages (17783 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -9319,7 +9320,6 @@
 - [Fruhstucksbuffet Im Restaurant Fein Sein 2026 12 13](https://frontaliereticino.ch/en/events/fribourg/plaffeien/fruhstucksbuffet-im-restaurant-fein-sein-2026-12-13/)
 - [Gefuhrte Vollmondwanderung Schwarzsee 2026 11 22](https://frontaliereticino.ch/en/events/fribourg/plaffeien/gefuhrte-vollmondwanderung-schwarzsee-2026-11-22/)
 - [Hammer S Wildbuffet A Discretion Restaurant Fein 2026 10 18](https://frontaliereticino.ch/en/events/fribourg/plaffeien/hammer-s-wildbuffet-a-discretion-restaurant-fein-2026-10-18/)
-- [Prez](https://frontaliereticino.ch/en/events/fribourg/prez/)
 - [Vokalensemble Graindelavoix Be Josquin The Undead 2026 10 13](https://frontaliereticino.ch/en/events/fribourg/prez/vokalensemble-graindelavoix-be-josquin-the-undead-2026-10-13/)
 - [Rue](https://frontaliereticino.ch/en/events/fribourg/rue/)
 - [Foire Dautomne 2026 10 03](https://frontaliereticino.ch/en/events/fribourg/rue/foire-dautomne-2026-10-03/)
@@ -22886,6 +22886,7 @@
 - [Franc And Prices](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/)
 - [Page 10](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-11/)
+- [Page 12](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-12/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/swiss-articles/topics/franc-and-prices/page-4/)
@@ -22927,7 +22928,6 @@
 - [Page 6](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-8/)
-- [Page 9](https://frontaliereticino.ch/en/swiss-articles/topics/jobs-and-employment/page-9/)
 - [Pensions Avs Lpp](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/pensions-avs-lpp/page-3/)
