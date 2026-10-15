@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: English (this file) — also available in Italian (primary), German, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-14
+- **Index Generated**: 2026-10-15
 - **Audience**: English-speaking cross-border workers commuting between Italy and Switzerland (Ticino, Graubünden, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4409 pages)
+### Blog Articles (4408 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4831,6 +4831,7 @@
 - [Border And Customs](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-11/)
+- [Page 12](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-12/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/border-and-customs/page-4/)
@@ -4948,8 +4949,6 @@
 - [Page 31](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-31/)
 - [Page 32](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-32/)
 - [Page 33](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-33/)
-- [Page 34](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-34/)
-- [Page 35](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-35/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-6/)
@@ -5427,7 +5426,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (18484 pages)
+### Other Pages (18485 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5535,6 +5534,7 @@
 - [Citta Di Lugano](https://frontaliereticino.ch/en/aziende/citta-di-lugano/)
 - [Ckw](https://frontaliereticino.ch/en/aziende/ckw/)
 - [Clienia Ag](https://frontaliereticino.ch/en/aziende/clienia-ag/)
+- [Climeworks](https://frontaliereticino.ch/en/aziende/climeworks/)
 - [Clinica Holistica Engiadina](https://frontaliereticino.ch/en/aziende/clinica-holistica-engiadina/)
 - [Clinique De Genolier](https://frontaliereticino.ch/en/aziende/clinique-de-genolier/)
 - [Clinique De La Source](https://frontaliereticino.ch/en/aziende/clinique-de-la-source/)
