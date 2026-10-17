@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 24438 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 24434 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -5551,7 +5551,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (18940 pages)
+### Other Pages (18936 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5663,7 +5663,6 @@
 - [Clienia Ag](https://frontaliereticino.ch/en/aziende/clienia-ag/)
 - [Climeworks](https://frontaliereticino.ch/en/aziende/climeworks/)
 - [Clinica Holistica Engiadina](https://frontaliereticino.ch/en/aziende/clinica-holistica-engiadina/)
-- [Clinique De Genolier](https://frontaliereticino.ch/en/aziende/clinique-de-genolier/)
 - [Clinique De La Source](https://frontaliereticino.ch/en/aziende/clinique-de-la-source/)
 - [Clinique De Montchoisi](https://frontaliereticino.ch/en/aziende/clinique-de-montchoisi/)
 - [Clinique Le Noirmont](https://frontaliereticino.ch/en/aziende/clinique-le-noirmont/)
@@ -5811,7 +5810,6 @@
 - [Hitzberger](https://frontaliereticino.ch/en/aziende/hitzberger/)
 - [Hoch Health Ostschweiz](https://frontaliereticino.ch/en/aziende/hoch-health-ostschweiz/)
 - [Hochgebirgsklinik Davos](https://frontaliereticino.ch/en/aziende/hochgebirgsklinik-davos/)
-- [Hof Weissbad Ag](https://frontaliereticino.ch/en/aziende/hof-weissbad-ag/)
 - [Holcim Group](https://frontaliereticino.ch/en/aziende/holcim-group/)
 - [Holmes Place](https://frontaliereticino.ch/en/aziende/holmes-place/)
 - [Honegger Ag](https://frontaliereticino.ch/en/aziende/honegger-ag/)
@@ -5965,13 +5963,11 @@
 - [Montagetechnik Berner Ag](https://frontaliereticino.ch/en/aziende/montagetechnik-berner-ag/)
 - [Msc Group](https://frontaliereticino.ch/en/aziende/msc-group/)
 - [Neo Pro Conseils Sa](https://frontaliereticino.ch/en/aziende/neo-pro-conseils-sa/)
-- [Nestle](https://frontaliereticino.ch/en/aziende/nestle/)
 - [New Yorker](https://frontaliereticino.ch/en/aziende/new-yorker/)
 - [Nord Anglia Education Switzerland](https://frontaliereticino.ch/en/aziende/nord-anglia-education-switzerland/)
 - [Novartis](https://frontaliereticino.ch/en/aziende/novartis/)
 - [Novelis](https://frontaliereticino.ch/en/aziende/novelis/)
 - [Nsn Medical Group](https://frontaliereticino.ch/en/aziende/nsn-medical-group/)
-- [Nvidia Ufficio Zurich](https://frontaliereticino.ch/en/aziende/nvidia-ufficio-zurich/)
 - [Oberholzer Ag](https://frontaliereticino.ch/en/aziende/oberholzer-ag/)
 - [Octapharma](https://frontaliereticino.ch/en/aziende/octapharma/)
 - [Oerlikon](https://frontaliereticino.ch/en/aziende/oerlikon/)
@@ -6097,7 +6093,6 @@
 - [Spitaler Schaffhausen](https://frontaliereticino.ch/en/aziende/spitaler-schaffhausen/)
 - [Spitalverbund Appenzell Ausserrhoden Svar](https://frontaliereticino.ch/en/aziende/spitalverbund-appenzell-ausserrhoden-svar/)
 - [Spitalzentrum Biel Centre Hospitalier Bienne](https://frontaliereticino.ch/en/aziende/spitalzentrum-biel-centre-hospitalier-bienne/)
-- [Spitex Bachtel Ag](https://frontaliereticino.ch/en/aziende/spitex-bachtel-ag/)
 - [Spitex Basel](https://frontaliereticino.ch/en/aziende/spitex-basel/)
 - [Spitex Rechtes Limmattal](https://frontaliereticino.ch/en/aziende/spitex-rechtes-limmattal/)
 - [Spitex Zurich](https://frontaliereticino.ch/en/aziende/spitex-zurich/)
@@ -24123,6 +24118,7 @@
 - [Page 9](https://frontaliereticino.ch/en/swiss-articles/topics/agreements-and-politics/page-9/)
 - [Border And Customs](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/page-2/)
+- [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/border-and-customs/page-3/)
 - [Energy And Fuel](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/)
 - [Page 2](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/swiss-articles/topics/energy-and-fuel/page-3/)
