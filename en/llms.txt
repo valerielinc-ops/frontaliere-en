@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: English (this file) — also available in Italian (primary), German, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-16
+- **Index Generated**: 2026-10-17
 - **Audience**: English-speaking cross-border workers commuting between Italy and Switzerland (Ticino, Graubünden, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 24441 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 24438 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4532 pages)
+### Blog Articles (4533 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -4949,6 +4949,7 @@
 - [Family And School](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-11/)
+- [Page 12](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-12/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-4/)
@@ -4995,15 +4996,12 @@
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-8/)
 - [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-9/)
 - [Pensions Avs Lpp](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/)
-- [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-7/)
-- [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-8/)
-- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-9/)
 - [Safety And Crime](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/safety-and-crime/page-11/)
@@ -5053,6 +5051,9 @@
 - [Page 29](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-29/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-3/)
 - [Page 30](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-30/)
+- [Page 31](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-31/)
+- [Page 32](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-32/)
+- [Page 33](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-33/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/taxes/page-6/)
@@ -5550,7 +5551,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (18944 pages)
+### Other Pages (18940 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5631,7 +5632,6 @@
 - [Bps Banca Popolare Di Sondrio Suisse](https://frontaliereticino.ch/en/aziende/bps-banca-popolare-di-sondrio-suisse/)
 - [Brack Alltron Ag](https://frontaliereticino.ch/en/aziende/brack-alltron-ag/)
 - [Breitling](https://frontaliereticino.ch/en/aziende/breitling/)
-- [Buccellati](https://frontaliereticino.ch/en/aziende/buccellati/)
 - [Buhler Group](https://frontaliereticino.ch/en/aziende/buhler-group/)
 - [Burgenstock Hotels Ag](https://frontaliereticino.ch/en/aziende/burgenstock-hotels-ag/)
 - [Burkhalter Technics Ag](https://frontaliereticino.ch/en/aziende/burkhalter-technics-ag/)
@@ -9389,7 +9389,6 @@
 - [Ausflug Wilde Emme Fuhrung Wildstation Und 2026 06 21](https://frontaliereticino.ch/en/events/bern/utzenstorf/ausflug-wilde-emme-fuhrung-wildstation-und-2026-06-21/)
 - [Saisonabschluss Mit Kurzfuhrungen 2026 10 11](https://frontaliereticino.ch/en/events/bern/utzenstorf/saisonabschluss-mit-kurzfuhrungen-2026-10-11/)
 - [Schlossweihnacht 2026 12 11](https://frontaliereticino.ch/en/events/bern/utzenstorf/schlossweihnacht-2026-12-11/)
-- [Vinelz](https://frontaliereticino.ch/en/events/bern/vinelz/)
 - [Gerhard Tschan Eine Tour Dhorizon 2026 10 16](https://frontaliereticino.ch/en/events/bern/vinelz/gerhard-tschan-eine-tour-dhorizon-2026-10-16/)
 - [Wattenwil](https://frontaliereticino.ch/en/events/bern/wattenwil/)
 - [Herbst Gartenkurs In Wattenwil 2026 10 31](https://frontaliereticino.ch/en/events/bern/wattenwil/herbst-gartenkurs-in-wattenwil-2026-10-31/)
@@ -12902,7 +12901,6 @@
 - [World Hits Vienna Boys Choir 2027 03 13](https://frontaliereticino.ch/en/events/lucerne/other-events/world-hits-vienna-boys-choir-2027-03-13/)
 - [World Of Warcraft 20 Years Of Music 2026 10 02](https://frontaliereticino.ch/en/events/lucerne/other-events/world-of-warcraft-20-years-of-music-2026-10-02/)
 - [22 Rottaler Erntefest 2026 10 03](https://frontaliereticino.ch/en/events/lucerne/pfaffnau/22-rottaler-erntefest-2026-10-03/)
-- [Rain](https://frontaliereticino.ch/en/events/lucerne/rain/)
 - [The Beauty Of Gemina Veil Of Rain Tour 2026 2026 10 16](https://frontaliereticino.ch/en/events/lucerne/rain/the-beauty-of-gemina-veil-of-rain-tour-2026-2026-10-16/)
 - [Kurs Urban Sketching Romoos 15 09 2026 2026 09 15](https://frontaliereticino.ch/en/events/lucerne/romoos/kurs-urban-sketching-romoos-15-09-2026-2026-09-15/)
 - [Schenkon](https://frontaliereticino.ch/en/events/lucerne/schenkon/)
@@ -14552,7 +14550,6 @@
 - [Balsthal](https://frontaliereticino.ch/en/events/solothurn/balsthal/)
 - [Dlg Theater 2026 Tschingge Ein Stuck Schweiz 2026 10 16](https://frontaliereticino.ch/en/events/solothurn/balsthal/dlg-theater-2026-tschingge-ein-stuck-schweiz-2026-10-16/)
 - [Tag Der Natur Balsthal 2026 10 17](https://frontaliereticino.ch/en/events/solothurn/balsthal/tag-der-natur-balsthal-2026-10-17/)
-- [Bellach](https://frontaliereticino.ch/en/events/solothurn/bellach/)
 - [Museum Movie Night 2026 08 28](https://frontaliereticino.ch/en/events/solothurn/bellach/museum-movie-night-2026-08-28/)
 - [Bettlach](https://frontaliereticino.ch/en/events/solothurn/bettlach/)
 - [Spettacolo Di Magia Magic Monday Con Christoph 2026 10 24](https://frontaliereticino.ch/en/events/solothurn/bettlach/spettacolo-di-magia-magic-monday-con-christoph-2026-10-24/)
@@ -15997,6 +15994,7 @@
 - [Page 3](https://frontaliereticino.ch/en/events/ticino/archive/page-3/)
 - [Page 30](https://frontaliereticino.ch/en/events/ticino/archive/page-30/)
 - [Page 31](https://frontaliereticino.ch/en/events/ticino/archive/page-31/)
+- [Page 32](https://frontaliereticino.ch/en/events/ticino/archive/page-32/)
 - [Page 4](https://frontaliereticino.ch/en/events/ticino/archive/page-4/)
 - [Page 5](https://frontaliereticino.ch/en/events/ticino/archive/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/events/ticino/archive/page-6/)
@@ -16237,7 +16235,6 @@
 - [Studio3spazi Festeggia 20 Anni 2026 10 13](https://frontaliereticino.ch/en/events/ticino/chiasso/studio3spazi-festeggia-20-anni-2026-10-13/)
 - [Lady Mystery Agatha Christie 2026 10 10](https://frontaliereticino.ch/en/events/ticino/coldrerio/lady-mystery-agatha-christie-2026-10-10/)
 - [I Funghi Del Ticino Conferenza E Mostra 2026 10 01](https://frontaliereticino.ch/en/events/ticino/comano/i-funghi-del-ticino-conferenza-e-mostra-2026-10-01/)
-- [Faido](https://frontaliereticino.ch/en/events/ticino/faido/)
 - [Migros Hiking Sounds 2026 09 13](https://frontaliereticino.ch/en/events/ticino/faido/migros-hiking-sounds-2026-09-13/)
 - [Riparare Invece Di Buttare 2026 10 10](https://frontaliereticino.ch/en/events/ticino/faido/riparare-invece-di-buttare-2026-10-10/)
 - [Una Storia Culturale Del Rischio Presentazione 2026 10 16](https://frontaliereticino.ch/en/events/ticino/faido/una-storia-culturale-del-rischio-presentazione-2026-10-16/)
@@ -24478,7 +24475,6 @@
 - [Sanita](https://frontaliereticino.ch/en/ticino-job-market/sector/sanita/)
 - [Vendite](https://frontaliereticino.ch/en/ticino-job-market/sector/vendite/)
 - [September 2026](https://frontaliereticino.ch/en/ticino-job-market/september-2026/)
-- [Week 30 2026](https://frontaliereticino.ch/en/ticino-job-market/week-30-2026/)
 - [Week 31 2026](https://frontaliereticino.ch/en/ticino-job-market/week-31-2026/)
 - [Week 32 2026](https://frontaliereticino.ch/en/ticino-job-market/week-32-2026/)
 - [Week 33 2026](https://frontaliereticino.ch/en/ticino-job-market/week-33-2026/)
@@ -24490,6 +24486,7 @@
 - [Week 39 2026](https://frontaliereticino.ch/en/ticino-job-market/week-39-2026/)
 - [Week 40 2026](https://frontaliereticino.ch/en/ticino-job-market/week-40-2026/)
 - [Week 41 2026](https://frontaliereticino.ch/en/ticino-job-market/week-41-2026/)
+- [Week 42 2026](https://frontaliereticino.ch/en/ticino-job-market/week-42-2026/)
 - [Tool Of The Week](https://frontaliereticino.ch/en/tool-of-the-week/)
 - [Trade Unions Cross Border Workers](https://frontaliereticino.ch/en/trade-unions-cross-border-workers/)
 - [Transport](https://frontaliereticino.ch/en/transport/)
