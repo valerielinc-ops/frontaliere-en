@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 24617 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 24620 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4567 pages)
+### Blog Articles (4569 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -1723,6 +1723,7 @@
 - [Como Elections 2026](https://frontaliereticino.ch/en/cross-border-articles/como-elections-2026/)
 - [Como Export Switzerland 2026](https://frontaliereticino.ch/en/cross-border-articles/como-export-switzerland-2026/)
 - [Como Fai Autumn Days](https://frontaliereticino.ch/en/cross-border-articles/como-fai-autumn-days/)
+- [Como Family Demonstration](https://frontaliereticino.ch/en/cross-border-articles/como-family-demonstration/)
 - [Como Frazione Tavernola Banditi Assaltano Gioielleria E Si Dileguano](https://frontaliereticino.ch/en/cross-border-articles/como-frazione-tavernola-banditi-assaltano-gioielleria-e-si-dileguano/)
 - [Como Gera Lario Swimming Record](https://frontaliereticino.ch/en/cross-border-articles/como-gera-lario-swimming-record/)
 - [Como Greens Praise Rapinese Trees](https://frontaliereticino.ch/en/cross-border-articles/como-greens-praise-rapinese-trees/)
@@ -4683,6 +4684,7 @@
 - [Tax Credit 2026 Beyond 20km](https://frontaliereticino.ch/en/cross-border-articles/tax-credit-2026-beyond-20km/)
 - [Tax Credit 2026 Family Calculation Limits](https://frontaliereticino.ch/en/cross-border-articles/tax-credit-2026-family-calculation-limits/)
 - [Tax Credit 2026 Single Frontalier](https://frontaliereticino.ch/en/cross-border-articles/tax-credit-2026-single-frontalier/)
+- [Tax Credit Family 2026](https://frontaliereticino.ch/en/cross-border-articles/tax-credit-family-2026/)
 - [Tax Credit For Ticino Expenses Idea Giovani Centro](https://frontaliereticino.ch/en/cross-border-articles/tax-credit-for-ticino-expenses-idea-giovani-centro/)
 - [Tax Credit Income Declaration 2026](https://frontaliereticino.ch/en/cross-border-articles/tax-credit-income-declaration-2026/)
 - [Tax Declaration Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/tax-declaration-ticino-2026/)
@@ -5585,7 +5587,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (19085 pages)
+### Other Pages (19086 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -23613,6 +23615,7 @@
 - [Salary Increases Performance 2026](https://frontaliereticino.ch/en/swiss-articles/salary-increases-performance-2026/)
 - [Salary Zug Canton Employment](https://frontaliereticino.ch/en/swiss-articles/salary-zug-canton-employment/)
 - [Salt Cyber Attack Customer Data](https://frontaliereticino.ch/en/swiss-articles/salt-cyber-attack-customer-data/)
+- [Same Income Different Taxes](https://frontaliereticino.ch/en/swiss-articles/same-income-different-taxes/)
 - [Samedan Airport Reneal](https://frontaliereticino.ch/en/swiss-articles/samedan-airport-reneal/)
 - [Sanctions 2026 Aggiornamento](https://frontaliereticino.ch/en/swiss-articles/sanctions-2026-aggiornamento/)
 - [Sanctions Un Ordinances 2026](https://frontaliereticino.ch/en/swiss-articles/sanctions-un-ordinances-2026/)
