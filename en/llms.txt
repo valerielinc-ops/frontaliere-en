@@ -24,7 +24,7 @@
 
 ## Complete Page Index (Auto-Generated)
 
-> This index is automatically generated at build time from all sitemaps. Total: 25001 pages.
+> This index is automatically generated at build time from all sitemaps. Total: 25004 pages.
 
 ### Tax & Salary Calculators (462 pages)
 
@@ -5614,7 +5614,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (19440 pages)
+### Other Pages (19443 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -6283,6 +6283,9 @@
 - [8000 Chf To Eur](https://frontaliereticino.ch/en/chf-eur-exchange/8000-chf-to-eur/)
 - [Community](https://frontaliereticino.ch/en/community/)
 - [All](https://frontaliereticino.ch/en/companies-hiring/all/)
+- [Page 2](https://frontaliereticino.ch/en/companies-hiring/all/page-2/)
+- [Page 3](https://frontaliereticino.ch/en/companies-hiring/all/page-3/)
+- [Page 4](https://frontaliereticino.ch/en/companies-hiring/all/page-4/)
 - [Consulting](https://frontaliereticino.ch/en/consulting/)
 - [Contact Us](https://frontaliereticino.ch/en/contact-us/)
 - [Corrections](https://frontaliereticino.ch/en/corrections/)
