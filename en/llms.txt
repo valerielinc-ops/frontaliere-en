@@ -970,7 +970,7 @@
 - [Page Index 8](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-8/)
 - [Page Index 9](https://frontaliereticino.ch/en/find-jobs-zurich/all/page-index-9/)
 
-### Blog Articles (4596 pages)
+### Blog Articles (4597 pages)
 
 - [Cross Border Articles](https://frontaliereticino.ch/en/cross-border-articles/)
 - [139 Ticino Cross Border Workers Special Olympics](https://frontaliereticino.ch/en/cross-border-articles/139-ticino-cross-border-workers-special-olympics/)
@@ -5053,6 +5053,7 @@
 - [Page 6](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-7/)
 - [Page 8](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-8/)
+- [Page 9](https://frontaliereticino.ch/en/cross-border-articles/topics/jobs-and-employment/page-9/)
 - [Pensions Avs Lpp](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-10/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/pensions-avs-lpp/page-2/)
@@ -5614,7 +5615,7 @@
 - [Tredicesima](https://frontaliereticino.ch/en/cross-border-glossary/tredicesima/)
 - [Withholding Tax](https://frontaliereticino.ch/en/cross-border-glossary/withholding-tax/)
 
-### Other Pages (19443 pages)
+### Other Pages (19442 pages)
 
 - [En](https://frontaliereticino.ch/en/)
 - [About Us](https://frontaliereticino.ch/en/about-us/)
@@ -5691,7 +5692,6 @@
 - [Bobst](https://frontaliereticino.ch/en/aziende/bobst/)
 - [Bosch Thermotechnik Ag](https://frontaliereticino.ch/en/aziende/bosch-thermotechnik-ag/)
 - [Bossard Group](https://frontaliereticino.ch/en/aziende/bossard-group/)
-- [Botschi Ag Feuer Luft Wasser](https://frontaliereticino.ch/en/aziende/botschi-ag-feuer-luft-wasser/)
 - [Bps Banca Popolare Di Sondrio Suisse](https://frontaliereticino.ch/en/aziende/bps-banca-popolare-di-sondrio-suisse/)
 - [Brack Alltron Ag](https://frontaliereticino.ch/en/aziende/brack-alltron-ag/)
 - [Breitling](https://frontaliereticino.ch/en/aziende/breitling/)
