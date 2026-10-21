@@ -8,7 +8,7 @@
 - **Name**: Frontaliere Ticino
 - **Language**: English (this file) — also available in Italian (primary), German, French
 - **Type**: Free web application, no registration required
-- **Index Generated**: 2026-10-20
+- **Index Generated**: 2026-10-21
 - **Audience**: English-speaking cross-border workers commuting between Italy and Switzerland (Ticino, Graubünden, Valais)
 - **Sources**: See source links and publication dates in the full reference; generating this index does not re-verify those sources.
 
@@ -1670,6 +1670,7 @@
 - [Circolo Hospital Varese Parking 2026](https://frontaliereticino.ch/en/cross-border-articles/circolo-hospital-varese-parking-2026/)
 - [Circular Economy Jobs Prison Varese](https://frontaliereticino.ch/en/cross-border-articles/circular-economy-jobs-prison-varese/)
 - [Cirimido Cross Border Worker Ticino](https://frontaliereticino.ch/en/cross-border-articles/cirimido-cross-border-worker-ticino/)
+- [Cisl Survey Cross Border Workers 2026](https://frontaliereticino.ch/en/cross-border-articles/cisl-survey-cross-border-workers-2026/)
 - [Civate Cross Border Worker Ticino](https://frontaliereticino.ch/en/cross-border-articles/civate-cross-border-worker-ticino/)
 - [Civil Service Bill Frontalieri](https://frontaliereticino.ch/en/cross-border-articles/civil-service-bill-frontalieri/)
 - [Civil Service Vote Error 2026](https://frontaliereticino.ch/en/cross-border-articles/civil-service-vote-error-2026/)
@@ -5026,7 +5027,6 @@
 - [Family And School](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-11/)
-- [Page 12](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-12/)
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/family-and-school/page-4/)
@@ -5048,7 +5048,6 @@
 - [Page 2](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-2/)
 - [Page 3](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-3/)
 - [Page 4](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-4/)
-- [Page 5](https://frontaliereticino.ch/en/cross-border-articles/topics/g-permit/page-5/)
 - [Health Insurance](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/)
 - [Page 10](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-10/)
 - [Page 11](https://frontaliereticino.ch/en/cross-border-articles/topics/health-insurance/page-11/)
@@ -5529,6 +5528,7 @@
 - [Who Are Ticino Frontaliers](https://frontaliereticino.ch/en/cross-border-articles/who-are-ticino-frontaliers/)
 - [Who Funds Swiss Politics 2026](https://frontaliereticino.ch/en/cross-border-articles/who-funds-swiss-politics-2026/)
 - [Whp Awards Companies Ticino 2026](https://frontaliereticino.ch/en/cross-border-articles/whp-awards-companies-ticino-2026/)
+- [Wicht Interrogation Regional Safeguard Clause](https://frontaliereticino.ch/en/cross-border-articles/wicht-interrogation-regional-safeguard-clause/)
 - [Wild Boars Wins Hockey Chiasso](https://frontaliereticino.ch/en/cross-border-articles/wild-boars-wins-hockey-chiasso/)
 - [Winter Lakeside Walk Ascona 2026](https://frontaliereticino.ch/en/cross-border-articles/winter-lakeside-walk-ascona-2026/)
 - [Winter Ticino Snowfall 2026](https://frontaliereticino.ch/en/cross-border-articles/winter-ticino-snowfall-2026/)
@@ -8725,7 +8725,6 @@
 - [Ungerwax Un Concerto Commentato 2026 10 13](https://frontaliereticino.ch/en/events/bern/interlaken/ungerwax-un-concerto-commentato-2026-10-13/)
 - [Volksschlager Nacht 2026 10 17](https://frontaliereticino.ch/en/events/bern/interlaken/volksschlager-nacht-2026-10-17/)
 - [Walter Und Christine Blatti Im Schlosskeller 2026 11 15](https://frontaliereticino.ch/en/events/bern/interlaken/walter-und-christine-blatti-im-schlosskeller-2026-11-15/)
-- [Iseltwald](https://frontaliereticino.ch/en/events/bern/iseltwald/)
 - [Vortrag Uber Die Wechseljahre 2026 10 20](https://frontaliereticino.ch/en/events/bern/iseltwald/vortrag-uber-die-wechseljahre-2026-10-20/)
 - [Ittigen](https://frontaliereticino.ch/en/events/bern/ittigen/)
 - [Shrizz N Maze Feat Greg Boyer 2026 10 30](https://frontaliereticino.ch/en/events/bern/ittigen/shrizz-n-maze-feat-greg-boyer-2026-10-30/)
@@ -12956,7 +12955,6 @@
 - [Flohmart Zug Ond Sache 2026 09 26](https://frontaliereticino.ch/en/events/lucerne/beromunster/flohmart-zug-ond-sache-2026-09-26/)
 - [Buchrain](https://frontaliereticino.ch/en/events/lucerne/buchrain/)
 - [Helga Schneider Ich Weiss 2027 05 08](https://frontaliereticino.ch/en/events/lucerne/buchrain/helga-schneider-ich-weiss-2027-05-08/)
-- [Ebikon](https://frontaliereticino.ch/en/events/lucerne/ebikon/)
 - [Flohmarkt 2026 10 10](https://frontaliereticino.ch/en/events/lucerne/ebikon/flohmarkt-2026-10-10/)
 - [Oktoberfest Ebikon 2026 10 10](https://frontaliereticino.ch/en/events/lucerne/ebikon/oktoberfest-ebikon-2026-10-10/)
 - [Winter Qi Gong Inseli 2026 10 20](https://frontaliereticino.ch/en/events/lucerne/ebikon/winter-qi-gong-inseli-2026-10-20/)
@@ -16640,6 +16638,7 @@
 - [Page 4](https://frontaliereticino.ch/en/events/ticino/archive/page-4/)
 - [Page 40](https://frontaliereticino.ch/en/events/ticino/archive/page-40/)
 - [Page 41](https://frontaliereticino.ch/en/events/ticino/archive/page-41/)
+- [Page 42](https://frontaliereticino.ch/en/events/ticino/archive/page-42/)
 - [Page 5](https://frontaliereticino.ch/en/events/ticino/archive/page-5/)
 - [Page 6](https://frontaliereticino.ch/en/events/ticino/archive/page-6/)
 - [Page 7](https://frontaliereticino.ch/en/events/ticino/archive/page-7/)
@@ -22868,6 +22867,7 @@
 - [Ciclist Death In Switzerland](https://frontaliereticino.ch/en/swiss-articles/ciclist-death-in-switzerland/)
 - [Ciclista Grave After A Fall](https://frontaliereticino.ch/en/swiss-articles/ciclista-grave-after-a-fall/)
 - [Cicor Efficiency Plan Job Cuts](https://frontaliereticino.ch/en/swiss-articles/cicor-efficiency-plan-job-cuts/)
+- [Circular 221 Child Deduction 2027](https://frontaliereticino.ch/en/swiss-articles/circular-221-child-deduction-2027/)
 - [Cities Climate 30 Kmh Roads](https://frontaliereticino.ch/en/swiss-articles/cities-climate-30-kmh-roads/)
 - [Citizenship Income Swiss Investigation](https://frontaliereticino.ch/en/swiss-articles/citizenship-income-swiss-investigation/)
 - [Civil Protection Conference Bern](https://frontaliereticino.ch/en/swiss-articles/civil-protection-conference-bern/)
