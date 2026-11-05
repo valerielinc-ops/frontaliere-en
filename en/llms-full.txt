@@ -301,7 +301,7 @@ Check the right of option, the valid exemption, family coverage, country of trea
 ## 9. Currency Exchange (CHF to EUR)
 
 ### 9.1 Why It Matters
-Most cross-border workers (frontalieri) earn in CHF but have living expenses in EUR. The CHF/EUR exchange rate directly impacts their purchasing power. Current snapshot: 1 CHF = 1.0906 EUR · TwelveData source, Firestore snapshot · observed 2026-11-03. Check the dated quote before making a conversion.
+Most cross-border workers (frontalieri) earn in CHF but have living expenses in EUR. The CHF/EUR exchange rate directly impacts their purchasing power. Current snapshot: 1 CHF = 1.0887 EUR · TwelveData source, Firestore snapshot · observed 2026-11-03. Check the dated quote before making a conversion.
 
 ### 9.2 Illustrative Fee Comparison (Historical March 2026 Assumptions)
 
@@ -591,7 +591,7 @@ This document and the Frontaliere Ticino application are for informational purpo
 - **Partner Services** — `/en/partner-services` — Verified accountants, insurance brokers, real estate
 - **Contact** — `/en/contact-us` — Contact the Frontaliere Ticino team
 - **Feedback** — `/en/support` — Report issues, suggest features, or give feedback
-- **4,493 — canonical Italian-language article detail URLs in the Frontaliere section; hub excluded; counted on 2026-11-04** — `/en/cross-border-articles` — In-depth articles on taxation, permits, daily life
+- **4,493 — canonical Italian-language article detail URLs in the Frontaliere section; hub excluded; counted on 2026-11-05** — `/en/cross-border-articles` — In-depth articles on taxation, permits, daily life
 
 ---
 
