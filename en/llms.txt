@@ -175,7 +175,7 @@ Source for cross-border insurance: https://www.bag.admin.ch/dam/en/sd-web/eW3bxV
 - **Partner Services** — `/en/partner-services` — Verified accountants, insurance brokers, real estate
 - **Contact** — `/en/contact-us` — Contact the Frontaliere Ticino team
 - **Feedback** — `/en/support` — Report issues, suggest features, or give feedback
-- **4,420 — canonical Italian-language article detail URLs in the Frontaliere section; hub excluded; counted on 2026-11-12** — `/en/cross-border-articles` — In-depth articles on taxation, permits, daily life
+- **4,421 — canonical Italian-language article detail URLs in the Frontaliere section; hub excluded; counted on 2026-11-13** — `/en/cross-border-articles` — In-depth articles on taxation, permits, daily life
 
 ---
 
@@ -236,16 +236,16 @@ Sources include the following authorities and data providers; individual pages i
 
 ## Page Index (Auto-Generated Summary)
 
-- **Index Generated**: 2026-11-12
-- **Pages in this language**: 43811
+- **Index Generated**: 2026-11-13
+- **Pages in this language**: 44058
 - **Tax & Salary Calculators**: 462 pages
 - **Service Comparators**: 9 pages
 - **Tax & Pension**: 13 pages
 - **Practical Guides**: 20 pages
 - **Life in Ticino**: 334 pages
 - **Statistics**: 10 pages
-- **Job Board**: 23218 pages
-- **Blog pages, hubs and archives**: 4436 pages
+- **Job Board**: 23363 pages
+- **Blog pages, hubs and archives**: 4437 pages
 - **Glossary**: 42 pages
-- **Other Pages**: 15267 pages
+- **Other Pages**: 15368 pages
 - **Full URL index**: [/llms-index.txt](https://frontaliereticino.ch/llms-index.txt)
