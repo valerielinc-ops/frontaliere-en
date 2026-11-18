@@ -237,15 +237,15 @@ Sources include the following authorities and data providers; individual pages i
 ## Page Index (Auto-Generated Summary)
 
 - **Index Generated**: 2026-11-18
-- **Pages in this language**: 47563
+- **Pages in this language**: 47197
 - **Tax & Salary Calculators**: 462 pages
 - **Service Comparators**: 9 pages
 - **Tax & Pension**: 13 pages
 - **Practical Guides**: 20 pages
 - **Life in Ticino**: 334 pages
 - **Statistics**: 10 pages
-- **Job Board**: 26185 pages
+- **Job Board**: 25821 pages
 - **Blog pages, hubs and archives**: 4439 pages
 - **Glossary**: 42 pages
-- **Other Pages**: 16049 pages
+- **Other Pages**: 16047 pages
 - **Full URL index**: [/llms-index.txt](https://frontaliereticino.ch/llms-index.txt)
